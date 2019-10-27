@@ -15,6 +15,7 @@ My research interests lie in data visualization and data cleaning.
        <br>
        - Sept 2018 - Jul 2021 (Expected)
     </li>
+    <br>
     <li>
       <h4>University of Electronic Science and Technology of China</h4> 
       - <b>BEng</b>, School of Information and Software Engineering 
@@ -50,7 +51,7 @@ My research interests lie in data visualization and data cleaning.
         <b>ICDE 2020 (to appear).</b>
       </li> 
       <!--  -->
-      <h3> 2019 </h3>
+      <h4> 2019 </h4>
       <li>
         <a href="#" target="_blank">
           Making Data Visualization More Efficient and Effective: A Survey.
@@ -71,7 +72,7 @@ My research interests lie in data visualization and data cleaning.
         <b>DASFAA 2019. (<U>Best Student Paper Award</U>)</b>
       </li> 
       <!--  -->
-      <h3> 2018 </h3>
+      <h4> 2018 </h4>
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
