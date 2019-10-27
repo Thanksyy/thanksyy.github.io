@@ -96,9 +96,9 @@ My research aims to <i>speed up data analysis by visualization</i>.
 <li>2019 - Huawei Scholarship.</li>
 <li>2019 - Certificate of Outstanding Performance in VLDB Summer School (China).</li>
 <li>2019 - DASFAA 2019 Best Student Paper Award.</li>
-<li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1\%)</li>
-<li>2018 - Outstanding Undergraduate Dissertation, by UESTC. (Top 1\%)</li>
-<li>2017 - National Scholarship, by Chinese Ministry of Education. (Top 0.2\% Nationwide)</li>
+<li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1%)</li>
+<li>2018 - Outstanding Undergraduate Dissertation, by UESTC. (Top 1%)</li>
+<li>2017 - National Scholarship, by Chinese Ministry of Education. (Top 0.2% Nationwide)</li>
 <li>2017 - <b>First Prize Award</b>, National College Student Information Security Contest.</li>
 <li>2016&2015 - The Top-Class People’s Scholarship, by UESTC. (Top 1%)</li>
 <!-- <li>2015 - Top Class People’s Scholarship by UESTC (Top 1%)</li> -->
