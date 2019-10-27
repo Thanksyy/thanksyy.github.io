@@ -32,7 +32,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
 <ol>
     <big><b>Year 2020 </b></big>
       <li>
-        <a href="#" target="_blank">
+        <a>
           Interactive Cleaning for Progressive Visualization through Composite Questions.
         </a>
         <br>
@@ -42,7 +42,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
       </li> 
       <!--  -->
       <li>
-        <a href="#" target="_blank">
+        <a>
           CrowdChart: Crowdsourced Data Extraction from Visualization Charts 
           (Short).
         </a>
@@ -55,7 +55,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
       <br>
       <big> <b>Year 2019 </b> </big>
       <li>
-        <a href="#" target="_blank">
+        <a>
           Making Data Visualization More Efficient and Effective: A Survey.
         </a>
         <br>
@@ -65,7 +65,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
       </li> 
       <!--  -->
       <li>
-        <a href="#" target="_blank">
+        <a href="./files/dasfaa19-gaokao.pdf" target="_blank">
           MathGraph: A Knowledge Graph for Automatically Solving Mathematical Exercises.
         </a>
         <br>
