@@ -4,6 +4,9 @@ I am currently a second year master student of the Department of Computer Scienc
 
 My research interests lie in data visualization and data cleaning.
 
+<p>Yuyu Luo is a second year master student of the Department of Computer Science in the <a href="https://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a>, under the supervision of <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/" target="_blank">Prof. Guoliang Li</a>. Before that, he received the BEng from <a href="http://www.uestc.edu.cn/" target="_blank"> University of Electronic Science and Technology of China</a> in 2018.</p>
+          <p>His main research interests are data visualization and data cleaning. </p>
+          
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
