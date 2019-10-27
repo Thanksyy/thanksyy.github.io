@@ -10,16 +10,20 @@ My research aims to <i>speed up data analysis by visualization</i>.
   <ul>
     <li> 
       <b>Tsinghua University</b> <br>
-       - <b>Master Student</b>, Department of Computer Science and Technology <br> 
-       - Supervisor: 
-       <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/" target="_blank">Prof. Guoliang Li</a>
+       - <b>Master Student</b>, Department of Computer Science and Technology 
+       <br> 
+       - Supervisor: <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/" target="_blank">Prof. Guoliang Li</a>
        <br>
-       - Sept 2018 - Jul 2021 (Expected)
+       - GPA: 3.8/4.0
+       <br>
+       - Sep 2018 - Jun 2021 (Expected)
     </li>
     <br>
     <li>
       <b>University of Electronic Science and Technology of China</b> <br>
       - <b>B.Eng.</b>, School of Information and Software Engineering 
+        <br>
+      - GPA: 3.88/4.0
         <br>
       - Sep 2014 - Jun 2018 
     </li>
