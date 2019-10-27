@@ -76,19 +76,19 @@ My research aims to <i>speed up data analysis by visualization</i>.
       <!--  -->
       <br>
       <big> <b>Year 2018 </b> </big>
-      <li>
-        <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
-        <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
-        <br>
-        <b>SIGMOD 2018. [<a href="http://deepeye.tech">Online Demo</a>]</b>
-      </li>    
-    <!-- Yuyu Luo, Xueqi Qin, Nan Tang, Guoliang Li. DeepEye: Towards Automatic Data Visualization. ICDE 2018.  -->
+  <!-- Yuyu Luo, Xueqi Qin, Nan Tang, Guoliang Li. DeepEye: Towards Automatic Data Visualization. ICDE 2018.  -->
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf" target="_blank">DeepEye: Towards Automatic Data Visualization.</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
         <b>ICDE 2018.</b>
       </li> 
+      <li>
+        <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
+        <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
+        <br>
+        <b>SIGMOD 2018. [<a href="http://deepeye.tech">Online Demo</a>]</b>
+      </li>    
   </ol>
 
 ## Selected Awards
