@@ -8,7 +8,7 @@ My research interests lie in data visualization and data cleaning.
 ## Education
   <ul>
     <li> 
-      <h4>Tsinghua University</h4> 
+      <b>Tsinghua University</b> <br>
        - <b>Master Student</b>, Department of Computer Science and Technology <br> 
        - Supervisor: 
        <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/" target="_blank">Prof. Guoliang Li</a>
@@ -17,7 +17,7 @@ My research interests lie in data visualization and data cleaning.
     </li>
     <br>
     <li>
-      <h4>University of Electronic Science and Technology of China</h4> 
+      <b>University of Electronic Science and Technology of China</b> <br>
       - <b>BEng</b>, School of Information and Software Engineering 
         <br>
       - Sep 2014 - Jun 2018 
@@ -29,7 +29,7 @@ My research interests lie in data visualization and data cleaning.
 
 ## Selected Publications
 <ol>
-    <h4> 2020 </h4>
+    <big> 2020 </big>
       <li>
         <a href="#" target="_blank">
           Interactive Cleaning for Progressive Visualization through Composite Questions.
@@ -51,7 +51,8 @@ My research interests lie in data visualization and data cleaning.
         <b>ICDE 2020 (to appear).</b>
       </li> 
       <!--  -->
-      <h4> 2019 </h4>
+      <br>
+      <big> 2019 </big>
       <li>
         <a href="#" target="_blank">
           Making Data Visualization More Efficient and Effective: A Survey.
@@ -72,7 +73,8 @@ My research interests lie in data visualization and data cleaning.
         <b>DASFAA 2019. (<U>Best Student Paper Award</U>)</b>
       </li> 
       <!--  -->
-      <h4> 2018 </h4>
+      <br>
+      <big> 2018 </big>
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
