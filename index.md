@@ -30,7 +30,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
 
 ## Selected Publications
 <ol>
-    <big> 2020 </big>
+    <big><b>Year 2020 </b></big>
       <li>
         <a href="#" target="_blank">
           Interactive Cleaning for Progressive Visualization through Composite Questions.
@@ -53,7 +53,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
       </li> 
       <!--  -->
       <br>
-      <big> 2019 </big>
+      <big> <b>Year 2019 </b> </big>
       <li>
         <a href="#" target="_blank">
           Making Data Visualization More Efficient and Effective: A Survey.
@@ -75,7 +75,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
       </li> 
       <!--  -->
       <br>
-      <big> 2018 </big>
+      <big> <b>Year 2018 </b> </big>
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
