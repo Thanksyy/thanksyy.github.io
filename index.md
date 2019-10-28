@@ -34,11 +34,11 @@ My research aims to <i>speed up data analysis by visualization</i>.
 
 ## Selected Publications
 <ol>
-    <big><b>Year 2020 </b></big>
+    <big><b>Year 2020 </b></big><hr>
       <li>
-        <a>
+        <b>
           Interactive Cleaning for Progressive Visualization through Composite Questions.
-        </a>
+        </b>
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
@@ -46,10 +46,10 @@ My research aims to <i>speed up data analysis by visualization</i>.
       </li> 
       <!--  -->
       <li>
-        <a>
+        <b>
           CrowdChart: Crowdsourced Data Extraction from Visualization Charts 
           (Short).
-        </a>
+        </b>
         <br>
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
@@ -57,11 +57,11 @@ My research aims to <i>speed up data analysis by visualization</i>.
       </li> 
       <!--  -->
       <br>
-      <big> <b>Year 2019 </b> </big>
+      <big> <b>Year 2019 </b> </big><hr>
       <li>
-        <a>
+        <b>
           Making Data Visualization More Efficient and Effective: A Survey.
-        </a>
+        </b>
         <br>
          Xuedi Qin, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li.
         <br>
@@ -79,7 +79,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
       </li> 
       <!--  -->
       <br>
-      <big> <b>Year 2018 </b> </big>
+      <big> <b>Year 2018 </b> </big><hr>
   <!-- Yuyu Luo, Xueqi Qin, Nan Tang, Guoliang Li. DeepEye: Towards Automatic Data Visualization. ICDE 2018.  -->
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf" target="_blank">DeepEye: Towards Automatic Data Visualization.</a><br/>
