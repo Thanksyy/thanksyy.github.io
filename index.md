@@ -36,9 +36,9 @@ My research aims to <i>speed up data analysis by visualization</i>.
 <ol>
     <big><b>Year 2020 </b></big><hr>
       <li>
-        <b>
+        <a>
           Interactive Cleaning for Progressive Visualization through Composite Questions.
-        </b>
+        </a>
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
@@ -46,10 +46,10 @@ My research aims to <i>speed up data analysis by visualization</i>.
       </li> 
       <!--  -->
       <li>
-        <b>
+        <a>
           CrowdChart: Crowdsourced Data Extraction from Visualization Charts 
           (Short).
-        </b>
+        </a>
         <br>
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
@@ -59,9 +59,9 @@ My research aims to <i>speed up data analysis by visualization</i>.
       <br>
       <big> <b>Year 2019 </b> </big><hr>
       <li>
-        <b>
+        <a>
           Making Data Visualization More Efficient and Effective: A Survey.
-        </b>
+        </a>
         <br>
          Xuedi Qin, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li.
         <br>
