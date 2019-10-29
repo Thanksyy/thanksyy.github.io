@@ -47,6 +47,16 @@ My research aims to <i>speed up data analysis by visualization</i>.
       <!--  -->
       <li>
         <a>
+          Making Data Visualization More Efficient and Effective: A Survey.
+        </a>
+        <br>
+         Xuedi Qin, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li.
+        <br>
+        <b>The VLDB Journal (to appear).</b>
+      </li> 
+      <!--  -->
+      <li>
+        <a>
           CrowdChart: Crowdsourced Data Extraction from Visualization Charts 
           (Short).
         </a>
@@ -58,16 +68,6 @@ My research aims to <i>speed up data analysis by visualization</i>.
       <!--  -->
       <br>
       <big> <b>Year 2019 </b> </big> 
-      <li>
-        <a>
-          Making Data Visualization More Efficient and Effective: A Survey.
-        </a>
-        <br>
-         Xuedi Qin, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li.
-        <br>
-        <b>The VLDB Journal 2019.</b>
-      </li> 
-      <!--  -->
       <li>
         <a href="./files/dasfaa19-gaokao.pdf" target="_blank">
           MathGraph: A Knowledge Graph for Automatically Solving Mathematical Exercises.
