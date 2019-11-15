@@ -1,7 +1,7 @@
 ## About Me
 
 I am Yuyu Luo (骆昱宇 in Chinese), currently a second-year master student in the Department of Computer Science, [Tsinghua University](https://www.tsinghua.edu.cn/). 
-I am a member of [Database Groups](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
+I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
 My research aims to <i>speed up data analysis by visualization</i>.
