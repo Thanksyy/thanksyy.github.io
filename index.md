@@ -60,7 +60,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
       <big> <b>Year 2019 </b> </big> 
       <!--  -->
       <li>
-        <a>
+        <a href="./files/survey-vldbj.pdf" target="_blank">
           Making Data Visualization More Efficient and Effective: A Survey.
         </a>
         <br>
