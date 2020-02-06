@@ -56,6 +56,16 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <b>ICDE 2020 (to appear).</b>
       </li> 
       <!--  -->
+      <li>
+        <a>
+          CrowdChart: Crowdsourced Data Extractionfrom Visualization Charts
+        </a>
+        <br>
+        Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
+        <br>
+        <b>TKDE 2020 (to appear).</b>
+      </li> 
+      <!--  -->
       <br>
       <big> <b>Year 2019 </b> </big> 
       <!--  -->
@@ -110,6 +120,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
 
 ## Professional Services
 <ul>
+<li>2020 - DASFAA 2020 External Reviewer.</li>    
 <li>2019 - IEEE BigData 2019 External Reviewer.</li>
 </ul>
 
