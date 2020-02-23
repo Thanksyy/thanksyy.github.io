@@ -42,7 +42,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
-        <b>ICDE 2020 (to appear).</b>
+        <b>IEEE ICDE 2020 (to appear).</b>
       </li> 
       <!--  -->
       <li>
@@ -53,17 +53,17 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
-        <b>ICDE 2020 (to appear).</b>
+        <b>IEEE ICDE 2020 (to appear).</b>
       </li> 
       <!--  -->
       <li>
         <a>
-          CrowdChart: Crowdsourced Data Extractionfrom Visualization Charts
+          CrowdChart: Crowdsourced Data Extraction from Visualization Charts
         </a>
         <br>
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
-        <b>TKDE 2020 (to appear).</b>
+        <b>IEEE TKDE 2020 (to appear).</b>
       </li> 
       <!--  -->
       <br>
@@ -95,13 +95,13 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf" target="_blank">DeepEye: Towards Automatic Data Visualization.</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
-        <b>ICDE 2018.</b>
+        <b>IEEE ICDE 2018.</b>
       </li> 
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
         <br>
-        <b>SIGMOD 2018. [<a href="http://deepeye.tech">Online Demo</a>]</b>
+        <b>ACM SIGMOD 2018. [<a href="http://deepeye.tech">Online Demo</a>]</b>
       </li>    
   </ol>
 
