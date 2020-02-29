@@ -37,6 +37,15 @@ My research aims to <i>speed up data analysis by visualization</i>.
     <big><b>Year 2020 </b></big> 
       <li>
         <a>
+          Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.
+        </a>
+        <br>
+        Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
+        <br>
+        <b>ACM SIGMOD 2020 (to appear).</b>
+      </li> 
+      <li>
+        <a>
           Interactive Cleaning for Progressive Visualization through Composite Questions.
         </a>
         <br>
@@ -44,10 +53,19 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         <b>IEEE ICDE 2020 (to appear).</b>
       </li> 
-      <!--  -->
+      <!--  --> 
       <li>
         <a>
-          CrowdChart: Crowdsourced Data Extraction from Visualization Charts 
+          Steerable Self-driving Data Visualization.
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Xuedi Qin, Chengliang Chai,  Nan Tang, Guoliang Li, Wenbo Li. 
+        <br>
+        <b>IEEE TKDE 2020 (to appear).</b>
+      </li> 
+      <li>
+        <a>
+          Crowdsourcing Data Extraction from Visualization Chart
           (Short).
         </a>
         <br>
@@ -58,7 +76,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
       <!--  -->
       <li>
         <a>
-          CrowdChart: Crowdsourced Data Extraction from Visualization Charts
+          CrowdChart: Crowdsourced-based Data Extraction from Visualization Chart.
         </a>
         <br>
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
