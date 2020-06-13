@@ -1,16 +1,16 @@
 ## About Me
 
-I am Yuyu Luo (骆昱宇 in Chinese), currently a second-year master student in the Department of Computer Science, [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I am Yuyu Luo (骆昱宇 in Chinese), currently a second-year graduate student in the Department of Computer Science, [Tsinghua University](https://www.tsinghua.edu.cn/). 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
 My research aims to <i>speed up data analysis by visualization</i>.
 
-## Education
-  <ul>
+<!-- ## Education -->
+  <!-- <ul>
     <li> 
       <b>Tsinghua University</b> <br>
-       - <b>Master Student</b>, Department of Computer Science and Technology 
+       - <b>PhD Student</b>, Department of Computer Science and Technology 
        <br> 
        - Supervisor: <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/" target="_blank">Prof. Guoliang Li</a>
        <!-- <br> -->
@@ -27,7 +27,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
       - Sep 2014 - Jun 2018 
     </li>
-  </ul>
+  </ul> -->
 
 
 
