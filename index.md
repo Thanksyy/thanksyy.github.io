@@ -36,13 +36,13 @@ My research aims to <i>speed up data analysis by visualization</i>.
 <ol>
     <big><b>Year 2020 </b></big> 
       <li>
-        <a>
+        <a href="./files/DBExplorer-sigmod20demo.pdf.pdf" target="_blank">
           Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.
         </a>
         <br>
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
         <br>
-        <b>ACM SIGMOD 2020 (to appear).</b>
+        <b>ACM SIGMOD 2020. [<a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">]Video Demonstration</a></b>
       </li> 
       <li>
         <a href="./files/VisClean-ICDE2020.pdf">
@@ -51,7 +51,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
-        <b>IEEE ICDE 2020 (to appear).</b>
+        <b>IEEE ICDE 2020. [<a href="https://www.youtube.com/watch?v=PNXcwb06SLY" target="_blank">]Video</b>
       </li> 
       <!--  --> 
       <li>
@@ -61,7 +61,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         <b>Yuyu Luo</b>, Xuedi Qin, Chengliang Chai,  Nan Tang, Guoliang Li, Wenbo Li. 
         <br>
-        <b>IEEE TKDE 2020 (to appear).</b>
+        <b>IEEE TKDE 2020.</b>
       </li> 
       <li>
         <a>
@@ -71,7 +71,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
-        <b>IEEE ICDE 2020 (to appear).</b>
+        <b>IEEE ICDE 2020.</b>
       </li> 
       <!--  -->
       <li>
@@ -81,7 +81,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
-        <b>IEEE TKDE 2020 (to appear).</b>
+        <b>IEEE TKDE 2020.</b>
       </li> 
       <!--  -->
       <br>
@@ -121,7 +121,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
         <br>
-        <b>ACM SIGMOD 2018. [<a href="http://deepeye.tech">Online Demo</a>]
+        <b>ACM SIGMOD 2018. [<a href="http://deepeye.tech" target="_blank">Online Demo</a>]
         </b>
       </li>    
   </ol>
