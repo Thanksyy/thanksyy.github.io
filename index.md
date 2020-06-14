@@ -36,7 +36,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
 <ol>
     <big><b>Year 2020 </b></big> 
       <li>
-        <a href="./files/DBExplorer-sigmod20demo.pdf.pdf" target="_blank">
+        <a href="./files/DBExplorer-sigmod20demo.pdf" target="_blank">
           Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.
         </a>
         <br>
