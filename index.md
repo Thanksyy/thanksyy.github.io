@@ -42,7 +42,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
         <br>
-        <b>ACM SIGMOD 2020. [<a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">]Video Demonstration</a></b>
+        <b>ACM SIGMOD 2020. <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a></b>
       </li> 
       <li>
         <a href="./files/VisClean-ICDE2020.pdf">
@@ -51,7 +51,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
-        <b>IEEE ICDE 2020. [<a href="https://www.youtube.com/watch?v=PNXcwb06SLY" target="_blank">]Video</b>
+        <b>IEEE ICDE 2020. <a href="https://www.youtube.com/watch?v=PNXcwb06SLY" target="_blank">[Video]</a></b>
       </li> 
       <!--  --> 
       <li>
