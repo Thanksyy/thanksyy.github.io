@@ -36,6 +36,24 @@ My research aims to <i>speed up data analysis by visualization</i>.
 <ol>
     <big><b>Year 2020 </b></big> 
       <li>
+        <a href="./files/VLDB20-DeepTrack.pdf" target="_blank">
+          DeepTrack: Monitoring and Exploring Spatio-Temporal Data – A Case of Tracking COVID-19 –.
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Wenbo Li, Guoliang Li,  Nan Tang
+        <br>
+        <b>VLDB 2020. <a href="https://ncov.deepeye.tech/en" target="_blank">[System]</a></b>
+      </li> 
+      <li>
+        <a href="./files/VLDB20-VisClean.pdf" target="_blank">
+          VisClean: Interactive Cleaning for Progressive Visualization.
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin,  Nan Tang, Guoliang Li. 
+        <br>
+        <b>VLDB 2020 (Demo). <a href="https://youtu.be/eqsw7L8iRFE" target="_blank">[Video Demonstration]</a></b>
+      </li> 
+      <li>
         <a href="./files/DBExplorer-sigmod20demo.pdf" target="_blank">
           Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.
         </a>
