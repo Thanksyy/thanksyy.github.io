@@ -42,7 +42,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <br>
         <b>Yuyu Luo</b>, Wenbo Li, Guoliang Li,  Nan Tang
         <br>
-        <b>VLDB 2020. <a href="https://ncov.deepeye.tech/en" target="_blank">[System]</a></b>
+        <b>VLDB 2020. <a href="https://ncov.deepeye.tech/en" target="_blank">[Online Demo]</a></b>
       </li> 
       <li>
         <a href="./files/VLDB20-VisClean.pdf" target="_blank">
@@ -132,7 +132,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
         <b>IEEE ICDE 2018. 
-        [<a href="https://github.com/Thanksyy/DeepEye-APIs">Core Code (Python3)</a>]
+        [<a href="https://github.com/Thanksyy/DeepEye-APIs">DeepEye-APIs (Python3.6)</a>]
           </b>
       </li> 
       <li>
