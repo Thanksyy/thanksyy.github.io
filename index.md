@@ -37,7 +37,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
     <big><b>Year 2020 </b></big> 
       <li>
         <a href="./files/VLDB20-DeepTrack.pdf" target="_blank">
-          DeepTrack: Monitoring and Exploring Spatio-Temporal Data – A Case of Tracking COVID-19 –.
+          DeepTrack: Monitoring and Exploring Spatio-Temporal Data <br> – A Case of Tracking COVID-19 –.
         </a>
         <br>
         <b>Yuyu Luo</b>, Wenbo Li, Guoliang Li,  Nan Tang
