@@ -152,7 +152,7 @@ My research aims to <i>speed up data analysis by visualization</i>.
 <li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1%)</li>
 <li>2018 - Outstanding Undergraduate Dissertation, by UESTC. (Top 1%)</li>
 <li>2017 - National Scholarship, by Chinese Ministry of Education. (Top 2% Nationwide)</li>
-<li>2017 - <b>First Prize Award</b>, National College Student Information Security Contest.</li>
+<li>2017 - <i>First Prize Award</i>, National College Student Information Security Contest.</li>
 <li>2016&2015 - The Top-Class People’s Scholarship, by UESTC. (Top 1%)</li>
 <!-- <li>2015 - Top Class People’s Scholarship by UESTC (Top 1%)</li> -->
 </ul>
