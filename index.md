@@ -139,7 +139,9 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
         <br>
-        <b>ACM SIGMOD 2018. [<a href="http://deepeye.tech" target="_blank">Online Demo</a>]
+        <b>ACM SIGMOD 2018. 
+        [<a href="http://da.qcri.org/ntang/smartdata.html" target="_blank">Project Page</a>]
+        [<a href="http://deepeye.tech" target="_blank">Online Demo</a>]
         </b>
       </li>    
   </ol>
