@@ -158,7 +158,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 ## Selected Awards
 <ul>
 <li>2019 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li>
-<li>2019 - Huawei Scholarship.</li>
+<!-- <li>2019 - Huawei Scholarship.</li> -->
 <li>2019 - Excellent Paper Award – Big Data Mining and Analytics.</li>
 <li>2019 - DASFAA 2019 Best Student Paper Award.</li>
 <li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1%)</li>
