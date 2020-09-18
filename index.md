@@ -4,7 +4,7 @@ I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year PhD student in the 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
-My research aims to <i>speed up data analysis by visualization</i>.
+My research aims to “<i>Speeding up Data Analysis</i>” by building systems (tools) to simplify data analysis pipeline, i.e., assisting users to leverage and make sense of their datasets more easily, efficiently, and effectively.
 
 <!-- ## Education -->
   <!-- <ul>
@@ -54,15 +54,6 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <b>VLDB 2020 (Demo). <a href="https://youtu.be/eqsw7L8iRFE" target="_blank">[Video Demonstration]</a></b>
       </li> 
       <li>
-        <a href="./files/DBExplorer-sigmod20demo.pdf" target="_blank">
-          Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.
-        </a>
-        <br>
-        Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
-        <br>
-        <b>ACM SIGMOD 2020. <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a></b>
-      </li> 
-      <li>
         <a href="./files/VisClean-ICDE2020.pdf">
           Interactive Cleaning for Progressive Visualization through Composite Questions.
         </a>
@@ -80,6 +71,24 @@ My research aims to <i>speed up data analysis by visualization</i>.
         <b>Yuyu Luo</b>, Xuedi Qin, Chengliang Chai,  Nan Tang, Guoliang Li, Wenbo Li. 
         <br>
         <b>IEEE TKDE 2020.</b>
+      </li> 
+      <li>
+        <a href="./files/SIGMOD20-HOD.pdf" target="_blank">
+          Human-in-the-loop Outlier Detection
+        </a>
+        <br>
+        Chengliang Chai, Lei Cao, Guoliang Li, Jian Li, <b>Yuyu Luo</b>, Samuel Madden.
+        <br>
+        <b>ACM SIGMOD 2020.</b>
+      </li> 
+      <li>
+        <a href="./files/DBExplorer-sigmod20demo.pdf" target="_blank">
+          Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.
+        </a>
+        <br>
+        Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
+        <br>
+        <b>ACM SIGMOD 2020. <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a></b>
       </li> 
       <li>
         <a>
