@@ -92,7 +92,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
       </li> 
       <li>
         <a>
-          Crowdsourcing Data Extraction from Visualization Chart
+          Crowdsourcing-based Data Extraction from Visualization Charts
           (Short).
         </a>
         <br>
