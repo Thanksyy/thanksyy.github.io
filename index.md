@@ -51,7 +51,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin,  Nan Tang, Guoliang Li. 
         <br>
-        <b>VLDB 2020 (Demo). <a href="https://youtu.be/eqsw7L8iRFE" target="_blank">[Video Demonstration]</a></b>
+        <b>VLDB 2020. <a href="https://youtu.be/eqsw7L8iRFE" target="_blank">[Video Demonstration]</a></b>
       </li> 
       <li>
         <a href="./files/VisClean-ICDE2020.pdf">
