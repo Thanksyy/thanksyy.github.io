@@ -157,13 +157,14 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 
 ## Selected Awards
 <ul>
-<li>2019 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li>
+<li>2020 - China National Scholarship, by Chinese Ministry of Education.</li>
+<li>2019 - Comprehensive Excellent First-Class Scholarship, by Tsinghua.</li>
 <!-- <li>2019 - Huawei Scholarship.</li> -->
 <li>2019 - Excellent Paper Award – Big Data Mining and Analytics.</li>
 <li>2019 - DASFAA 2019 Best Student Paper Award.</li>
 <li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1%)</li>
 <li>2018 - Outstanding Undergraduate Dissertation, by UESTC. (Top 1%)</li>
-<li>2017 - National Scholarship, by Chinese Ministry of Education. (Top 2% Nationwide)</li>
+<li>2017 - China National Scholarship, by Chinese Ministry of Education. (Top 2% Nationwide)</li>
 <li>2017 - <i>First Prize Award</i>, National College Student Information Security Contest.</li>
 <li>2016&2015 - The Top-Class People’s Scholarship, by UESTC. (Top 1%)</li>
 <!-- <li>2015 - Top Class People’s Scholarship by UESTC (Top 1%)</li> -->
