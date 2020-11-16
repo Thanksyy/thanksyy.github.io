@@ -157,7 +157,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 
 ## Selected Awards
 <ul>
-<!-- <li>2020 - Microsoft Research Asia Fellowship Nomination Award.</li> -->
+<li>2020 - Microsoft Research Asia Fellowship Nomination Award. (15 students from Asia-Pacific region)</li>
 <li>2020 - China National Scholarship, Ministry of Education of China.</li>
 <li>2019 - Comprehensive Excellent First-Class Scholarship, by Tsinghua.</li>
 <!-- <li>2019 - Huawei Scholarship.</li> -->
