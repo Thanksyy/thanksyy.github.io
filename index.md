@@ -34,6 +34,16 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 
 ## Selected Publications
 <ol>
+    <big><b>Year 2021 </b></big> 
+      <li>
+        <a href="" target="_blank">
+          Ranking Desired Tuples by Database Exploration
+        </a>
+        <br>
+        Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Tianyu Zhao, Nan Tang, Guoliang Li, Jianhua Feng, Xiang Yu, Mourad Ouzzani. 
+        <br>
+        <b>ICDE 2021.</b>
+      </li> 
     <big><b>Year 2020 </b></big> 
       <li>
         <a href="./files/VLDB20-DeepTrack.pdf" target="_blank">
@@ -162,15 +172,15 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 </li>
 <li>2020 - Microsoft Research Asia Fellowship Nomination Award. <br> (<i>15 students from Asia-Pacific region</i>)</li>
 <li>2020 - China National Scholarship, Ministry of Education of China.</li>
-<li>2019 - Comprehensive Excellent First-Class Scholarship, by Tsinghua.</li>
+<li>2019 - Comprehensive Excellent First-Class Scholarship, Tsinghua University.</li>
 <!-- <li>2019 - Huawei Scholarship.</li> -->
 <li>2019 - Excellent Paper Award – Big Data Mining and Analytics.</li>
 <li>2019 - DASFAA 2019 Best Paper Award.</li>
 <li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1%)</li>
-<li>2018 - Outstanding Undergraduate Dissertation, by UESTC. (Top 1%)</li>
-<li>2017 - China National Scholarship, Ministry of Education of China. (Top 2% Nationwide)</li>
+<li>2018 - Outstanding Undergraduate Dissertation, UESTC. (Top 1%)</li>
+<li>2017 - China National Scholarship, Ministry of Education of China.</li>
 <li>2017 - <i>First Prize Award</i>, National College Student Information Security Contest.</li>
-<li>2016&2015 - The Top-Class People’s Scholarship, by UESTC. (Top 1%)</li>
+<li>2016&2015 - The Top-Class People’s Scholarship, UESTC. (Top 1%)</li>
 <!-- <li>2015 - Top Class People’s Scholarship by UESTC (Top 1%)</li> -->
 </ul>
 
