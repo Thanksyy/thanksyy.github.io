@@ -44,6 +44,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>ICDE 2021.</b>
       </li> 
+      <br>
     <big><b>Year 2020 </b></big> 
       <li>
         <a href="./files/VLDB20-DeepTrack.pdf" target="_blank">
@@ -140,7 +141,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         Tianyu Zhao, Yan Huang, Songfan Yang, <b>Yuyu Luo</b>, et al.
         <br>
-        <b>DASFAA 2019. (<U>Best Student Paper Award</U>)</b>
+        <b>DASFAA 2019. (<U>Best Paper Award</U>)</b>
       </li> 
       <!--  -->
       <br>
