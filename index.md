@@ -1,6 +1,6 @@
 ## About Me
 
-I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year Ph.D. student in the Department of Computer Science, [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year Ph.D. student in the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
@@ -157,6 +157,8 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 
 ## Selected Awards
 <ul>
+<li>2020 - Zhong Shimo Scholarship (钟士模奖学金), Tsinghua University. 
+<br> (<i>The highest award in the Department of CST. Only 6 students (including undergraduate, master and Ph.D. students) are awarded this year.</i>)</li>
 <li>2020 - Microsoft Research Asia Fellowship Nomination Award. <br> (<i>15 students from Asia-Pacific region</i>)</li>
 <li>2020 - China National Scholarship, Ministry of Education of China.</li>
 <li>2019 - Comprehensive Excellent First-Class Scholarship, by Tsinghua.</li>
