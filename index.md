@@ -1,6 +1,6 @@
 ## About Me
 
-I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year Ph.D. student in the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year graduate student in the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
@@ -177,11 +177,11 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 <!-- <li>2019 - Huawei Scholarship.</li> -->
 <li>2019 - Excellent Paper Award – Big Data Mining and Analytics.</li>
 <li>2019 - DASFAA 2019 Best Paper Award.</li>
-<li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1%)</li>
+<!-- <li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1%)</li>
 <li>2018 - Outstanding Undergraduate Dissertation, UESTC. (Top 1%)</li>
 <li>2017 - China National Scholarship, Ministry of Education of China.</li>
 <li>2017 - <i>First Prize Award</i>, National College Student Information Security Contest.</li>
-<li>2016&2015 - The Top-Class People’s Scholarship, UESTC. (Top 1%)</li>
+<li>2016&2015 - The Top-Class People’s Scholarship, UESTC. (Top 1%)</li> -->
 <!-- <li>2015 - Top Class People’s Scholarship by UESTC (Top 1%)</li> -->
 </ul>
 
