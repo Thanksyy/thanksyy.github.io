@@ -53,7 +53,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>Yuyu Luo</b>, Wenbo Li, Guoliang Li,  Nan Tang
         <br>
-        <b>VLDB 2020. <a href="https://ncov.deepeye.tech/en" target="_blank">[Online Demo]</a></b>
+        <b>VLDB 2020.</b>
       </li> 
       <li>
         <a href="./files/VLDB20-VisClean.pdf" target="_blank">
