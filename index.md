@@ -36,13 +36,23 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 <ol>
     <big><b>Year 2021 </b></big> 
       <li>
-        <a href="" target="_blank">
+        <!-- <a href="" target="_blank"> -->
+          Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks
+        <!-- </a> -->
+        <br>
+        <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Chengliang Chai, Wenbo Li, Xuedi Qin 
+        <br>
+        <b>ACM SIGMOD Conference on Management of Data (SIGMOD), Xi'an, China, 2021</b>
+      </li> 
+      <br>
+      <li>
+        <!-- <a href="" target="_blank"> -->
           Ranking Desired Tuples by Database Exploration
-        </a>
+        <!-- </a> -->
         <br>
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Tianyu Zhao, Nan Tang, Guoliang Li, Jianhua Feng, Xiang Yu, Mourad Ouzzani. 
         <br>
-        <b>ICDE 2021.</b>
+        <b>The 37th IEEE International Conference on Data Engineering (ICDE), Chania, Crete, Greece, 2021</b>
       </li> 
       <br>
     <big><b>Year 2020 </b></big> 
