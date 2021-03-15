@@ -36,9 +36,9 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 <ol>
     <big><b>Year 2021 </b></big> 
       <li>
-        <!-- <a href="" target="_blank"> -->
+        <a href="" target="_blank">
           Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks
-        <!-- </a> -->
+        </a>
         <br>
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Chengliang Chai, Wenbo Li, Xuedi Qin 
         <br>
@@ -46,9 +46,9 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
       </li> 
       <br>
       <li>
-        <!-- <a href="" target="_blank"> -->
+        <a href="" target="_blank">
           Ranking Desired Tuples by Database Exploration
-        <!-- </a> -->
+        </a>
         <br>
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Tianyu Zhao, Nan Tang, Guoliang Li, Jianhua Feng, Xiang Yu, Mourad Ouzzani. 
         <br>
