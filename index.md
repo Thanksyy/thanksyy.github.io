@@ -55,6 +55,15 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <b>The 37th IEEE International Conference on Data Engineering (ICDE), Chania, Crete, Greece, 2021</b>
       </li> 
       <br>
+      <li>
+        <a href="" target="_blank">
+          Automatic Data Acquisition for Deep Learning
+        </a>
+        <br>
+        Jiabin Liu, Fu Zhu, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang.
+        <br>
+        <b>VLDB 2021, Demonstration Track</b>
+      </li> 
     <big><b>Year 2020 </b></big> 
       <li>
         <a href="./files/VLDB20-DeepTrack.pdf" target="_blank">
