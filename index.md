@@ -123,7 +123,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <b>ACM SIGMOD 2020. <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a></b>
       </li> 
       <li>
-        <a>
+        <a href="./files/ICDE20-Chart.pdf" target="_blank">
           Crowdsourcing-based Data Extraction from Visualization Charts
           (Short).
         </a>
@@ -134,7 +134,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
       </li> 
       <!--  -->
       <li>
-        <a>
+        <a href="./files/TKDE20-Chart.pdf" target="_blank">
           CrowdChart: Crowdsourced-based Data Extraction from Visualization Chart.
         </a>
         <br>
