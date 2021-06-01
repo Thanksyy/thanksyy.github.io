@@ -42,7 +42,8 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Chengliang Chai, Wenbo Li, Xuedi Qin 
         <br>
-        <b>ACM SIGMOD Conference on Management of Data (SIGMOD), Xi'an, China, 2021</b>
+        <b>ACM SIGMOD 2021</b>
+        <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b>
       </li> 
       <br>
       <li>
