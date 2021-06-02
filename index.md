@@ -1,6 +1,6 @@
 ## About Me
 
-I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year graduate student in the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year PhD student in the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
@@ -123,6 +123,15 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <b>ACM SIGMOD 2020. <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a></b>
       </li> 
       <li>
+        <a href="./files/DEBulletin_COVID19.pdf">
+          DEEPEYE: A Data Science System for Monitoring and Exploring COVID-19 Data.
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Tianyu Zhao, Wenbo Li, Xiang Yu. 
+        <br>
+        <b>IEEE Data Engineering Bulletin, 2020. <span color="red">(invited)</span></b>
+      </li> 
+      <li>
         <a href="./files/ICDE20-Chart.pdf" target="_blank">
           Crowdsourcing-based Data Extraction from Visualization Charts
           (Short).
@@ -189,6 +198,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 
 ## Selected Awards
 <ul>
+<li>2020 - Tsinghua Top Grade Scholarship <a href="https://news.tsinghua.edu.cn/info/1006/84092.htm">(清华大学特等奖学金）</a></li>
 <li>2020 - Zhong Shimo Scholarship (钟士模奖学金), Tsinghua University. 
 <br> (<i>The highest award in the Dept. of CST. Only 6 students, including undergraduate, master and Ph.D. students, are awarded this year.</i>)
 </li>
