@@ -129,7 +129,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Tianyu Zhao, Wenbo Li, Xiang Yu. 
         <br>
-        <b>IEEE Data Engineering Bulletin, 2020. <span color="red">(invited)</span></b>
+        <b>IEEE Data Engineering Bulletin, 2020. <a>(invited)</a></b>
       </li> 
       <li>
         <a href="./files/ICDE20-Chart.pdf" target="_blank">
@@ -179,6 +179,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
   <!-- Yuyu Luo, Xueqi Qin, Nan Tang, Guoliang Li. DeepEye: Towards Automatic Data Visualization. ICDE 2018.  -->
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf" target="_blank">DeepEye: Towards Automatic Data Visualization.</a><br/>
+        <b><a href="https://academic.microsoft.com/search?q=icde%202018&f=Composite(C.CId%3D1163988186)&eyl=Y%3C%3D2021&syl=Y%3E%3D2018&orderBy=3">Top-3 Most Cited Papers (ICDE 2018-2021)</a></b> <br>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
         <b>IEEE ICDE 2018. 
@@ -198,7 +199,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 
 ## Selected Awards
 <ul>
-<li>2020 - Tsinghua Top Grade Scholarship <a href="https://news.tsinghua.edu.cn/info/1006/84092.htm">(清华大学特等奖学金）</a></li>
+<li>2020 - Tsinghua Top Grade Scholarship <a href="https://news.tsinghua.edu.cn/info/1006/84092.htm">(清华大学特等奖学金）.</a></li>
 <li>2020 - Zhong Shimo Scholarship (钟士模奖学金), Tsinghua University. 
 <br> (<i>The highest award in the Dept. of CST. Only 6 students, including undergraduate, master and Ph.D. students, are awarded this year.</i>)
 </li>
