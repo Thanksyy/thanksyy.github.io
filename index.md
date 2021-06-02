@@ -179,7 +179,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
   <!-- Yuyu Luo, Xueqi Qin, Nan Tang, Guoliang Li. DeepEye: Towards Automatic Data Visualization. ICDE 2018.  -->
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf" target="_blank">DeepEye: Towards Automatic Data Visualization.</a><br/>
-        <b><a href="https://academic.microsoft.com/search?q=icde%202018&f=Composite(C.CId%3D1163988186)&eyl=Y%3C%3D2021&syl=Y%3E%3D2018&orderBy=3">Top-3 Most Cited Papers (ICDE 2018-2021)</a></b> <br>
+        <a href="https://academic.microsoft.com/search?q=icde%202018&f=Composite(C.CId%3D1163988186)&eyl=Y%3C%3D2021&syl=Y%3E%3D2018&orderBy=3">Top-3 Most Cited Papers (ICDE 2018-2021)</a> <br>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
         <b>IEEE ICDE 2018. 
