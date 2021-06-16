@@ -36,14 +36,14 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 <ol>
     <big><b>Year 2021 </b></big> 
       <li>
-        <a href="./files/nvBench-SIGMOD21.pdf" target="_blank">
+        <!-- <a href="./files/nvBench-SIGMOD21.pdf" target="_blank"> -->
           Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks
-        </a>
+        <!-- </a> -->
         <br>
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Chengliang Chai, Wenbo Li, Xuedi Qin 
         <br>
         <b>ACM SIGMOD 2021</b>
-        <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b>
+        <!-- <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b> -->
       </li> 
       <br>
       <li>
