@@ -36,7 +36,9 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 <ol>
     <big><b>Year 2021 </b></big> 
       <li>
+      <a href="" target="_blank">
             Natural Language to Visualization by Neural Machine Translation
+            </a>
           <br>
           <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin 
           <br>
@@ -66,7 +68,9 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
       </li> 
       <br>
       <li>
+      <a href="" target="_blank">
           Automatic Data Acquisition for Deep Learning
+          </a>
         <br>
         Jiabin Liu, Fu Zhu, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang.
         <br>
