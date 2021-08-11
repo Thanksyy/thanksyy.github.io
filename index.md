@@ -36,7 +36,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 <ol>
     <big><b>Year 2021 </b></big> 
       <li>
-      <a href="" target="_blank">
+      <a href="./files/ncNet-VIS21.pdf" target="_blank">
             Natural Language to Visualization by Neural Machine Translation
             </a>
           <br>
@@ -57,7 +57,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b>
       </li> 
       <br>
-      <li>
+      <!-- <li>
         <a href="./files/icde21-data.pdf" target="_blank">
           Ranking Desired Tuples by Database Exploration
         </a>
@@ -67,8 +67,8 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <b>The 37th IEEE International Conference on Data Engineering (ICDE), Chania, Crete, Greece, 2021</b>
       </li> 
       <br>
-      <li>
-      <a href="" target="_blank">
+      <li> -->
+      <!-- <a href="" target="_blank">
           Automatic Data Acquisition for Deep Learning
           </a>
         <br>
@@ -76,7 +76,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>VLDB 2021, Demonstration Track</b>
       </li> 
-      <br>
+      <br> -->
     <big><b>Year 2020 </b></big> 
       <li>
         <a href="./files/VLDB20-DeepTrack.pdf" target="_blank">
@@ -115,7 +115,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>IEEE TKDE 2020.</b>
       </li> 
-      <li>
+      <!-- <li>
         <a href="./files/SIGMOD20-HOD.pdf" target="_blank">
           Human-in-the-loop Outlier Detection
         </a>
@@ -132,7 +132,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
         <br>
         <b>ACM SIGMOD 2020. <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a></b>
-      </li> 
+      </li>  -->
       <li>
         <a href="./files/DEBulletin_COVID19.pdf">
           DEEPEYE: A Data Science System for Monitoring and Exploring COVID-19 Data.
@@ -142,7 +142,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>IEEE Data Engineering Bulletin, 2020. <a>(invited)</a></b>
       </li> 
-      <li>
+      <!-- <li>
         <a href="./files/ICDE20-Chart.pdf" target="_blank">
           Crowdsourcing-based Data Extraction from Visualization Charts
           (Short).
@@ -151,9 +151,9 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
         <b>IEEE ICDE 2020.</b>
-      </li> 
+      </li>  -->
       <!--  -->
-      <li>
+      <!-- <li>
         <a href="./files/TKDE20-Chart.pdf" target="_blank">
           CrowdChart: Crowdsourced-based Data Extraction from Visualization Chart.
         </a>
@@ -161,7 +161,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
         <b>IEEE TKDE 2020.</b>
-      </li> 
+      </li>  -->
       <!--  -->
       <br>
       <big> <b>Year 2019 </b> </big> 
