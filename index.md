@@ -4,7 +4,8 @@ I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year PhD student in the 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
-My research aims to “<i>Speeding up Data Analysis</i>” by building systems (tools) to simplify data analysis pipeline, i.e., assisting users to leverage and make sense of their datasets more easily, efficiently, and effectively.
+My research mission is “<i>Democratizing Relational Data Visualization</i>” by building systems (tools) to simplify the visual data analysis pipeline, i.e., assisting users (especially novices) to leverage and make sense of their datasets more easily, efficiently, and effectively.
+
 
 <!-- ## Education -->
   <!-- <ul>
