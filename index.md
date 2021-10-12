@@ -35,17 +35,7 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
 ## Selected Publications
 <ol>
     <big><b>Year 2021 </b></big> 
-      <li>
-      <a href="./files/ncNet-VIS21.pdf" target="_blank">
-            Natural Language to Visualization by Neural Machine Translation
-            </a>
-          <br>
-          <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin 
-          <br>
-          <b>IEEE VIS 2021</b>
-          <!-- <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b> -->
-        </li> 
-        <br>
+    <br>
       <li>
         <a href="./files/nvBench-SIGMOD21.pdf" target="_blank">
           Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks
@@ -55,6 +45,38 @@ My research aims to “<i>Speeding up Data Analysis</i>” by building systems (
         <br>
         <b>ACM SIGMOD 2021</b>
         <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b>
+      </li> 
+      <br>
+      <li>
+      <a href="./files/ncNet-VIS21.pdf" target="_blank">
+            Natural Language to Visualization by Neural Machine Translation
+            </a>
+          <br>
+          <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin 
+          <br>
+          <b>IEEE VIS 2021</b>
+          <!-- <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b> -->
+      </li> 
+        <br>
+      <li>
+        <a href="#">
+           Empowering Natural Language to Visualization Neural Translation using Synthesized Benchmarks
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Jiawei Tang, Guoliang Li, Chengliang Chai 
+        <br>
+        <b>IEEE VIS 2021</b>
+        <b><a href = "./files/vis21-poster.pdf" target="_blank">[Poster]</a></b>
+      </li> 
+      <br>
+      <li>
+        <a href = "./files/vis21-workshop.pdf" target="_blank">
+           nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Jiawei Tang, Guoliang Li, Chengliang Chai 
+        <br>
+        <b>Workshop on NL VIZ 2021 at IEEE VIS 2021</b>
       </li> 
       <br>
       <!-- <li>
