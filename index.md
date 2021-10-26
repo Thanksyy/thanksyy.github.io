@@ -44,7 +44,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Chengliang Chai, Wenbo Li, Xuedi Qin 
         <br>
         <b>ACM SIGMOD 2021</b>
-        <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b>
+        <b>[<a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">Project Page</a>]</b>
       </li> 
       <br>
       <li>
@@ -55,7 +55,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
           <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin 
           <br>
           <b>IEEE VIS 2021</b>
-          <!-- <b><a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">[Project Page]</a></b> -->
+          <b>[<a href = "https://github.com/Thanksyy/ncNet" target="_blank">Code</a>]</b>
       </li> 
         <br>
       <li>
@@ -66,7 +66,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>Yuyu Luo</b>, Jiawei Tang, Guoliang Li, Chengliang Chai 
         <br>
         <b>IEEE VIS 2021</b>
-        <b><a href = "./files/vis21-poster.pdf" target="_blank">[Poster]</a></b>
+        <b>[<a href = "./files/vis21-poster.pdf" target="_blank">Poster</a>]</b>
       </li> 
       <br>
       <li>
@@ -224,7 +224,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
         <br>
         <b>ACM SIGMOD 2018. 
-        [<a href="http://da.qcri.org/ntang/smartdata.html" target="_blank">Project Page</a>]
+        <!-- [<a href="http://da.qcri.org/ntang/smartdata.html" target="_blank">Project Page</a>] -->
         [<a href="http://deepeye.tech" target="_blank">Online Demo</a>]
         </b>
       </li>    
