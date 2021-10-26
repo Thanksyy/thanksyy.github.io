@@ -44,7 +44,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Chengliang Chai, Wenbo Li, Xuedi Qin 
         <br>
         <b>ACM SIGMOD 2021</b>
-        <b>[<a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">Project Page</a>]</b>
+        [<a href = "https://github.com/TsinghuaDatabaseGroup/nvBench" target="_blank">Project Page</a>]
       </li> 
       <br>
       <li>
@@ -55,7 +55,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
           <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin 
           <br>
           <b>IEEE VIS 2021</b>
-          <b>[<a href = "https://github.com/Thanksyy/ncNet" target="_blank">Code</a>]</b>
+          [<a href = "https://github.com/Thanksyy/ncNet" target="_blank">Code</a>]
       </li> 
         <br>
       <li>
@@ -66,7 +66,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>Yuyu Luo</b>, Jiawei Tang, Guoliang Li, Chengliang Chai 
         <br>
         <b>IEEE VIS 2021</b>
-        <b>[<a href = "./files/vis21-poster.pdf" target="_blank">Poster</a>]</b>
+        [<a href = "./files/vis21-poster.pdf" target="_blank">Poster</a>]
       </li> 
       <br>
       <li>
@@ -116,7 +116,8 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin,  Nan Tang, Guoliang Li. 
         <br>
-        <b>VLDB 2020. <a href="https://youtu.be/eqsw7L8iRFE" target="_blank">[Video Demonstration]</a></b>
+        <b>VLDB 2020. </b>
+        <a href="https://youtu.be/eqsw7L8iRFE" target="_blank">[Video Demonstration]</a>
       </li> 
       <li>
         <a href="./files/VisClean-ICDE2020.pdf">
@@ -125,7 +126,8 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
-        <b>IEEE ICDE 2020. <a href="https://www.youtube.com/watch?v=PNXcwb06SLY" target="_blank">[Video]</a></b>
+        <b>IEEE ICDE 2020.</b>
+        <a href="https://www.youtube.com/watch?v=PNXcwb06SLY" target="_blank">[Video]</a>
       </li> 
       <!--  --> 
       <li>
@@ -162,7 +164,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <br>
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Tianyu Zhao, Wenbo Li, Xiang Yu. 
         <br>
-        <b>IEEE Data Engineering Bulletin, 2020. <a>(invited)</a></b>
+        <b>IEEE Data Engineering Bulletin, 2020. </b> <a>(invited)</a>
       </li> 
       <!-- <li>
         <a href="./files/ICDE20-Chart.pdf" target="_blank">
@@ -215,18 +217,16 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <a href="https://academic.microsoft.com/search?q=icde%202018&f=Composite(C.CId%3D1163988186)&eyl=Y%3C%3D2021&syl=Y%3E%3D2018&orderBy=3">Top-2 Most Cited Papers (ICDE 2018-2021)</a> <br>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
-        <b>IEEE ICDE 2018. 
+        <b>IEEE ICDE 2018. </b>
         [<a href="https://github.com/Thanksyy/DeepEye-APIs">DeepEye-APIs (Python3.6)</a>]
-          </b>
       </li> 
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
         <br>
         <b>ACM SIGMOD 2018. 
-        <!-- [<a href="http://da.qcri.org/ntang/smartdata.html" target="_blank">Project Page</a>] -->
-        [<a href="http://deepeye.tech" target="_blank">Online Demo</a>]
         </b>
+        [<a href="http://deepeye.tech" target="_blank">Online Demo</a>]
       </li>    
   </ol>
 
