@@ -236,7 +236,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
 <li>2020 - Zhong Shimo Scholarship (钟士模奖学金), Tsinghua University. 
 <br> (<i>The highest award in the Dept. of CST.</i>)
 </li>
-<li>2020 - Microsoft Research Asia Fellowship Nomination Award. <br> (<i>15 students from Asia-Pacific region</i>)</li>
+<!-- <li>2020 - Microsoft Research Asia Fellowship Nomination Award. <br> (<i>15 students from Asia-Pacific region</i>)</li> -->
 <li>2020 - China National Scholarship, Ministry of Education of China.</li>
 <li>2019 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li>
 <!-- <li>2019 - Huawei Scholarship.</li> -->
