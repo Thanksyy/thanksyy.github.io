@@ -74,7 +74,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
            nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task
         </a>
         <br>
-        <b>Yuyu Luo</b>, Jiawei Tang, Guoliang Li, Chengliang Chai 
+        <b>Yuyu Luo</b>, Jiawei Tang, Guoliang Li
         <br>
         <b>Workshop on NL VIZ 2021 at IEEE VIS 2021</b>
       </li> 
