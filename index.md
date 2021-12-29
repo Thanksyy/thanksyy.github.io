@@ -36,7 +36,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
 <ol>
     <big><b>Year 2022 </b></big>
      <li>
-        <a href="">
+        <a href="./files/DeepEye-TKDE.pdf" target="_blank">
           Steerable Self-driving Data Visualization.
         </a>
         <br>
