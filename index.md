@@ -253,7 +253,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
 
 ## Professional Services
 <ul>
-<li>Reviewer - IEEE VIS 2021, EuroVIS 2022, CHI 2022, IEEE BigData, ACM/IMS TDS.</li>    
+<li>Reviewer - IEEE VIS 2021, EuroVis 2022, CHI 2022, IEEE BigData, ACM/IMS TDS.</li>    
 <li>Conference Volunteers - SIGMOD 2021.</li>
 </ul>
 
