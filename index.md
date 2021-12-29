@@ -66,10 +66,10 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
           <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin 
           <br>
           <b>IEEE VIS 2021 </b>
-          [<a href = "https://github.com/Thanksyy/ncNet" target="_blank">Code</a>]
+          [<a href = "https://github.com/Thanksyy/ncNet" target="_blank">Code</a>] [<a href = "./files/vis21-poster.pdf" target="_blank">Poster</a>]
       </li> 
         <br>
-      <li>
+      <!-- <li>
         <a href="#">
            Empowering Natural Language to Visualization Neural Translation using Synthesized Benchmarks
         </a>
@@ -79,7 +79,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>IEEE VIS 2021</b>
         [<a href = "./files/vis21-poster.pdf" target="_blank">Poster</a>]
       </li> 
-      <br>
+      <br> -->
       <li>
         <a href = "https://static1.squarespace.com/static/608f651953becd6fa58dd69f/t/6170807a8c5d11311d1fe2c0/1634762877044/nvBench_NLVIZ2021.pdf" target="_blank">
            nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task
