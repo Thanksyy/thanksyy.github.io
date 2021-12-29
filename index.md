@@ -34,6 +34,16 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
 
 ## Selected Publications
 <ol>
+    <big><b>Year 2022 </b></big>
+     <li>
+        <a href="">
+          Steerable Self-driving Data Visualization.
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Xuedi Qin, Chengliang Chai,  Nan Tang, Guoliang Li, Wenbo Li. 
+        <br>
+        <b>IEEE TKDE 2022.</b>
+      </li> 
     <big><b>Year 2021 </b></big> 
     <br>
       <li>
@@ -54,7 +64,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
           <br>
           <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin 
           <br>
-          <b>IEEE VIS 2021</b>
+          <b>IEEE VIS 2021 </b>
           [<a href = "https://github.com/Thanksyy/ncNet" target="_blank">Code</a>]
       </li> 
         <br>
@@ -130,15 +140,6 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <a href="https://www.youtube.com/watch?v=PNXcwb06SLY" target="_blank">[Video]</a>
       </li> 
       <!--  --> 
-      <li>
-        <a href="./files/DeepEye-TKDE.pdf">
-          Steerable Self-driving Data Visualization.
-        </a>
-        <br>
-        <b>Yuyu Luo</b>, Xuedi Qin, Chengliang Chai,  Nan Tang, Guoliang Li, Wenbo Li. 
-        <br>
-        <b>IEEE TKDE 2020.</b>
-      </li> 
       <!-- <li>
         <a href="./files/SIGMOD20-HOD.pdf" target="_blank">
           Human-in-the-loop Outlier Detection
@@ -254,6 +255,6 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
 ## Professional Services
 <ul>
 <li>Reviewer - IEEE VIS 2021, EuroVis 2022, CHI 2022, IEEE BigData, ACM/IMS TDS.</li>    
-<li>Conference Volunteers - SIGMOD 2021.</li>
+<li>Conference Volunteer - SIGMOD 2021.</li>
 </ul>
 
