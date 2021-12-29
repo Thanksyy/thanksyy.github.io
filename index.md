@@ -44,6 +44,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <br>
         <b>IEEE TKDE 2022.</b>
       </li> 
+    <br>  
     <big><b>Year 2021 </b></big> 
     <br>
       <li>
