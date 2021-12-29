@@ -70,7 +70,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
       </li> 
       <br>
       <li>
-        <a href = "./files/vis21-workshop.pdf" target="_blank">
+        <a href = "https://static1.squarespace.com/static/608f651953becd6fa58dd69f/t/6170807a8c5d11311d1fe2c0/1634762877044/nvBench_NLVIZ2021.pdf" target="_blank">
            nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task
         </a>
         <br>
@@ -232,7 +232,8 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
 
 ## Selected Awards
 <ul>
-<li>2020 - Tsinghua Top Grade Scholarship <a href="https://www.tsinghua.edu.cn/info/1177/26319.htm">(清华大学特等奖学金）.</a></li>
+<li>2020 - Tsinghua Top Grade Scholarship <a href="https://www.tsinghua.edu.cn/info/1177/26319.htm">(清华大学特等奖学金）.</a>
+<br> (<i>The highest award in the Tsinghua Univ.</i>)</li>
 <li>2020 - Zhong Shimo Scholarship (钟士模奖学金), Tsinghua University. 
 <br> (<i>The highest award in the Dept. of CST.</i>)
 </li>
@@ -250,9 +251,9 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
 <!-- <li>2015 - Top Class People’s Scholarship by UESTC (Top 1%)</li> -->
 </ul>
 
-<!-- ## Professional Services
+## Professional Services
 <ul>
-<li>2020 - DASFAA 2020 External Reviewer.</li>    
-<li>2019 - IEEE BigData 2019 External Reviewer.</li>
-</ul> -->
+<li>Reviewer - IEEE VIS 2021, EuroVIS 2022, CHI 2022, IEEE BigData, ACM/IMS TDS.</li>    
+<li>Conference Volunteers - SIGMOD 2021.</li>
+</ul>
 
