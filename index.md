@@ -45,6 +45,15 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>IEEE TKDE 2022.</b>
       </li> 
       <li>
+        <a href="./files/DM4ML_Survey.pdf" target="_blank">
+          Data Management for Machine Learning: A Survey.
+        </a>
+        <br>
+         Chengliang Chai, Jiayi Wang, <b>Yuyu Luo</b>, Zeping Niu, Guoliang Li. 
+        <br>
+        <b>IEEE TKDE 2022.</b>
+      </li> 
+      <li>
         <a href="https://arxiv.org/pdf/2109.03506.pdf" target="_blank">
           Towards Natural Language Interfaces for Data
 Visualization: A Survey.
@@ -54,7 +63,6 @@ Visualization: A Survey.
         <br>
         <b>IEEE TVCG 2022.</b>
       </li> 
-      
     <br>  
     <big><b>Year 2021 </b></big> 
     <br>
