@@ -45,6 +45,15 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>IEEE TKDE 2022.</b>
       </li> 
       <li>
+        <a href="#" target="_blank">
+          Sevi: Speech-to-Visualization through Neural Machine Translation 
+        </a>
+        <br>
+        Jiawei Tang, <b>Yuyu Luo</b>, Mourad OUZZANI, Guoliang Li, Hongyang Chen. 
+        <br>
+        <b>ACM SIGMOD 2022 (Demo Track).</b>
+     </li>
+      <li>
         <a href="./files/DM4ML_Survey.pdf" target="_blank">
           Data Management for Machine Learning: A Survey.
         </a>
