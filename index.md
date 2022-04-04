@@ -45,7 +45,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>IEEE TKDE 2022.</b>
       </li> 
       <li>
-        <a href="#" target="_blank">
+        <a href="./files/SIGMOD22-Sevi.pdf" target="_blank">
           Sevi: Speech-to-Visualization through Neural Machine Translation 
         </a>
         <br>
@@ -283,7 +283,9 @@ Visualization: A Survey.
 
 ## Professional Services
 <ul>
-<li>Reviewer - IEEE VIS 2021, EuroVis 2022, CHI 2022, IEEE BigData, ACM/IMS TDS.</li>    
-<li>Conference Volunteer - SIGMOD 2021.</li>
+<li>Program Committee Member: VLDB 2023</li>
+<li>Conference Reviewer: IEEE VIS 2021, EuroVis 2022, CHI 2022, IEEE BigData.</li>    
+<li>Journal Reviewer: ACM/IMS TDS, Data Science and Engineering.</li>
+<li>Conference Volunteer: SIGMOD 2021.</li>
 </ul>
 
