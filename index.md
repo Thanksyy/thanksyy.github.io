@@ -1,6 +1,6 @@
 ## About Me
 
-I am Yuyu Luo (骆昱宇 in Chinese), currently a third-year PhD student in the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I am Yuyu Luo (骆昱宇 in Chinese), currently a PhD candidate (2018-2023) in the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
