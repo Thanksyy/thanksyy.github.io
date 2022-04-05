@@ -285,7 +285,7 @@ Visualization: A Survey.
 <ul>
 <li>PC Member: VLDB 2023</li>
 <li>Conference Reviewer: IEEE VIS 2021, EuroVis 2022, CHI 2022, IEEE BigData</li>    
-<li>Journal Reviewer: ACM/IMS TDS, Data Science and Engineering</li>
+<li>Journal Reviewer: ACM Transactions on Database Systems, ACM/IMS TDS, Data Science and Engineering</li>
 <li>Conference Volunteer: SIGMOD 2021</li>
 </ul>
 
