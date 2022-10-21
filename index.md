@@ -262,6 +262,7 @@ Visualization: A Survey.
 
 ## Selected Awards
 <ul>
+<li>2022 - CIKM 2022 Best Paper Honorable Mention (Demo Track)</li>
 <li>2020 - Tsinghua Top Grade Scholarship <a href="https://www.tsinghua.edu.cn/info/1177/26319.htm">(清华大学特等奖学金）.</a>
 <br> (<i>The highest award in the Tsinghua Univ.</i>)</li>
 <li>2020 - Zhong Shimo Scholarship (钟士模奖学金), Tsinghua University. 
