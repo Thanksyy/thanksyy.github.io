@@ -79,7 +79,7 @@ Visualization: A Survey.
         <br>
         Leixian Shen, Enya Shen, Zhiwei Tai, Yun Wang, <b>Yuyu Luo</b>, Jianmin Wang.
         <br>
-        <b>CIKM 2022 (Demo Track).</b>
+        <b>CIKM 2022 (<U>Best Demo Paper Honorable Mention</U>).</b>
       </li> 
     <br>  
     <big><b>Year 2021 </b></big> 
