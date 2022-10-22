@@ -49,7 +49,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
           Sevi: Speech-to-Visualization through Neural Machine Translation 
         </a>
         <br>
-        Jiawei Tang, <b>Yuyu Luo</b>, Mourad OUZZANI, Guoliang Li, Hongyang Chen. 
+        Jiawei Tang, <b>Yuyu Luo</b>, Mourad Ouzzani, Guoliang Li, Hongyang Chen. 
         <br>
         <b>ACM SIGMOD 2022 (Demo Track).</b>
      </li>
@@ -63,7 +63,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>IEEE TKDE 2022.</b>
       </li> 
       <li>
-        <a href="https://arxiv.org/pdf/2109.03506.pdf" target="_blank">
+        <a href="./files/NL2VIS_Survey" target="_blank">
           Towards Natural Language Interfaces for Data
 Visualization: A Survey.
         </a>
@@ -71,6 +71,15 @@ Visualization: A Survey.
         Leixian Shen, Enya Shen, <b>Yuyu Luo</b>, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, Jianmin Wang.
         <br>
         <b>IEEE TVCG 2022.</b>
+      </li> 
+      <li>
+        <a href="./files/GALVIS.pdf" target="_blank">
+          GALVIS: Visualization Construction through Example-Powered Declarative Programming.
+        </a>
+        <br>
+        Leixian Shen, Enya Shen, Zhiwei Tai, Yun Wang, <b>Yuyu Luo</b>, Jianmin Wang.
+        <br>
+        <b>CIKM 2022 (Demo Track).</b>
       </li> 
     <br>  
     <big><b>Year 2021 </b></big> 
