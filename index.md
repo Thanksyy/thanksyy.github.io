@@ -43,7 +43,8 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>Yuyu Luo</b>, Yihui Zhou, Nan Tang, Guoliang Li, Leixian Shen 
         <br>
         <b>SIGMOD 2023.</b>
-      </li> 
+   </li> 
+   <br>  
     <big><b>Year 2022 </b></big>
      <li>
         <a href="./files/DeepEye-TKDE.pdf" target="_blank">
