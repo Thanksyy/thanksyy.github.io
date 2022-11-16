@@ -34,6 +34,16 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
 
 ## Selected Publications
 <ol>
+    <big><b>Year 2023 </b></big>
+    <li>
+        <a href="#" target="_blank">
+          Learned Data-aware Image Representations of Line Charts for Similarity Search
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Yihui Zhou, Nan Tang, Guoliang Li, Leixian Shen 
+        <br>
+        <b>SIGMOD 2023.</b>
+      </li> 
     <big><b>Year 2022 </b></big>
      <li>
         <a href="./files/DeepEye-TKDE.pdf" target="_blank">
