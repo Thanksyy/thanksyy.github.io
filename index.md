@@ -40,7 +40,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
           Learned Data-aware Image Representations of Line Charts for Similarity Search
         </a>
         <br>
-        <b>Yuyu Luo</b>, Yihui Zhou, Nan Tang, Guoliang Li, Leixian Shen 
+        <b>Yuyu Luo</b>, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, Leixian Shen 
         <br>
         <b>SIGMOD 2023.</b>
    </li> 
