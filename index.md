@@ -1,34 +1,10 @@
 ## About Me
 
-I am Yuyu Luo (骆昱宇 in Chinese), currently a 5th year PhD candidate in the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I am Yuyu Luo (骆昱宇 in Chinese), currently a PhD student at the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
 My research mission is “<i>Democratizing Relational Data Visualization</i>” by building systems (tools) to simplify the visual data analytics pipeline, i.e., assisting users (especially novices) to leverage and make sense of their datasets more easily and effectively.
-
-<!-- ## Education -->
-  <!-- <ul>
-    <li> 
-      <b>Tsinghua University</b> <br>
-       - <b>PhD Student</b>, Department of Computer Science and Technology 
-       <br> 
-       - Supervisor: <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/" target="_blank">Prof. Guoliang Li</a>
-       <!-- <br> -->
-       <!-- - GPA: 3.8/4.0 -->
-       <!-- <br> -->
-       <!-- - Sep 2018 - Jun 2021 (Expected) -->
-    <!-- </li> -->
-    <!-- <br> -->
-    <!-- <li> -->
-      <!-- <b>University of Electronic Science and Technology of China</b> <br> -->
-      <!-- - <b>B.Eng.</b>, School of Information and Software Engineering  -->
-        <!-- <br> -->
-      <!-- - GPA: 3.88/4.0 -->
-        <!-- <br> -->
-      <!-- - Sep 2014 - Jun 2018  -->
-    <!-- </li> -->
-  <!-- </ul>  -->
-
 
 
 
