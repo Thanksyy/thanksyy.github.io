@@ -259,6 +259,7 @@ Visualization: A Survey.
 ## Selected Awards
 <ul>
 <li>2022 - CIKM 2022 Best Paper Honorable Mention (Demo Track)</li>
+<li>2021 - Zhejiang Lab’s International Talent Fund for Young Professionals</li>
 <li>2020 - Tsinghua Top Grade Scholarship <a href="https://www.tsinghua.edu.cn/info/1177/26319.htm">(清华大学特等奖学金）.</a>
 <br> (<i>The highest award in the Tsinghua Univ.</i>)</li>
 <li>2020 - Zhong Shimo Scholarship (钟士模奖学金), Tsinghua University. 
@@ -269,7 +270,7 @@ Visualization: A Survey.
 <li>2019 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li>
 <!-- <li>2019 - Huawei Scholarship.</li> -->
 <li>2019 - Excellent Paper Award – Big Data Mining and Analytics.</li>
-<li>2019 - DASFAA 2019 Best Paper Award.</li>
+<li>2019 - DASFAA 2019 Best Student Paper Award.</li>
 <!-- <li>2018 - Outstanding Graduate of Sichuan Province, China. (Top 0.1%)</li>
 <li>2018 - Outstanding Undergraduate Dissertation, UESTC. (Top 1%)</li>
 <li>2017 - China National Scholarship, Ministry of Education of China.</li>
@@ -280,7 +281,7 @@ Visualization: A Survey.
 
 ## Professional Services
 <ul>
-<li>PC Member: VLDB 2023</li>
+<li>PC Member: VLDB 2023, DASFAA 2023</li>
 <li>Conference Reviewer: IEEE VIS 2021-2022, EuroVis 2022, CHI 2022, IEEE BigData</li>    
 <li>Journal Reviewer: ACM Transactions on Database Systems, TVCG, ACM/IMS TDS, Data Science and Engineering</li>
 <li>Conference Volunteer: SIGMOD 2021</li>
