@@ -240,7 +240,7 @@ Visualization: A Survey.
   <!-- Yuyu Luo, Xueqi Qin, Nan Tang, Guoliang Li. DeepEye: Towards Automatic Data Visualization. ICDE 2018.  -->
       <li>
         <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf" target="_blank">DeepEye: Towards Automatic Data Visualization.</a><br/>
-        <b><a href="https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=HdCtgB7kxZAJ.2022">ICDE 2018 Highly Cited Papers Top-2</a></b> <br>
+        <b><a href="https://ieeexplore.ieee.org/xpl/conhome/8476188/proceeding?isnumber=8509221&sortType=paper-citations">ICDE 2018 Highly Cited Papers Top-2</a></b> <br>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
         <b>IEEE ICDE 2018. </b>
