@@ -50,7 +50,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <b>IEEE TKDE 2022.</b>
       </li> 
       <li>
-        <a href="./files/NL2VIS_Survey" target="_blank">
+        <a href="./files/NL2VIS_Survey.pdf" target="_blank">
           Towards Natural Language Interfaces for Data
 Visualization: A Survey.
         </a>
