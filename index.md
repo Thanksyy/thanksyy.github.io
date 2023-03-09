@@ -20,6 +20,24 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <br>
         <b>SIGMOD 2023.</b>
    </li> 
+   <li>
+        <a href="#" target="_blank">
+          Demystifying Artificial Intelligence for Data Preparation
+        </a>
+        <br>
+        Chengliang Chai, Nan Tang, Ju Fan, <b>Yuyu Luo</b>
+        <br>
+        <b>SIGMOD 2023 Tutorial Track.</b>
+   </li> 
+   <li>
+        <a href="#" target="_blank">
+          GoodCore: Coreset Selection over Incomplete Data for Data-effective and Data-efficient Machine Learning
+        </a>
+        <br>
+        Chengliang Chai, Jiabin Liu, Nan Tang, Ju Fan, Dongjing Miao, Jiayi Wang,  <b>Yuyu Luo</b>, Guoliang Li
+        <br>
+        <b>SIGMOD 2023.</b>
+   </li> 
    <br>  
     <big><b>Year 2022 </b></big>
      <li>
