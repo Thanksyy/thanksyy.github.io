@@ -27,7 +27,7 @@ My research mission is “<i>Democratizing Relational Data Visualization</i>” 
         <br>
         Chengliang Chai, Nan Tang, Ju Fan, <b>Yuyu Luo</b>
         <br>
-        <b>SIGMOD 2023 Tutorial Track.</b>
+        <b>SIGMOD 2023 (Tutorial Track).</b>
    </li> 
    <li>
         <a href="#" target="_blank">
