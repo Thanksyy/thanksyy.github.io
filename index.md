@@ -2,17 +2,12 @@
 
 I am Yuyu Luo (骆昱宇 in Chinese), currently a PhD student at the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
 I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). 
-<!-- I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor. -->
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
-<!-- My research mission is “<i>Democratizing Relational Data Analytics</i>” by building systems (tools) to simplify the data analytics pipeline with visualization and AI, i.e., assisting users (especially novices) to leverage and make sense of their datasets more easily and effectively. 
-Specifically, my research interests include:
-<ul>
-<li> Intelligent Visual Analytics, Automatic Visualization</li>
-<li> Data Management for Data Analytics, especially for AI model</li>
-</ul> -->
 
-My research mission is to “<i>Democratizing Relational Data Analytics</i>” by building systems and tools that simplify the data analytics pipeline with visualization and AI. By focusing on assisting users, especially novices, to leverage and make sense of their datasets more easily and effectively, I aim to make data analytics more accessible and useful for everyone. Specifically, my research interests include <b>intelligent visual analytics</b> and <b>automatic visualization</b>, as well as <b>data management for data analytics, with a particular focus on AI models</b>.
+My research mission is to democratize relational data analytics by developing systems and tools that simplify the data analytics pipeline through the use of  visualization, data management, and artificial intelligence techniques. 
+My focus is on assisting users, particularly novices, to better comprehend and utilize massive data with ease and efficiency. 
+Specifically, my research interests include <i>intelligent visual analytics</i>, <i>automatic visualization</i>, and <i>data management for effective and efficient data analytics</i>.
 
 
 ## Selected Publications
@@ -61,29 +56,72 @@ My research mission is to “<i>Democratizing Relational Data Analytics</i>” b
           Sevi: Speech-to-Visualization through Neural Machine Translation 
         </a>
         <br>
-        Jiawei Tang, <b>Yuyu Luo</b>, Mourad Ouzzani, Guoliang Li, Hongyang Chen. 
+        Jiawei Tang, <b>Yuyu Luo*</b>, Mourad Ouzzani, Guoliang Li, Hongyang Chen. 
         <br>
         <b>ACM SIGMOD 2022 (Demo Track).</b>
      </li>
       <li>
         <a href="./files/DM4ML_Survey.pdf" target="_blank">
-          Data Management for Machine Learning: A Survey.
+          Data Management for Machine Learning: A Survey
         </a>
         <br>
-         Chengliang Chai, Jiayi Wang, <b>Yuyu Luo</b>, Zeping Niu, Guoliang Li. 
+         Chengliang Chai, Jiayi Wang, <b>Yuyu Luo*</b>, Zeping Niu, Guoliang Li. 
         <br>
         <b>IEEE TKDE 2022.</b>
       </li> 
       <li>
         <a href="./files/NL2VIS_Survey.pdf" target="_blank">
-          Towards Natural Language Interfaces for Data
-Visualization: A Survey.
+          Towards Natural Language Interfaces for Data Visualization: A Survey
         </a>
         <br>
         Leixian Shen, Enya Shen, <b>Yuyu Luo</b>, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, Jianmin Wang.
         <br>
         <b>IEEE TVCG 2022.</b>
       </li> 
+       <!--  -->
+      <li>
+        <a href="./files/VLDB22-AutoData.pdf" target="_blank">
+          Selective Data Acquisition in the Wild for Model Charging
+        </a>
+        <br>
+        Chengliang Chai, Jiabin Liu, Nan Tang, Guoliang Li,  <b>Yuyu Luo</b>.
+        <br>
+        <b>VLDB 2022.</b>
+      </li> 
+<!--  -->
+      <!--  -->
+      <li>
+        <a href="./files/ICDE22-AutoFeature.pdf" target="_blank">
+          Feature Augmentation with Reinforcement Learning
+        </a>
+        <br>
+        Jiabin Liu, Chengliang Chai, <b>Yuyu Luo</b>, Yin Lou, Jianhua Feng, Nan Tang.
+        <br>
+        <b>ICDE 2022.</b>
+      </li> 
+<!--  -->
+<!--  -->
+      <li>
+        <a href="./files/ICDE22-RwTree.pdf" target="_blank">
+        RW-Tree: A Learned Workload-aware Framework for R-tree Construction
+        </a>
+        <br>
+        Haowen Dong, Chengliang Chai, <b>Yuyu Luo</b>,  Jiabin Liu, Jianhua Feng, Chaoqun Zhan.
+        <br>
+        <b>ICDE 2022.</b>
+      </li> 
+<!--  -->
+<!--  -->
+      <li>
+        <a href="./files/VLDBJ22-dexplorer.pdf" target="_blank">
+        Interactively Discovering and Ranking Desired Tuples by Data Exploration
+        </a>
+        <br>
+        Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Tianyu Zhao, Nan Tang, Guoliang Li, Jianhua Feng, Xiang Yu, Mourad Ouzzani.
+        <br>
+        <b>The VLDB Journal 2022.</b>
+      </li> 
+<!--  -->
       <li>
         <a href="./files/GALVIS.pdf" target="_blank">
           GALVIS: Visualization Construction through Example-Powered Declarative Programming.
@@ -190,7 +228,7 @@ Visualization: A Survey.
         <a href="https://www.youtube.com/watch?v=PNXcwb06SLY" target="_blank">[Video]</a>
       </li> 
       <!--  --> 
-      <!-- <li>
+      <li>
         <a href="./files/SIGMOD20-HOD.pdf" target="_blank">
           Human-in-the-loop Outlier Detection
         </a>
@@ -207,7 +245,7 @@ Visualization: A Survey.
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
         <br>
         <b>ACM SIGMOD 2020. <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a></b>
-      </li>  -->
+      </li>  
       <li>
         <a href="./files/DEBulletin_COVID19.pdf">
           DEEPEYE: A Data Science System for Monitoring and Exploring COVID-19 Data.
@@ -228,7 +266,7 @@ Visualization: A Survey.
         <b>IEEE ICDE 2020.</b>
       </li>  -->
       <!--  -->
-      <!-- <li>
+      <li>
         <a href="./files/TKDE20-Chart.pdf" target="_blank">
           CrowdChart: Crowdsourced-based Data Extraction from Visualization Chart.
         </a>
@@ -236,7 +274,7 @@ Visualization: A Survey.
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
         <br>
         <b>IEEE TKDE 2020.</b>
-      </li>  -->
+      </li>  
       <!--  -->
       <br>
       <big> <b>Year 2019 </b> </big> 
