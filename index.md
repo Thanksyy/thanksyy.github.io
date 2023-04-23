@@ -244,7 +244,7 @@ Specifically, my research interests include <i>intelligent visual analytics</i>,
         <br>
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
         <br>
-        <b>ACM SIGMOD 2020. <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a></b>
+        <b>ACM SIGMOD 2020.</b>  <a href="https://www.youtube.com/watch?v=JdDIPd6fM7c" target="_blank">[Video Demonstration]</a>
       </li>  
       <li>
         <a href="./files/DEBulletin_COVID19.pdf">
