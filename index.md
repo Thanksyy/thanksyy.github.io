@@ -1,11 +1,18 @@
 ## About Me
 
 I am Yuyu Luo (骆昱宇 in Chinese), currently a PhD student at the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
-I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor.
+I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). 
+<!-- I also fortunately have [Dr. Nan Tang](http://da.qcri.org/ntang/) from *Qatar Computing Research Institute* (QCRI) as my external advisor. -->
 Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
-My research mission is “<i>Democratizing Relational Data Visualization</i>” by building systems (tools) to simplify the visual data analytics pipeline, i.e., assisting users (especially novices) to leverage and make sense of their datasets more easily and effectively.
+<!-- My research mission is “<i>Democratizing Relational Data Analytics</i>” by building systems (tools) to simplify the data analytics pipeline with visualization and AI, i.e., assisting users (especially novices) to leverage and make sense of their datasets more easily and effectively. 
+Specifically, my research interests include:
+<ul>
+<li> Intelligent Visual Analytics, Automatic Visualization</li>
+<li> Data Management for Data Analytics, especially for AI model</li>
+</ul> -->
 
+My research mission is to “<i>Democratizing Relational Data Analytics</i>” by building systems and tools that simplify the data analytics pipeline with visualization and AI. By focusing on assisting users, especially novices, to leverage and make sense of their datasets more easily and effectively, I aim to make data analytics more accessible and useful for everyone. Specifically, my research interests include <b>intelligent visual analytics</b> and <b>automatic visualization</b>, as well as <b>data management for data analytics, with a particular focus on AI models</b>.
 
 
 ## Selected Publications
