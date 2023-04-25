@@ -32,7 +32,7 @@ Specifically, my research interests include <i>intelligent visual analytics</i>,
         <b>SIGMOD 2023.</b>
    </li> 
    <li>
-        <a href="./files/SIGMOD23-Tutorial" target="_blank">
+        <a href="./files/SIGMOD23-Tutorial.pdf" target="_blank">
           Demystifying Artificial Intelligence for Data Preparation
         </a>
         <br>
