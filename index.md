@@ -14,7 +14,7 @@ Specifically, my research interests include <i>intelligent visual analytics</i>,
 <ol>
     <big><b>Year 2023 </b></big>
     <li>
-        <a href="#" target="_blank">
+        <a href="./files/SIGMOD2023-LineNet.pdf" target="_blank">
           Learned Data-aware Image Representations of Line Charts for Similarity Search
         </a>
         <br>
@@ -23,7 +23,7 @@ Specifically, my research interests include <i>intelligent visual analytics</i>,
         <b>SIGMOD 2023.</b>
    </li> 
    <li>
-        <a href="#" target="_blank">
+        <a href="./files/SIGMOD23-GoodCore.pdf" target="_blank">
           GoodCore: Coreset Selection over Incomplete Data for Data-effective and Data-efficient Machine Learning
         </a>
         <br>
@@ -32,7 +32,7 @@ Specifically, my research interests include <i>intelligent visual analytics</i>,
         <b>SIGMOD 2023.</b>
    </li> 
    <li>
-        <a href="#" target="_blank">
+        <a href="./files/SIGMOD23-Tutorial" target="_blank">
           Demystifying Artificial Intelligence for Data Preparation
         </a>
         <br>
