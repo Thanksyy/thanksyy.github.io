@@ -7,7 +7,7 @@ Before that, I received my B.Eng. from the [University of Electronic Science and
 
 My research mission is to democratize relational data analytics by developing systems and tools that simplify the data analytics pipeline through the use of  visualization, data management, and artificial intelligence techniques. 
 My focus is on assisting users, particularly novices, to better comprehend and utilize massive data with ease and efficiency. 
-Specifically, my research interests include <i>intelligent visual analytics</i>, <i>automatic visualization</i>, and <i>data management for effective and efficient data analytics</i>.
+Specifically, my research interests include <i>intelligent visual analytics</i>, <i>automatic visualization</i>, and <i>data management for data science</i>.
 
 
 ## Selected Publications
