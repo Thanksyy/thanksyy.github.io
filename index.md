@@ -1,14 +1,17 @@
 ## About Me
 
-I am Yuyu Luo (骆昱宇 in Chinese), currently a PhD student at the Dept. of Computer Science and Technology (CST), [Tsinghua University](https://www.tsinghua.edu.cn/). 
-I am a member of [Database Group](http://dbgroup.cs.tsinghua.edu.cn) of Tsinghua and under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). 
-Before that, I received my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
+I am Yuyu Luo (骆昱宇 in Chinese). I received my Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). 
+Prior to that, I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
 
 My research mission is to democratize relational data analytics by developing systems and tools that simplify the data analytics pipeline through the use of  visualization, data management, and artificial intelligence techniques. 
 My focus is on assisting users, particularly novices, to better comprehend and utilize massive data with ease and efficiency. 
 Specifically, my research interests include <i>intelligent visual analytics</i>, <i>automatic visualization</i>, and <i>data management for data science</i>.
 
+<hr>
+
+I will be joining the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/) at [the Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/) as a tenure-track assistant professor soon! 
+I am actively seeking self-motivated PhD students and research interns. If you are interested in working with me, please email me your CV and transcripts for all degrees.
 
 ## Selected Publications
 <ol>
