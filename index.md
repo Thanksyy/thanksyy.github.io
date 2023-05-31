@@ -1,6 +1,6 @@
 ## About Me
 
-I am Yuyu Luo (骆昱宇 in Chinese). I received my Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). 
+I am Yuyu Luo (骆昱宇 in Chinese). I received my Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
 Prior to that, I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
 
 
