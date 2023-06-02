@@ -348,7 +348,7 @@ I am actively seeking self-motivated PhD students and research interns. If you a
 
 ## Professional Services
 <ul>
-<li>PC Member: VLDB 2023, DASFAA 2023, IEEE BigData 2023</li>
+<li>PC Member: ICDE 2024, VLDB 2023, DASFAA 2023, IEEE BigData 2023</li>
 <li>Conference Reviewer: IEEE VIS 2021-2022, EuroVis 2022, CHI 2022, IEEE BigData</li>    
 <li>Journal Reviewer: ACM Transactions on Database Systems, TVCG, ACM/IMS TDS, Data Science and Engineering</li>
 <li>Conference Volunteer: SIGMOD 2021</li>
