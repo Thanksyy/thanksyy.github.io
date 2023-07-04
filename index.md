@@ -1,10 +1,9 @@
 ## Brief Biography
 
-Dr. Luo received his Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en) in 2023, while being supervised by [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
+Dr. Luo received his Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
 Currently, he serves as an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) of [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
 
 <!-- I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018. -->
-
 
 His research mission aims to democratize data analytics by developing systems and tools that simplify the data analytics pipeline. He accomplishes this through the use of visualization, data management, and artificial intelligence techniques. His primary focus is on assisting users, especially novices, in comprehending and utilizing massive data with ease and efficiency.
 Specifically, his current research interests include <i>intelligent visual analytics</i>, <i>orchestrating data analytics pipeline</i>, and <i>data management for data science</i>.
