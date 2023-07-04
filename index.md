@@ -1,16 +1,17 @@
-## About Me
+## Brief Biography
 
-I am Yuyu Luo (骆昱宇 in Chinese). I received my Ph.D. from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
-Prior to that, I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018.
+Dr. Luo received his Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
+He is currently an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) of [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
+
+<!-- I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018. -->
 
 
-My research mission is to democratize relational data analytics by developing systems and tools that simplify the data analytics pipeline through the use of  visualization, data management, and artificial intelligence techniques. 
-My focus is on assisting users, particularly novices, to better comprehend and utilize massive data with ease and efficiency. 
-Specifically, my research interests include <i>intelligent visual analytics</i>, <i>automatic visualization</i>, and <i>data management for data science</i>.
+His research mission is to democratize data analytics by developing systems and tools that simplify the data analytics pipeline through the use of visualization, data management, and artificial intelligence techniques. 
+His focus is on assisting users, particularly novices, to better comprehend and utilize massive data with ease and efficiency. 
+Specifically, his current research interests include <i>intelligent visual analytics</i>, <i>automatic visualization</i>, and <i>data management for data science</i>.
 
 <hr>
 
-I will be joining the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/) at [the Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/) as a tenure-track assistant professor soon! 
 I am actively seeking self-motivated PhD students and research interns. If you are interested in working with me, please email me your CV and transcripts for all degrees.
 
 ## Selected Publications
