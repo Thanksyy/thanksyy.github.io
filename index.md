@@ -323,7 +323,7 @@ I am currently actively [seeking self-motivated PhD students](https://luoyuyu.vi
 
 ## Selected Awards
 <ul>
-<li>Distinguished Doctoral Graduate of Tsinghua University (清华优秀博士毕业生, ranked 1st in the Department)</li>
+<li>Distinguished Doctoral Graduate of Tsinghua University (清华优秀博士毕业生)</li>
 <li>Distinguished Doctoral Dissertation Award of Tsinghua University (清华优秀博士学位论文)</li>
 <li>2023 - Rising Star in Data Visualization, CSIG VIS </li>
 <li>2023 - ACM SIGMOD Travel Award </li>
