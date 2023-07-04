@@ -1,18 +1,17 @@
 ## Brief Biography
 
-Dr. Luo received his Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
-He is currently an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) of [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
+Dr. Luo received his Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2023, while being supervised by [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
+Currently, he serves as an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) of [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
 
 <!-- I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018. -->
 
 
-His research mission is to democratize data analytics by developing systems and tools that simplify the data analytics pipeline through the use of visualization, data management, and artificial intelligence techniques. 
-His focus is on assisting users, particularly novices, to better comprehend and utilize massive data with ease and efficiency. 
-Specifically, his current research interests include <i>intelligent visual analytics</i>, <i>automatic visualization</i>, and <i>data management for data science</i>.
+His research mission aims to democratize data analytics by developing systems and tools that simplify the data analytics pipeline. He accomplishes this through the use of visualization, data management, and artificial intelligence techniques. His primary focus is on assisting users, especially novices, in comprehending and utilizing massive data with ease and efficiency.
+Specifically, his current research interests include <i>intelligent visual analytics</i>, <i>orchestrating data analytics pipeline</i>, and <i>data management for data science</i>.
 
 <hr>
 
-I am actively seeking self-motivated PhD students and research interns. If you are interested in working with me, please email me your CV and transcripts for all degrees.
+I am currently actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/positions.pdf) (2023 Fall, 2024 Spring/Fall) and research interns. If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
 
 ## Selected Publications
 <ol>
@@ -326,7 +325,7 @@ I am actively seeking self-motivated PhD students and research interns. If you a
 ## Selected Awards
 <ul>
 <li>2022 - CIKM 2022 Best Paper Honorable Mention (Demo Track)</li>
-<li>2022 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li>
+<!-- <li>2022 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li> -->
 <li>2021 - Zhejiang Lab’s International Talent Fund for Young Professionals</li>
 <li>2020 - Tsinghua Top Grade Scholarship <a href="https://www.tsinghua.edu.cn/info/1177/26319.htm">(清华大学特等奖学金）.</a>
 <br> (<i>The highest award in the Tsinghua Univ.</i>)</li>
@@ -335,7 +334,7 @@ I am actively seeking self-motivated PhD students and research interns. If you a
 </li>
 <!-- <li>2020 - Microsoft Research Asia Fellowship Nomination Award. <br> (<i>15 students from Asia-Pacific region</i>)</li> -->
 <li>2020 - China National Scholarship, Ministry of Education of China.</li>
-<li>2019 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li>
+<!-- <li>2019 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li> -->
 <!-- <li>2019 - Huawei Scholarship.</li> -->
 <li>2019 - Excellent Paper Award – Big Data Mining and Analytics.</li>
 <li>2019 - DASFAA 2019 Best Student Paper Award.</li>
