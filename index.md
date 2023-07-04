@@ -1,6 +1,6 @@
 ## Brief Biography
 
-Dr. Luo received his Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2023, while being supervised by [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
+Dr. Luo received his Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en) in 2023, while being supervised by [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
 Currently, he serves as an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) of [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
 
 <!-- I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018. -->
@@ -324,6 +324,10 @@ I am currently actively [seeking self-motivated PhD students](https://luoyuyu.vi
 
 ## Selected Awards
 <ul>
+<li>Distinguished Doctoral Graduate of Tsinghua University (清华优秀博士毕业生, ranked 1st in the Department)</li>
+<li>Distinguished Doctoral Dissertation Award of Tsinghua University (清华优秀博士学位论文)</li>
+<li>2023 - Rising Star in Data Visualization, CSIG VIS </li>
+<li>2023 - ACM SIGMOD Travel Award </li>
 <li>2022 - CIKM 2022 Best Paper Honorable Mention (Demo Track)</li>
 <!-- <li>2022 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li> -->
 <li>2021 - Zhejiang Lab’s International Talent Fund for Young Professionals</li>
