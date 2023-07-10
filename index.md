@@ -354,5 +354,5 @@ I am currently actively [seeking self-motivated PhD students](https://luoyuyu.vi
 <li>PC Member: ICDE 2024, VLDB 2023, DASFAA 2023, IEEE BigData 2023</li>
 <li>Conference Reviewer: IEEE VIS 2021-2022, EuroVis 2022, CHI 2022</li>    
 <li>Journal Reviewer: ACM Transactions on Database Systems, TVCG, ACM/IMS TDS, Data Science and Engineering</li>
-<li>Conference Volunteer: SIGMOD 2021</li>
+<li>Conference Volunteer: SIGMOD 2021/2023</li>
 </ul>
