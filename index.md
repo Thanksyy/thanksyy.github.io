@@ -5,8 +5,8 @@ Currently, he serves as an Assistant Professor at the [Data Science and Analytic
 
 <!-- I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018. -->
 
-His research mission aims to democratize data analytics by developing systems and tools that simplify the data analytics pipeline. He accomplishes this through the use of visualization, data management, and artificial intelligence techniques. His primary focus is on assisting users, especially novices, in comprehending and utilizing massive data with ease and efficiency.
-Specifically, his current research interests include <i>intelligent visual analytics</i>, <i>orchestrating data analytics pipeline</i>, and <i>data management for data science</i>.
+His research mission aims to democratize data analytics by developing systems and tools that simplify and automate the data analytics pipeline. He accomplishes this through the use of visualization, data management, and artificial intelligence techniques. His primary focus is on assisting users, especially novices, in comprehending and utilizing massive data with ease and efficiency.
+Specifically, his current research interests include <i>intelligent visual analytics</i>, <i>orchestrating data analytics pipelines</i>, and <i>data management for data science</i>.
 
 <hr>
 
