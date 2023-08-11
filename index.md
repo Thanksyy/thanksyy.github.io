@@ -22,7 +22,7 @@ I am currently actively [seeking self-motivated PhD students](https://luoyuyu.vi
         <br>
         <b>Yuyu Luo</b>, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, Leixian Shen 
         <br>
-        <b>SIGMOD 2023.</b> ([<a href="./files/LineNet-Slides.pdf">Slides</a>])
+        <b>SIGMOD 2023.</b> (<a href="./files/LineNet-Slides.pdf">Slides</a>)
    </li> 
    <li>
         <a href="./files/SIGMOD23-GoodCore.pdf" target="_blank">
@@ -40,7 +40,7 @@ I am currently actively [seeking self-motivated PhD students](https://luoyuyu.vi
         <br>
         Chengliang Chai, Nan Tang, Ju Fan, <b>Yuyu Luo</b>
         <br>
-        <b>SIGMOD 2023.</b> (Tutorial Slides: [<a href="./files/SIGMOD23-Tutorial-Part1.pdf">Part1</a>], [<a href="./files/SIGMOD23-Tutorial-Part2.pdf">Part2</a>], [<a href="./files/SIGMOD23-Tutorial-Part3.pdf">Part3</a>])
+        <b>SIGMOD 2023.</b> (Tutorial Slides: <a href="./files/SIGMOD23-Tutorial-Part1.pdf">Part1</a>, <a href="./files/SIGMOD23-Tutorial-Part2.pdf">Part2</a>, <a href="./files/SIGMOD23-Tutorial-Part3.pdf">Part3</a>)
    </li> 
    <br>  
     <big><b>Year 2022 </b></big>
