@@ -10,7 +10,7 @@ Specifically, his current research interests include <i>intelligent visual analy
 
 <hr>
 
-I am currently actively [seeking self-motivated PhD students](https://luoyuyu.vip/files/positions.pdf) (2023 Fall, 2024 Spring/Fall) and [research interns](https://luoyuyu.vip/files/positions.pdf). If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
+I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/positions.pdf) (2024 Fall) and [research interns](https://luoyuyu.vip/files/positions.pdf). If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
 
 ## Selected Publications
 <ol>
