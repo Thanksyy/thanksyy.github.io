@@ -321,6 +321,19 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       </li>    
   </ol>
 
+
+## Students
+<ul> 
+<big> <b>Ph.D. students</b> </big> 
+<li> Tianqi Luo, 2023 Fall, from Johns Hopkins University</li>
+<li> Xinyu Liu, 2023 Fall,  from Northeastern University</li>
+<li> Yao Shi (co-advised with Nan Tang), 2023 Fall,  from Univ. of Elec. Sci. and Tech. of China </li>
+
+<big> <b>M.Phil. students</b> </big> 
+<li>Runzhi Jiang, 2023 Fall, from SUSTech</li>
+<li>Hongbin Huang, 2023 Fall, from Sun Yat-sen University</li>
+</ul>
+
 ## Selected Awards
 <ul>
 <li>2023 - Distinguished Doctoral Graduate of Tsinghua University (清华优秀博士毕业生)</li>
