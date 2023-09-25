@@ -331,7 +331,8 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 
 <big> <b>M.Phil. students</b> </big> 
 <li>Runzhi Jiang, 2023 Fall, from SUSTech</li>
-<li>Hongbin Huang, 2023 Fall, from Sun Yat-sen University</li>
+<li>Siyu Yan, 2023 Fall, from Nankai University</li>
+<li>Peixian Ma, 2023 Fall, from Jinan University</li>
 </ul>
 
 ## Selected Awards
