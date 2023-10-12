@@ -14,6 +14,17 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 
 ## Selected Publications
 <ol>
+    <big><b>Year 2024 </b></big>
+    <li>
+        <a href="http://arxiv.org/abs/2307.02796" target="_blank">
+          VerifAI: Verified Generative AI
+        </a>
+        <br>
+        Nan Tang, Chenyu Yang, Ju Fan, Lei Cao, <b>Yuyu Luo</b>, Alon Halevy
+        <br>
+        <b>CIDR 2024.</b> 
+    </li> 
+    <br> 
     <big><b>Year 2023 </b></big>
     <li>
         <a href="./files/SIGMOD2023-LineNet.pdf" target="_blank">
