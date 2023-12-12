@@ -9,11 +9,11 @@ I received my Ph.D. degree in Computer Science from [Tsinghua University](https:
 
 My research mission is to democratize data analytics by simplifying and automating the data analytics pipeline. I achieve this by developing systems and tools that leverage visualization, data management, and artificial intelligence techniques. My primary focus is on assisting users, especially novices, to comprehend and utilize massive datasets with ease and efficiency.
 
-My current research interests include <i>AI for Data Analysis</i> and <i>Data Management for Data Science</i>.
+My current research interests include <i>AI for Data Analytics</i> and <i>Data Management for Data Science</i>.
 
 <hr>
 
-I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/positions.pdf) (2024 Fall) and [research interns](https://luoyuyu.vip/files/positions.pdf). If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
+I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/positions.pdf) (2024 Fall). If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
 
 ## Selected Publications
 <ol>
@@ -45,7 +45,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <br>
         Chengliang Chai, Jiabin Liu, Nan Tang, Ju Fan, Dongjing Miao, Jiayi Wang,  <b>Yuyu Luo</b>, Guoliang Li
         <br>
-        <b>SIGMOD 2023.</b> [<a href="./files/GoodCore-Slides.pdf">Slides</a>]
+        <b>SIGMOD 2023. (<U>Best of SIGMOD 2023 Papers</U>) </b> [<a href="./files/GoodCore-Slides.pdf">Slides</a>]
    </li> 
    <li>
         <a href="./files/SIGMOD23-Tutorial.pdf" target="_blank">
@@ -351,6 +351,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 
 ## Selected Awards
 <ul>
+<li>2023 - Best of SIGMOD 2023 Papers</li>
 <li>2023 - Distinguished Doctoral Graduate of Tsinghua University (清华优秀博士毕业生)</li>
 <li>2023 - Distinguished Doctoral Dissertation Award of Tsinghua University (清华优秀博士学位论文)</li>
 <li>2023 - Rising Star in Data Visualization, CSIG VIS </li>
