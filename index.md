@@ -351,11 +351,13 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 
 ## Selected Awards
 <ul>
+<li>2023 - Forbes China 30 Under 30 List <a href="https://www.forbeschina.com/activity/news/66660">(入选2023福布斯中国30 Under 30榜单)</a></li>
+<li>2023 - <a href="https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml">CCF Doctoral Dissertation Nomination Award</a></li>
 <li>2023 - Best of SIGMOD 2023 Papers</li>
-<li>2023 - Distinguished Doctoral Graduate of Tsinghua University (清华优秀博士毕业生)</li>
+<!-- <li>2023 - Distinguished Doctoral Graduate of Tsinghua University (清华优秀博士毕业生)</li> -->
 <li>2023 - Distinguished Doctoral Dissertation Award of Tsinghua University (清华优秀博士学位论文)</li>
 <li>2023 - Rising Star in Data Visualization, CSIG VIS </li>
-<li>2023 - ACM SIGMOD Travel Award </li>
+<!-- <li>2023 - ACM SIGMOD Travel Award </li> -->
 <li>2022 - CIKM 2022 Best Paper Honorable Mention (Demo Track)</li>
 <!-- <li>2022 - Comprehensive Excellent First-Class Scholarship, Tsinghua.</li> -->
 <li>2021 - Zhejiang Lab’s International Talent Fund for Young Professionals</li>
