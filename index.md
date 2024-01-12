@@ -27,6 +27,15 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <br>
         <b>CIDR 2024.</b> 
     </li> 
+    <li>
+        <a href="./files/CoInsight_PVIS2024.pdf" target="_blank">
+          CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
+        </a>
+        <br>
+        Guozheng Li, Runfei Li, Yunshan Feng, Yu Zhang, <b>Yuyu Luo*</b>, Chi Harold Liu
+        <br>
+        <b>CIDR 2024.</b> 
+    </li> 
     <br> 
     <big><b>Year 2023 </b></big>
     <li>
