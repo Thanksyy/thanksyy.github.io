@@ -26,7 +26,34 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         Nan Tang, Chenyu Yang, Ju Fan, Lei Cao, <b>Yuyu Luo</b>, Alon Halevy
         <br>
         <b>CIDR 2024.</b> 
+    </li>
+    <li>
+        <a href="#" target="_blank">
+          Fast, Robust and Interpretable Participant Contribution Estimation for Federated Learning
+        </a>
+        <br>
+        Yong Wang, <b>Yuyu Luo</b>, Kaiyu Li, Guoliang Li, Yunyan Guo, Zhuo Wang
+        <br>
+        <b>ICDE 2024.</b> 
     </li> 
+    <li>
+        <a href="#" target="_blank">
+          Mitigating Data Scarcity in Supervised Machine Learning through Reinforcement Learning Guided Data Generation
+        </a>
+        <br>
+        Chengliang Chai, Kaisen Jin, Nan Tang, Ju Fan, Lianpeng Qiao, Yu-Ping Wang, <b>Yuyu Luo</b>, Ye Yuan, Guoren Wang
+        <br>
+        <b>ICDE 2024.</b> 
+    </li> 
+    <li>
+        <a href="#" target="_blank">
+          CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
+        </a>
+        <br>
+        Guozheng Li, Runfei Li, Yunshan Feng, Yu Zhang, <b>Yuyu Luo*</b>, Chi Harold Liu
+        <br>
+        <b>TVCG 2024.</b> 
+    </li>  
     <li>
         <a href="./files/CoInsight_PVIS2024.pdf" target="_blank">
           CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
