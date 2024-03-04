@@ -46,15 +46,6 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <b>ICDE 2024.</b> 
     </li> 
     <li>
-        <a href="#" target="_blank">
-          CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
-        </a>
-        <br>
-        Guozheng Li, Runfei Li, Yunshan Feng, Yu Zhang, <b>Yuyu Luo*</b>, Chi Harold Liu
-        <br>
-        <b>TVCG 2024.</b> 
-    </li>  
-    <li>
         <a href="./files/CoInsight_PVIS2024.pdf" target="_blank">
           CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
         </a>
