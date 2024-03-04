@@ -9,7 +9,7 @@ I received my Ph.D. degree in Computer Science from [Tsinghua University](https:
 
 My research mission is to democratize data analytics by simplifying and automating the data analytics pipeline. I achieve this by developing systems and tools that leverage visualization, data management, and artificial intelligence techniques. My primary focus is on assisting users, especially novices, to comprehend and utilize massive datasets with ease and efficiency.
 
-My current research interests include <i>AI for Data Analytics <i class="fa-solid fa-chart-line"></i></i> and <i>Data Management for Data Science</i>.
+My current research interests include <i>AI for Data Analytics (<i class="fa-solid fa-chart-line"></i>)</i> and <i>Data Management for Data Science (<i class="fa-solid fa-database"></i>)</i>.
 
 <hr>
 
@@ -20,7 +20,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     <big><b>Year 2024 </b></big>
     <li>
         <a href="http://arxiv.org/abs/2307.02796" target="_blank">
-          VerifAI: Verified Generative AI 
+         <i class="fa-solid fa-database"></i> VerifAI: Verified Generative AI 
         </a>
         <br>
         Nan Tang, Chenyu Yang, Ju Fan, Lei Cao, <b>Yuyu Luo</b>, Alon Halevy
@@ -29,7 +29,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     </li>
     <li>
         <a href="#" target="_blank">
-          Fast, Robust and Interpretable Participant Contribution Estimation for Federated Learning
+        <i class="fa-solid fa-database"></i>  Fast, Robust and Interpretable Participant Contribution Estimation for Federated Learning
         </a>
         <br>
         Yong Wang, <b>Yuyu Luo</b>, Kaiyu Li, Guoliang Li, Yunyan Guo, Zhuo Wang
@@ -38,7 +38,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     </li> 
     <li>
         <a href="#" target="_blank">
-          Mitigating Data Scarcity in Supervised Machine Learning through Reinforcement Learning Guided Data Generation
+        <i class="fa-solid fa-database"></i>  Mitigating Data Scarcity in Supervised Machine Learning through Reinforcement Learning Guided Data Generation
         </a>
         <br>
         Chengliang Chai, Kaisen Jin, Nan Tang, Ju Fan, Lianpeng Qiao, Yu-Ping Wang, <b>Yuyu Luo</b>, Ye Yuan, Guoren Wang
@@ -58,7 +58,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     <big><b>Year 2023 </b></big>
     <li>
         <a href="./files/SIGMOD2023-LineNet.pdf" target="_blank">
-          Learned Data-aware Image Representations of Line Charts for Similarity Search
+        <i class="fa-solid fa-chart-line"></i>  Learned Data-aware Image Representations of Line Charts for Similarity Search
         </a>
         <br>
         <b>Yuyu Luo</b>, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, Leixian Shen 
@@ -67,7 +67,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
    </li> 
    <li>
         <a href="./files/SIGMOD23-GoodCore.pdf" target="_blank">
-          GoodCore: Coreset Selection over Incomplete Data for Data-effective and Data-efficient Machine Learning
+        <i class="fa-solid fa-database"></i>  GoodCore: Coreset Selection over Incomplete Data for Data-effective and Data-efficient Machine Learning
         </a>
         <br>
         Chengliang Chai, Jiabin Liu, Nan Tang, Ju Fan, Dongjing Miao, Jiayi Wang,  <b>Yuyu Luo</b>, Guoliang Li
@@ -76,7 +76,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
    </li> 
    <li>
         <a href="./files/SIGMOD23-Tutorial.pdf" target="_blank">
-          Demystifying Artificial Intelligence for Data Preparation
+        <i class="fa-solid fa-database"></i>  Demystifying Artificial Intelligence for Data Preparation
         </a>
         <br>
         Chengliang Chai, Nan Tang, Ju Fan, <b>Yuyu Luo</b>
@@ -87,7 +87,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     <big><b>Year 2022 </b></big>
      <li>
         <a href="./files/DeepEye-TKDE.pdf" target="_blank">
-          Steerable Self-driving Data Visualization.
+        <i class="fa-solid fa-chart-line"></i>  Steerable Self-driving Data Visualization.
         </a>
         <br>
         <b>Yuyu Luo</b>, Xuedi Qin, Chengliang Chai,  Nan Tang, Guoliang Li, Wenbo Li. 
@@ -96,7 +96,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       </li> 
       <li>
         <a href="./files/SIGMOD22-Sevi.pdf" target="_blank">
-          Sevi: Speech-to-Visualization through Neural Machine Translation 
+        <i class="fa-solid fa-chart-line"></i>  Sevi: Speech-to-Visualization through Neural Machine Translation 
         </a>
         <br>
         Jiawei Tang, <b>Yuyu Luo*</b>, Mourad Ouzzani, Guoliang Li, Hongyang Chen. 
@@ -105,7 +105,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
      </li>
       <li>
         <a href="./files/DM4ML_Survey.pdf" target="_blank">
-          Data Management for Machine Learning: A Survey
+        <i class="fa-solid fa-database"></i>  Data Management for Machine Learning: A Survey
         </a>
         <br>
          Chengliang Chai, Jiayi Wang, <b>Yuyu Luo*</b>, Zeping Niu, Guoliang Li. 
@@ -114,7 +114,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       </li> 
       <li>
         <a href="./files/NL2VIS_Survey.pdf" target="_blank">
-          Towards Natural Language Interfaces for Data Visualization: A Survey
+        <i class="fa-solid fa-chart-line"></i>  Towards Natural Language Interfaces for Data Visualization: A Survey
         </a>
         <br>
         Leixian Shen, Enya Shen, <b>Yuyu Luo</b>, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, Jianmin Wang.
@@ -124,7 +124,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
        <!--  -->
       <li>
         <a href="./files/VLDB22-AutoData.pdf" target="_blank">
-          Selective Data Acquisition in the Wild for Model Charging
+        <i class="fa-solid fa-database"></i>  Selective Data Acquisition in the Wild for Model Charging
         </a>
         <br>
         Chengliang Chai, Jiabin Liu, Nan Tang, Guoliang Li,  <b>Yuyu Luo</b>.
@@ -135,7 +135,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       <!--  -->
       <li>
         <a href="./files/ICDE22-AutoFeature.pdf" target="_blank">
-          Feature Augmentation with Reinforcement Learning
+        <i class="fa-solid fa-database"></i>  Feature Augmentation with Reinforcement Learning
         </a>
         <br>
         Jiabin Liu, Chengliang Chai, <b>Yuyu Luo</b>, Yin Lou, Jianhua Feng, Nan Tang.
@@ -146,7 +146,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 <!--  -->
       <li>
         <a href="./files/ICDE22-RwTree.pdf" target="_blank">
-        RW-Tree: A Learned Workload-aware Framework for R-tree Construction
+        <i class="fa-solid fa-database"></i> RW-Tree: A Learned Workload-aware Framework for R-tree Construction
         </a>
         <br>
         Haowen Dong, Chengliang Chai, <b>Yuyu Luo</b>,  Jiabin Liu, Jianhua Feng, Chaoqun Zhan.
@@ -157,7 +157,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 <!--  -->
       <li>
         <a href="./files/VLDBJ22-dexplorer.pdf" target="_blank">
-        Interactively Discovering and Ranking Desired Tuples by Data Exploration
+        <i class="fa-solid fa-chart-line"></i> Interactively Discovering and Ranking Desired Tuples by Data Exploration
         </a>
         <br>
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Tianyu Zhao, Nan Tang, Guoliang Li, Jianhua Feng, Xiang Yu, Mourad Ouzzani.
@@ -167,7 +167,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 <!--  -->
       <li>
         <a href="./files/GALVIS.pdf" target="_blank">
-          GALVIS: Visualization Construction through Example-Powered Declarative Programming.
+        <i class="fa-solid fa-chart-line"></i>  GALVIS: Visualization Construction through Example-Powered Declarative Programming.
         </a>
         <br>
         Leixian Shen, Enya Shen, Zhiwei Tai, Yun Wang, <b>Yuyu Luo</b>, Jianmin Wang.
@@ -179,7 +179,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     <br>
       <li>
         <a href="./files/nvBench-SIGMOD21.pdf" target="_blank">
-          Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks
+        <i class="fa-solid fa-chart-line"></i>  Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks
         </a>
         <br>
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Chengliang Chai, Wenbo Li, Xuedi Qin 
@@ -190,7 +190,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       <br>
       <li>
       <a href="./files/ncNet-VIS21.pdf" target="_blank">
-            Natural Language to Visualization by Neural Machine Translation
+          <i class="fa-solid fa-chart-line"></i>  Natural Language to Visualization by Neural Machine Translation
             </a>
           <br>
           <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin 
@@ -212,7 +212,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       <br> -->
       <li>
         <a href = "https://static1.squarespace.com/static/608f651953becd6fa58dd69f/t/6170807a8c5d11311d1fe2c0/1634762877044/nvBench_NLVIZ2021.pdf" target="_blank">
-           nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task
+        <i class="fa-solid fa-chart-line"></i>   nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task
         </a>
         <br>
         <b>Yuyu Luo</b>, Jiawei Tang, Guoliang Li
@@ -243,7 +243,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     <big><b>Year 2020 </b></big> 
       <li>
         <a href="./files/VLDB20-DeepTrack.pdf" target="_blank">
-          DeepTrack: Monitoring and Exploring Spatio-Temporal Data <br> – A Case of Tracking COVID-19 –
+        <i class="fa-solid fa-chart-line"></i>  DeepTrack: Monitoring and Exploring Spatio-Temporal Data <br> – A Case of Tracking COVID-19 –
         </a>
         <br>
         <b>Yuyu Luo</b>, Wenbo Li, Guoliang Li,  Nan Tang
@@ -252,7 +252,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       </li> 
       <li>
         <a href="./files/VLDB20-VisClean.pdf" target="_blank">
-          VisClean: Interactive Cleaning for Progressive Visualization.
+        <i class="fa-solid fa-chart-line"></i>  VisClean: Interactive Cleaning for Progressive Visualization.
         </a>
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin,  Nan Tang, Guoliang Li. 
@@ -262,7 +262,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       </li> 
       <li>
         <a href="./files/VisClean-ICDE2020.pdf">
-          Interactive Cleaning for Progressive Visualization through Composite Questions.
+        <i class="fa-solid fa-chart-line"></i>  Interactive Cleaning for Progressive Visualization through Composite Questions.
         </a>
         <br>
         <b>Yuyu Luo</b>, Chengliang Chai, Xuedi Qin, Nan Tang, Guoliang Li. 
@@ -273,7 +273,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       <!--  --> 
       <li>
         <a href="./files/SIGMOD20-HOD.pdf" target="_blank">
-          Human-in-the-loop Outlier Detection
+        <i class="fa-solid fa-database"></i>  Human-in-the-loop Outlier Detection
         </a>
         <br>
         Chengliang Chai, Lei Cao, Guoliang Li, Jian Li, <b>Yuyu Luo</b>, Samuel Madden.
@@ -282,7 +282,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       </li> 
       <li>
         <a href="./files/DBExplorer-sigmod20demo.pdf" target="_blank">
-          Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.
+        <i class="fa-solid fa-chart-line"></i>  Interactively Discovering and Ranking Desired Tuples without Writing SQL Queries.
         </a>
         <br>
         Xuedi Qin, Chengliang Chai, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li. 
@@ -291,7 +291,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       </li>  
       <li>
         <a href="./files/DEBulletin_COVID19.pdf">
-          DEEPEYE: A Data Science System for Monitoring and Exploring COVID-19 Data.
+        <i class="fa-solid fa-chart-line"></i>  DEEPEYE: A Data Science System for Monitoring and Exploring COVID-19 Data.
         </a>
         <br>
         <b>Yuyu Luo</b>, Nan Tang, Guoliang Li, Tianyu Zhao, Wenbo Li, Xiang Yu. 
@@ -311,7 +311,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       <!--  -->
       <li>
         <a href="./files/TKDE20-Chart.pdf" target="_blank">
-          CrowdChart: Crowdsourced-based Data Extraction from Visualization Chart.
+        <i class="fa-solid fa-chart-line"></i>  CrowdChart: Crowdsourced-based Data Extraction from Visualization Chart.
         </a>
         <br>
         Chengliang Chai, Guoliang Li, Ju Fan, <b>Yuyu Luo</b>.
@@ -324,7 +324,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       <!--  -->
       <li>
         <a href="./files/survey-vldbj.pdf" target="_blank">
-          Making Data Visualization More Efficient and Effective: A Survey.
+        <i class="fa-solid fa-chart-line"></i>  Making Data Visualization More Efficient and Effective: A Survey.
         </a>
         <br>
          Xuedi Qin, <b>Yuyu Luo</b>, Nan Tang, Guoliang Li.
@@ -333,7 +333,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       </li> 
       <li>
         <a href="./files/dasfaa19-gaokao.pdf" target="_blank">
-          MathGraph: A Knowledge Graph for Automatically Solving Mathematical Exercises.
+        <i class="fa-solid fa-database"></i>  MathGraph: A Knowledge Graph for Automatically Solving Mathematical Exercises.
         </a>
         <br>
         Tianyu Zhao, Yan Huang, Songfan Yang, <b>Yuyu Luo</b>, et al.
@@ -345,7 +345,8 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
       <big> <b>Year 2018 </b> </big> 
   <!-- Yuyu Luo, Xueqi Qin, Nan Tang, Guoliang Li. DeepEye: Towards Automatic Data Visualization. ICDE 2018.  -->
       <li>
-        <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf" target="_blank">DeepEye: Towards Automatic Data Visualization.</a><br/>
+        <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf" target="_blank">
+        <i class="fa-solid fa-chart-line"></i> DeepEye: Towards Automatic Data Visualization.</a><br/>
         <b><a href="https://ieeexplore.ieee.org/xpl/conhome/8476188/proceeding?isnumber=8509221&sortType=paper-citations">ICDE 2018 Highly Cited Papers Top-2</a></b> <br>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li. 
         <br>
@@ -353,7 +354,8 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         [<a href="https://github.com/Thanksyy/DeepEye-APIs">DeepEye-APIs (Python3.6)</a>]
       </li> 
       <li>
-        <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
+        <a href="http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf" target="_blank">
+        <i class="fa-solid fa-chart-line"></i> DeepEye: Creating Good Data Visualizations by Keyword Search (Demo).</a><br/>
         <b>Yuyu Luo</b>, Xuedi Qin, Nan Tang, Guoliang Li, Xinran Wang. 
         <br>
         <b>ACM SIGMOD 2018. 
