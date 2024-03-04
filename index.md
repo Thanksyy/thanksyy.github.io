@@ -9,7 +9,7 @@ I received my Ph.D. degree in Computer Science from [Tsinghua University](https:
 
 My research mission is to democratize data analytics by simplifying and automating the data analytics pipeline. I achieve this by developing systems and tools that leverage visualization, data management, and artificial intelligence techniques. My primary focus is on assisting users, especially novices, to comprehend and utilize massive datasets with ease and efficiency.
 
-My current research interests include <i>AI for Data Analytics</i> and <i>Data Management for Data Science</i>.
+My current research interests include <i>AI for Data Analytics <i class="fa-solid fa-chart-line"></i></i> and <i>Data Management for Data Science</i>.
 
 <hr>
 
@@ -20,7 +20,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     <big><b>Year 2024 </b></big>
     <li>
         <a href="http://arxiv.org/abs/2307.02796" target="_blank">
-          VerifAI: Verified Generative AI
+          VerifAI: Verified Generative AI 
         </a>
         <br>
         Nan Tang, Chenyu Yang, Ju Fan, Lei Cao, <b>Yuyu Luo</b>, Alon Halevy
@@ -47,7 +47,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     </li> 
     <li>
         <a href="./files/CoInsight_PVIS2024.pdf" target="_blank">
-          CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
+          <i class="fa-solid fa-chart-line"></i> CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
         </a>
         <br>
         Guozheng Li, Runfei Li, Yunshan Feng, Yu Zhang, <b>Yuyu Luo*</b>, Chi Harold Liu
