@@ -9,7 +9,7 @@ I received my Ph.D. degree in Computer Science from [Tsinghua University](https:
 
 My research mission is to democratize data analytics by simplifying and automating the data analytics pipeline. I achieve this by developing systems and tools that leverage visualization, data management, and artificial intelligence techniques. My primary focus is on assisting users, especially novices, to comprehend and utilize massive datasets with ease and efficiency.
 
-My current research interests include <i>AI for Data Analytics (<i class="fa-solid fa-chart-line"></i>)</i> and <i>Data Management for Data Science (<i class="fa-solid fa-database"></i>)</i>.
+My current research interests include <i>AI for Data Analytics</i> (<i class="fa-solid fa-chart-line"></i>) and <i>Data Management for Data Science</i> (<i class="fa-solid fa-database"></i>).
 
 <hr>
 
