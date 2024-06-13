@@ -16,7 +16,7 @@ My current research interests include <i>AI for Data Analytics</i> (<i class="fa
 I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/positions.pdf) (Spring/Fall 2025). If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
 
 
-## Preprint
+## Preprints
 <ol>
     <li>
         <a href="https://arxiv.org/pdf/2406.01265" target="_blank">
