@@ -20,14 +20,14 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 <ol>
     <li>
         <a href="https://arxiv.org/pdf/2406.01265" target="_blank">
-         <i class="fa-solid fa-database"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
+         <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
         </a>
         <br>
         Boyan Li, <b>Yuyu Luo</b>, Chengliang Chai, Guoliang Li, Nan Tang
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
-         <i class="fa-solid fa-database"></i> Are Large Language Models Good Statisticians?
+         <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
         </a>
         <br>
         Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo</b>, Nan Tang
