@@ -23,14 +23,21 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
          <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
         </a>
         <br>
-        Boyan Li, <b>Yuyu Luo</b>, Chengliang Chai, Guoliang Li, Nan Tang
+        Boyan Li, <b>Yuyu Luo*</b>, Chengliang Chai, Guoliang Li, Nan Tang
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
         </a>
         <br>
-        Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo</b>, Nan Tang
+        Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo*</b>, Nan Tang
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> HAIChart: Human and AI Paired Visualization System
+        </a>
+        <br>
+        Yupeng Xie, <b>Yuyu Luo*</b>, Guoliang Li, Nan Tang
     </li>
 </ol>
 
