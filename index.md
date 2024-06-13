@@ -392,17 +392,19 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
   </ol>
 
 
-## Students
+## PhD Students
 <ul> 
-<big> <b>Ph.D. students</b> </big> 
-<li> Tianqi Luo, 2023 Fall, from Johns Hopkins University</li>
-<li> Xinyu Liu, 2023 Fall,  from Northeastern University</li>
-<li> Yao Shi (co-advised with Nan Tang), 2023 Fall,  from Univ. of Elec. Sci. and Tech. of China </li>
+<big> 2023 </big> 
+<li> Tianqi Luo (M.S. from Johns Hopkins University)</li>
+<li> Xinyu Liu (B.S. from Northeastern University, China)</li>
+<li> Yao Shi (co-advised with <a href="https://nantang.github.io/">Nan Tang</a>, B.S. from Univ. of Elec. Sci. and Tech. of China)</li>
 
-<big> <b>M.Phil. students</b> </big> 
-<li>Runzhi Jiang, 2023 Fall, from SUSTech</li>
-<li>Siyu Yan, 2023 Fall, from Nankai University</li>
-<li>Peixian Ma, 2023 Fall, from Jinan University</li>
+<big> 2024 </big> 
+<li> Changlun Li (co-advised with <a href="https://nantang.github.io/">Nan Tang</a>, B.S. from CUHK)</li>
+<li> Jiayi Zhang (B.S. from Renmin Univeristy of China)</li>
+<li> Boyan Li (from HKUST(GZ))</li>
+<!-- <li> Shuyu Shen (from HKUST(GZ))</li>
+<li> Yupeng Xie (from HKUST(GZ))</li> -->
 </ul>
 
 ## Selected Awards
