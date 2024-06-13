@@ -15,6 +15,26 @@ My current research interests include <i>AI for Data Analytics</i> (<i class="fa
 
 I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/positions.pdf) (2024 Fall). If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
 
+
+## Preprint
+<ol>
+    <li>
+        <a href="https://arxiv.org/pdf/2406.01265" target="_blank">
+         <i class="fa-solid fa-database"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
+        </a>
+        <br>
+        Boyan Li, <b>Yuyu Luo</b>, Chengliang Chai, Guoliang Li, Nan Tang
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
+         <i class="fa-solid fa-database"></i> Are Large Language Models Good Statisticians?
+        </a>
+        <br>
+        Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo</b>, Nan Tang
+    </li>
+</ol>
+
+
 ## Selected Publications
 <ol>
     <big><b>Year 2024 </b></big>
