@@ -33,7 +33,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo*</b>, Nan Tang
     </li>
     <li>
-        <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
+        <a href="https://arxiv.org/pdf/2406.11033" target="_blank">
          <i class="fa-solid fa-chart-column"></i> HAIChart: Human and AI Paired Visualization System
         </a>
         <br>
