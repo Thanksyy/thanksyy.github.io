@@ -19,25 +19,11 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 ## Preprints
 <ol>
     <li>
-        <a href="https://arxiv.org/pdf/2406.01265" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
-        </a>
-        <br>
-        Boyan Li, <b>Yuyu Luo*</b>, Chengliang Chai, Guoliang Li, Nan Tang
-    </li>
-    <li>
         <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
         </a>
         <br>
         Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo*</b>, Nan Tang
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2406.11033" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> HAIChart: Human and AI Paired Visualization System
-        </a>
-        <br>
-        Yupeng Xie, <b>Yuyu Luo*</b>, Guoliang Li, Nan Tang
     </li>
 </ol>
 
@@ -45,6 +31,24 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 ## Selected Publications
 <ol>
     <big><b>Year 2024 </b></big>
+    <li>
+        <a href="https://arxiv.org/pdf/2406.01265" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
+        </a>
+        <br>
+        Boyan Li, <b>Yuyu Luo*</b>, Chengliang Chai, Guoliang Li, Nan Tang
+        <br>
+        <b>VLBD 2024.</b> 
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2406.11033" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> HAIChart: Human and AI Paired Visualization System
+        </a>
+        <br>
+        Yupeng Xie, <b>Yuyu Luo*</b>, Guoliang Li, Nan Tang
+        <br>
+        <b>VLBD 2024.</b> 
+    </li>
     <li>
         <a href="http://arxiv.org/abs/2307.02796" target="_blank">
          <i class="fa-solid fa-database"></i> VerifAI: Verified Generative AI 
