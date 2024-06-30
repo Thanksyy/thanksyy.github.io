@@ -38,7 +38,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <br>
         Boyan Li, <b>Yuyu Luo*</b>, Chengliang Chai, Guoliang Li, Nan Tang
         <br>
-        <b>VLBD 2024.</b> 
+        <b>VLDB 2024.</b> 
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2406.11033" target="_blank">
@@ -47,7 +47,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <br>
         Yupeng Xie, <b>Yuyu Luo*</b>, Guoliang Li, Nan Tang
         <br>
-        <b>VLBD 2024.</b> 
+        <b>VLDB 2024.</b> 
     </li>
     <li>
         <a href="http://arxiv.org/abs/2307.02796" target="_blank">
