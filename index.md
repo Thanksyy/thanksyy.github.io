@@ -19,6 +19,13 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 ## Preprints
 <ol>
     <li>
+        <a href="https://arxiv.org/abs/2408.05109" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
+        </a>
+        <br>
+        [<a href="https://arxiv.org/pdf/2408.05109">NL2SQL Handbook</a>, <a href="#">Slides/PPT (to appear)</a>]
+    </li>
+    <li>
         <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
         </a>
