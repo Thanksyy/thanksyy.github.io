@@ -20,7 +20,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 <ol>
     <li>
         <a href="https://arxiv.org/abs/2408.05109" target="_blank">
-         <i class="fa-solid fa-chart-column"></i>A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
+         (!!!) A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
         </a>
         <br>
         [<a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>], [<a href="#">Slides/PPT (to appear)</a>]
