@@ -18,12 +18,12 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 
 ## Preprints
 <ol>
-    <li><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i>
+    <li><i class="fa-solid fa-star"></i>
         <a href="https://arxiv.org/abs/2408.05109" target="_blank">
         A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
         </a>
         <br>
-        [<a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>], [<a href="#">Slides/PPT (to appear)</a>]
+        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>], [<i class="fa-solid fa-file"></i> <a href="#">Slides/PPT (to appear)</a>]
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
