@@ -31,6 +31,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         </a>
         <br>
         Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo*</b>, Nan Tang
+        <br> [<i class="fa-solid fa-table"></i> <a href="https://github.com/derrickzhuyz/StatQA">Dataset</a>]
     </li>
 </ol>
 
