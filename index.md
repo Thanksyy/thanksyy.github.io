@@ -40,22 +40,22 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 <ol>
     <big><b>Year 2024 </b></big>
     <li>
-        <a href="https://arxiv.org/pdf/2406.01265" target="_blank">
+        <a href="https://www.vldb.org/pvldb/vol17/p3318-luo.pdf" target="_blank">
          <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
         </a>
         <br>
         Boyan Li, <b>Yuyu Luo*</b>, Chengliang Chai, Guoliang Li, Nan Tang
         <br>
-        <b>VLDB 2024.</b> 
+        <b>VLDB 2024.</b> [<a href="https://github.com/HKUSTDial/NL2SQL360">Code</a>]
     </li>
     <li>
-        <a href="https://arxiv.org/pdf/2406.11033" target="_blank">
+        <a href="https://www.vldb.org/pvldb/vol17/p3178-luo.pdf" target="_blank">
          <i class="fa-solid fa-chart-column"></i> HAIChart: Human and AI Paired Visualization System
         </a>
         <br>
         Yupeng Xie, <b>Yuyu Luo*</b>, Guoliang Li, Nan Tang
         <br>
-        <b>VLDB 2024.</b> 
+        <b>VLDB 2024.</b> [<a href="https://github.com/HKUSTDial/HAIChart">Code</a>]
     </li>
     <li>
         <a href="http://arxiv.org/abs/2307.02796" target="_blank">
