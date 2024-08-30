@@ -413,10 +413,9 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 
 <big> 2024 </big> 
 <li> Changlun Li (co-advised with <a href="https://nantang.github.io/">Nan Tang</a>, B.S. from CUHK)</li>
-<li> Jiayi Zhang (B.S. from Renmin Univeristy of China)</li>
+<li> Jiayi Zhang (from Renmin Univeristy of China)</li>
 <li> Boyan Li (from HKUST(GZ))</li>
-<!-- <li> Shuyu Shen (from HKUST(GZ))</li>
-<li> Yupeng Xie (from HKUST(GZ))</li> -->
+<li> Shuyu Shen (from HKUST(GZ))</li>
 </ul>
 
 ## Selected Awards
