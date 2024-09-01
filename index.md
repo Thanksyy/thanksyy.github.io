@@ -46,7 +46,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <br>
         Boyan Li, <b>Yuyu Luo*</b>, Chengliang Chai, Guoliang Li, Nan Tang
         <br>
-        <b>VLDB 2024.</b> [<a href="https://github.com/HKUSTDial/NL2SQL360">Code</a>]
+        <b>VLDB 2024.</b> [<a href="https://nl2sql360.github.io/">Homepage</a>]
     </li>
     <li>
         <a href="https://www.vldb.org/pvldb/vol17/p3178-luo.pdf" target="_blank">
