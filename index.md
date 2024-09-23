@@ -80,7 +80,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <br>
         Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, <b>Yuyu Luo*</b>
         <br>
-        <b>Findings of EMNLP 2024.</b> 
+        <b>EMNLP 2024.</b> 
         [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>]
     </li>
     <li>
