@@ -9,7 +9,7 @@ I received my Ph.D. degree in Computer Science from [Tsinghua University](https:
 
 <!-- My research mission is to democratize data analytics by simplifying and automating the data analytics pipeline. I achieve this by developing systems and tools that leverage visualization, data management, and artificial intelligence techniques. My primary focus is on assisting users, especially novices, to comprehend and utilize massive datasets with ease and efficiency. -->
 
-My current research interests include <i>AI for Data Analytics (e.g., NL2SQL, TableQA, AI4VIS)</i> (<i class="fa-solid fa-chart-column"></i>) and <i>Data-centric AI</i> (<i class="fa-solid fa-database"></i>).
+My current research interests include <i class="fa-solid fa-chart-column"></i><i>AI for Data Analytics (e.g., NL2SQL, TableQA, AI4VIS)</i> and <i class="fa-solid fa-database"></i><i>Data-centric AI</i>.
 
 <hr>
 
@@ -75,7 +75,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     </li>
     <li>
         <a href="#" target="_blank">
-         <i class="fa-solid fa-database"></i> ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering
+         <i class="fa-solid fa-chart-column"></i> ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering
         </a>
         <br>
         Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, <b>Yuyu Luo*</b>
@@ -85,7 +85,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     </li>
     <li>
         <a href="#" target="_blank">
-         <i class="fa-solid fa-database"></i> MAR: Matching-Augmented Reasoning for Enhancing Visual-based Entity Question Answering
+         <i class="fa-solid fa-chart-column"></i> MAR: Matching-Augmented Reasoning for Enhancing Visual-based Entity Question Answering
         </a>
         <br>
         Zhengxuan Zhang, Yin WU, <b>Yuyu Luo</b>, Nan Tang
