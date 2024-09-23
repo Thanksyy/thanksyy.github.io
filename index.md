@@ -81,7 +81,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, <b>Yuyu Luo*</b>
         <br>
         <b>Findings of EMNLP 2024.</b> 
-        <br> [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>]
+        [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>]
     </li>
     <li>
         <a href="#" target="_blank">
