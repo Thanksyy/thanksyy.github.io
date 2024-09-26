@@ -38,7 +38,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
          <i class="fa-solid fa-chart-column"></i> Generative AI for visualization: State of the art and future directions.
         </a>
         <br>
-        Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng
+        Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, <b>Yuyu Luo</b>, Wei Zeng
         <br> <b>Visual Informatics 2024</b>
     </li>
 </ol>
