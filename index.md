@@ -26,14 +26,6 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>], [<i class="fa-solid fa-file"></i> <a href="#">Slides/PPT (to appear)</a>]
     </li>
     <li>
-        <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
-        </a>
-        <br>
-        Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo*</b>, Nan Tang
-        <br> [<i class="fa-solid fa-table"></i> <a href="https://github.com/derrickzhuyz/StatQA">Dataset</a>]
-    </li>
-    <li>
         <a href="./files/ai4vis_survey.pdf" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Generative AI for visualization: State of the art and future directions.
         </a>
@@ -64,6 +56,14 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         Yupeng Xie, <b>Yuyu Luo*</b>, Guoliang Li, Nan Tang
         <br>
         <b>VLDB 2024.</b> [<a href="https://github.com/HKUSTDial/HAIChart">Code</a>]
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
+        </a>
+        <br>
+        Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo*</b>, Nan Tang
+        <br> <b>NeurIPS 2024</b> [<i class="fa-solid fa-table"></i> <a href="https://github.com/derrickzhuyz/StatQA">Dataset</a>]
     </li>
     <li>
         <a href="http://arxiv.org/abs/2307.02796" target="_blank">
