@@ -442,7 +442,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 <big> 2024 </big> 
 <li> Changlun Li (co-advised with <a href="https://nantang.github.io/">Nan Tang</a>, B.S. from CUHK)</li>
 <li> Jiayi Zhang (from Renmin Univeristy of China)</li>
-<li> Boyan Li (from HKUST(GZ))</li>
+<li> <a href="https://liboyan.vip/">Boyan Li</a> (from HKUST(GZ))</li>
 <li> Shuyu Shen (from HKUST(GZ))</li>
 </ul>
 
@@ -479,8 +479,9 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
 
 ## Professional Services
 <ul>
-<li>PC Member: ICDE 2024, VLDB 2023, DASFAA 2023, IEEE BigData 2023</li>
-<li>Conference Reviewer: IEEE VIS 2021-2022, EuroVis 2022, CHI 2022</li>    
+<li>Session Chair: VLDB 2024 </li>
+<li>PC Member:  VLDB 2023-2025, ICDE 2024-2025, ICLR 2025</li>
+<li>Conference Reviewer: IEEE VIS 2021-2024, CHI 2022-2025</li>    
 <li>Journal Reviewer: ACM Transactions on Database Systems, TVCG, ACM/IMS TDS, Data Science and Engineering</li>
 <li>Conference Volunteer: SIGMOD 2021/2023</li>
 </ul>
