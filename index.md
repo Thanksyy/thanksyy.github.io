@@ -75,6 +75,15 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <b>CIDR 2024.</b> 
     </li>
     <li>
+        <a href="https://datavideos.github.io/Data-Playwright/" target="_blank">
+          <i class="fa-solid fa-chart-column"></i> Data Playwright: Authoring Data Videos with Annotated Narration
+        </a>
+        <br>
+        Leixian Shen, Haotian Li, Yun Wang, Tianqi Luo, <b>Yuyu Luo</b>, Huamin Qu
+        <br>
+        <b>TVCG 2024.</b>  [<a href="https://datavideos.github.io/Data-Playwright/">Homepage</a>]
+    </li> 
+    <li>
         <a href="#" target="_blank">
          <i class="fa-solid fa-chart-column"></i> ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering
         </a>
