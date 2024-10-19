@@ -91,7 +91,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <b>TVCG 2024.</b>  [<a href="https://datavideos.github.io/Data-Playwright/">Homepage</a>]
     </li> 
     <li>
-        <a href="#" target="_blank">
+        <a href="https://arxiv.org/pdf/2405.07001" target="_blank">
          <i class="fa-solid fa-chart-column"></i> ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering
         </a>
         <br>
