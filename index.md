@@ -26,8 +26,15 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>], [<i class="fa-solid fa-file"></i> <a href="#">Slides/PPT (to appear)</a>]
     </li>
     <li>
+        <a href="https://arxiv.org/abs/2410.10762" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> AFlow: Automating Agentic Workflow Generation
+        </a>
+        <br>
+        Jiayi Zhang, Jinyu Xiang, et al. <b>Yuyu Luo*</b>, Chenglin Wu*
+    </li>
+    <li>
         <a href="./files/ai4vis_survey.pdf" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Generative AI for visualization: State of the art and future directions.
+         <i class="fa-solid fa-chart-column"></i> Generative AI for visualization: State of the art and future directions
         </a>
         <br>
         Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, <b>Yuyu Luo</b>, Wei Zeng
