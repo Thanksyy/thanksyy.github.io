@@ -100,7 +100,7 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <b>EMNLP 2024.</b> 
         [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>]
     </li>
-    <li>
+    <!-- <li>
         <a href="#" target="_blank">
          <i class="fa-solid fa-chart-column"></i> MAR: Matching-Augmented Reasoning for Enhancing Visual-based Entity Question Answering
         </a>
@@ -108,8 +108,8 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         Zhengxuan Zhang, Yin WU, <b>Yuyu Luo</b>, Nan Tang
         <br>
         <b>EMNLP 2024.</b> 
-        <!-- <br> [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>] -->
-    </li>
+        <br> [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>] 
+    </li> -->
     <li>
         <a href="#" target="_blank">
         <i class="fa-solid fa-database"></i>  Fast, Robust and Interpretable Participant Contribution Estimation for Federated Learning
