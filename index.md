@@ -42,21 +42,21 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
     </li>
     <li>
         <a href="#" target="_blank">
+         <i class="fa-solid fa-database"></i> Coreset Selection over Incomplete Data for Data-Effective and Data-Efficient Machine Learning
+        </a>
+        <br>
+        Chengliang Chai, Nan Tang, Ju Fan, <b>Yuyu Luo</b>, Guoliang Li, Ye Yuan, Guoren Wang
+        <br>
+        <b>TODS 2025.</b>
+    </li>
+    <li>
+        <a href="#" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Augmenting Realistic Charts with Virtual Overlays
         </a>
         <br>
         Yao Shi, Boyan Li, <b>Yuyu Luo*</b>, Lei Chen, Nan Tang
         <br>
         <b>CHI 2025.</b>
-    </li>
-    <li>
-        <a href="#" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Coreset Selection over Incomplete Data for Data-Effective and Data-Efficient Machine Learning
-        </a>
-        <br>
-        Chengliang Chai, Nan Tang, Ju Fan, <b>Yuyu Luo</b>, Guoliang Li, Ye Yuan, Guoren Wang
-        <br>
-        <b>TODS 2025.</b>
     </li>
     <big><b>Year 2024 </b></big>
     <li>
