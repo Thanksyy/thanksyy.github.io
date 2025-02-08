@@ -25,26 +25,39 @@ I am actively seeking self-motivated [PhD students](https://luoyuyu.vip/files/po
         <br>
         [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>], [<i class="fa-solid fa-file"></i> <a href="#">Slides/PPT (to appear)</a>]
     </li>
+</ol>
+
+
+## Selected Publications
+<ol>
+    <big><b>Year 2025 </b></big>
     <li>
         <a href="https://arxiv.org/abs/2410.10762" target="_blank">
          <i class="fa-solid fa-chart-column"></i> AFlow: Automating Agentic Workflow Generation
         </a>
         <br>
         Jiayi Zhang, Jinyu Xiang, et al. <b>Yuyu Luo*</b>, Chenglin Wu*
+        <br>
+        <b>ICLR 2025.</b>
     </li>
     <li>
-        <a href="./files/ai4vis_survey.pdf" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Generative AI for visualization: State of the art and future directions
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Augmenting Realistic Charts with Virtual Overlays
         </a>
         <br>
-        Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, <b>Yuyu Luo</b>, Wei Zeng
-        <br> <b>Visual Informatics 2024</b>
+        Yao Shi, Boyan Li, <b>Yuyu Luo*</b>, Lei Chen, Nan Tang
+        <br>
+        <b>CHI 2025.</b>
     </li>
-</ol>
-
-
-## Selected Publications
-<ol>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Coreset Selection over Incomplete Data for Data-Effective and Data-Efficient Machine Learning
+        </a>
+        <br>
+        Chengliang Chai, Nan Tang, Ju Fan, <b>Yuyu Luo</b>, Guoliang Li, Ye Yuan, Guoren Wang
+        <br>
+        <b>TODS 2025.</b>
+    </li>
     <big><b>Year 2024 </b></big>
     <li>
         <a href="https://www.vldb.org/pvldb/vol17/p3318-luo.pdf" target="_blank">
