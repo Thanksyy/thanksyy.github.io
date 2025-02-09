@@ -13,7 +13,7 @@ My current research interests include <i class="fa-solid fa-chart-column"></i><i
 
 <hr>
 
-I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files/positions.pdf)</b> (Fall 2025, Spring/Fall 2026), <b>MPhil students</b>, and <b>Research Assistants/Visiting Students</b> to collaborate on research topics related to LLMs, Foundation Agents, and Database Systems. If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
+I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files/positions.pdf)</b> (Fall 2025, Spring/Fall 2026), <b>MPhil students</b>, and <b>Research Assistants/Visiting Students</b> to collaborate on research topics related to <b>LLMs</b>, <b>Foundation Agents</b>, <b>AI for Database</b>, and <b>Data-centric AI</b>. If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
 
 
 ## Preprints or Survey
