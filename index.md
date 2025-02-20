@@ -16,15 +16,8 @@ My current research interests include <i class="fa-solid fa-chart-column"></i><i
 I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files/positions.pdf)</b> (Fall 2025, Spring/Fall 2026), <b>MPhil students</b>, and <b>Research Assistants/Visiting Students</b> to collaborate on research topics related to <b>LLMs</b>, <b>Foundation Agents</b>, <b>AI for Database</b>, and <b>Data-centric AI</b>. If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
 
 
-## Preprints or Survey
+## Preprints
 <ol>
-    <li><i class="fa-solid fa-star"></i>
-        <a href="https://arxiv.org/abs/2408.05109" target="_blank">
-        A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
-        </a>
-        <br>
-        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>]
-    </li>
     <li>
         <a href="#" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search
@@ -55,6 +48,21 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
     </li>
 </ol>
 
+## Surveys 
+<ol>
+    <li><i class="fa-solid fa-star"></i>
+        <a href="https://arxiv.org/abs/2408.05109" target="_blank">
+        A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
+        </a>
+        <br>
+        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>]
+    </li>
+    <li><i class="fa-solid fa-star"></i>
+        <a href="https://arxiv.org/abs/2502.12908" target="_blank">
+        Graph Neural Networks for Databases: A Survey
+        </a>
+    </li>
+</ol>
 
 ## Selected Publications
 <ol>
