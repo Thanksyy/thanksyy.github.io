@@ -23,7 +23,35 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
         A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
         </a>
         <br>
-        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>], [<i class="fa-solid fa-file"></i> <a href="#">Slides/PPT (to appear)</a>]
+        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>]
+    </li>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search
+        </a>
+        <br>
+        Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2502.12018" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Atom of Thoughts for Markov LLM Test-Time Scaling
+        </a>
+        <br>
+        Fengwei Teng, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, <b>Yuyu Luo</b>
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2502.06855" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Self-Supervised Prompt Optimization
+        </a>
+        <br>
+        Jinyu Xiang, Jiayi Zhang, et al., Sirui Hong, Chenglin Wu, <b>Yuyu Luo</b>
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2412.19146" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> AskChart: Universal Chart Understanding through Textual Enhancement
+        </a>
+        <br>
+        Xudong Yang, Yifan Wu, Yizhang Zhu, Nan Tang, <b>Yuyu Luo</b>
     </li>
 </ol>
 
@@ -36,9 +64,9 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
          <i class="fa-solid fa-chart-column"></i> AFlow: Automating Agentic Workflow Generation
         </a>
         <br>
-        Jiayi Zhang, Jinyu Xiang, et al. <b>Yuyu Luo*</b>, Chenglin Wu*
+        Jiayi Zhang, Jinyu Xiang, et al. <b>Yuyu Luo</b>, Chenglin Wu
         <br>
-        <b>ICLR 2025.</b>
+        <b>ICLR 2025 (Oral, top 1.8%).</b>
     </li>
     <li>
         <a href="#" target="_blank">
@@ -54,7 +82,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
          <i class="fa-solid fa-chart-column"></i> Augmenting Realistic Charts with Virtual Overlays
         </a>
         <br>
-        Yao Shi, Boyan Li, <b>Yuyu Luo*</b>, Lei Chen, Nan Tang
+        Yao Shi, Boyan Li, <b>Yuyu Luo</b>, Lei Chen, Nan Tang
         <br>
         <b>CHI 2025.</b>
     </li>
@@ -66,7 +94,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
          <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
         </a>
         <br>
-        Boyan Li, <b>Yuyu Luo*</b>, Chengliang Chai, Guoliang Li, Nan Tang
+        Boyan Li, <b>Yuyu Luo</b>, Chengliang Chai, Guoliang Li, Nan Tang
         <br>
         <b>VLDB 2024.</b> [<a href="https://nl2sql360.github.io/">Homepage</a>]
     </li>
@@ -75,7 +103,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
          <i class="fa-solid fa-chart-column"></i> HAIChart: Human and AI Paired Visualization System
         </a>
         <br>
-        Yupeng Xie, <b>Yuyu Luo*</b>, Guoliang Li, Nan Tang
+        Yupeng Xie, <b>Yuyu Luo</b>, Guoliang Li, Nan Tang
         <br>
         <b>VLDB 2024.</b> [<a href="https://github.com/HKUSTDial/HAIChart">Code</a>]
     </li>
@@ -84,7 +112,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
          <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
         </a>
         <br>
-        Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo*</b>, Nan Tang
+        Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo</b>, Nan Tang
         <br> <b>NeurIPS 2024</b> [<i class="fa-solid fa-table"></i> <a href="https://github.com/derrickzhuyz/StatQA">Dataset</a>]
     </li>
     <li>
@@ -110,7 +138,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
          <i class="fa-solid fa-chart-column"></i> ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering
         </a>
         <br>
-        Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, <b>Yuyu Luo*</b>
+        Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, <b>Yuyu Luo</b>
         <br>
         <b>EMNLP 2024.</b> 
         [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>]
@@ -148,7 +176,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
           <i class="fa-solid fa-chart-column"></i> CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
         </a>
         <br>
-        Guozheng Li, Runfei Li, Yunshan Feng, Yu Zhang, <b>Yuyu Luo*</b>, Chi Harold Liu
+        Guozheng Li, Runfei Li, Yunshan Feng, Yu Zhang, <b>Yuyu Luo</b>, Chi Harold Liu
         <br>
         <b>TVCG 2024.</b> 
     </li> 
@@ -197,7 +225,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
         <i class="fa-solid fa-chart-column"></i>  Sevi: Speech-to-Visualization through Neural Machine Translation 
         </a>
         <br>
-        Jiawei Tang, <b>Yuyu Luo*</b>, Mourad Ouzzani, Guoliang Li, Hongyang Chen. 
+        Jiawei Tang, <b>Yuyu Luo</b>, Mourad Ouzzani, Guoliang Li, Hongyang Chen. 
         <br>
         <b>ACM SIGMOD 2022 (Demo Track).</b>
      </li>
@@ -206,7 +234,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
         <i class="fa-solid fa-database"></i>  Data Management for Machine Learning: A Survey
         </a>
         <br>
-         Chengliang Chai, Jiayi Wang, <b>Yuyu Luo*</b>, Zeping Niu, Guoliang Li. 
+         Chengliang Chai, Jiayi Wang, <b>Yuyu Luo</b>, Zeping Niu, Guoliang Li. 
         <br>
         <b>IEEE TKDE 2022.</b>
       </li> 
