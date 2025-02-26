@@ -19,7 +19,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
 ## Preprints
 <ol>
     <li>
-        <a href="#" target="_blank">
+        <a href="https://arxiv.org/abs/2502.17248" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search
         </a>
         <br>
