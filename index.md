@@ -525,6 +525,12 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
 <li> <a href="https://didiforgithub.github.io/">Jiayi Zhang</a> (from Renmin University of China)</li>
 <li> <a href="https://liboyan.vip/">Boyan Li</a> (from HKUST(GZ))</li>
 <li> Shuyu Shen (from HKUST(GZ))</li>
+
+<big> 2025 </big> 
+<li> Xiaotian Lin (from HKUST(GZ))</li>
+<li> Yupeng Xie (from HKUST(GZ))</li>
+<li> Zihan Sun (from Tsinghua Univ.)</li>
+<li> Zhangyang Peng (from Wuhan Univ.)</li>
 </ul>
 
 ## Selected Awards
