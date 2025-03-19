@@ -33,6 +33,20 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
         Fengwei Teng, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, <b>Yuyu Luo</b>
     </li>
     <li>
+        <a href="https://nl2sql-bugs.github.io/" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> NL2SQL-Bugs: A Benchmark for Detecting Semantic Errors in NL2SQL Translation
+        </a>
+        <br>
+        Xinyu Liu, Shuyu Shen, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
+    </li>
+    <li>
+        <a href="https://nvbench2.github.io/" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity
+        </a>
+        <br>
+        Tianqi Luo, Chuhan Huang, Leixian Shen, Boyan Li, Shuyu Shen, Wei Zeng, Nan Tang, <b>Yuyu Luo</b>
+    </li>
+    <li>
         <a href="https://arxiv.org/pdf/2502.06855" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Self-Supervised Prompt Optimization
         </a>
