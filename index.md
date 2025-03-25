@@ -3,7 +3,7 @@
 
 I am an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
 I also hold an affiliated position at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (Clear Water Bay campus).
-I direct the Data Intelligence and Analytics Lab [DIAL @ HKUST(GZ)] (https://github.com/HKUSTDial), where our mission is to develop next-generation intelligent systems through research at the intersection of LLMs, Foundation Agents, AI for Databases, and Data-centric AI.
+I direct the Data Intelligence and Analytics Lab [DIAL @ HKUST(GZ)](https://github.com/HKUSTDial), where our mission is to develop next-generation intelligent systems through research at the intersection of LLMs, Foundation Agents, AI for Databases, and Data-centric AI.
 <!-- I received my Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). -->
 
 <!-- I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018. -->
