@@ -544,7 +544,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 <big> 2025 </big> 
 <li> Xiaotian Lin (from HKUST(GZ))</li>
 <li> Yupeng Xie (from HKUST(GZ))</li>
-<li> Yizhang Zhu (from HKUST(GZ))</li>
+<li> <a href="https://derrickzhuyz.github.io/">Yizhang Zhu</a> (from HKUST(GZ))</li>
 <li> Zihan Sun (from Tsinghua Univ.)</li>
 <li> Zhangyang Peng (from Wuhan Univ.)</li>
 </ul>
