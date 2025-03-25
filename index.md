@@ -2,22 +2,36 @@
 
 
 I am an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
-I also hold an affiliated position at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), the Clear Water Bay campus at Hong Kong.
-I received my Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/).
+I also hold an affiliated position at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (Clear Water Bay campus).
+I direct the Data Intelligence and Analytics Lab [DIAL @ HKUST(GZ)] (https://github.com/HKUSTDial), where our mission is to develop next-generation intelligent systems through research at the intersection of LLMs, Foundation Agents, AI for Databases, and Data-centric AI.
+<!-- I received my Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). -->
 
 <!-- I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018. -->
 
 <!-- My research mission is to democratize data analytics by simplifying and automating the data analytics pipeline. I achieve this by developing systems and tools that leverage visualization, data management, and artificial intelligence techniques. My primary focus is on assisting users, especially novices, to comprehend and utilize massive datasets with ease and efficiency. -->
 
-My current research interests include <i class="fa-solid fa-chart-column"></i><i>AI for Data Analytics (e.g., NL2SQL, TableQA, AI4VIS)</i> and <i class="fa-solid fa-database"></i><i>Data-centric AI</i>.
+<!-- My current research interests include <i class="fa-solid fa-chart-column"></i><i>AI for Data Analytics (e.g., NL2SQL, TableQA, AI4VIS)</i> and <i class="fa-solid fa-database"></i><i>Data-centric AI</i>. -->
 
 <hr>
 
-I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files/positions.pdf)</b> (Fall 2025, Spring/Fall 2026), <b>MPhil students</b>, and <b>Research Assistants/Visiting Students</b> to collaborate on research topics related to <b>LLMs</b>, <b>Foundation Agents</b>, <b>AI for Database</b>, and <b>Data-centric AI</b>. If you are interested in working with me, please send an email with your CV and transcripts for all degrees.
-
+I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/files/positions.pdf)</b> (Fall 2025, Spring/Fall 2026), <b>MPhil students</b>, and <b>Research Assistants/Visiting Students</b> to join our lab. If you're passionate about AI and data systems and interested in working with us, please send your CV and transcripts (for all degrees) via email.
 
 ## Preprints
 <ol>
+    <li>
+        <a href="https://arxiv.org/pdf/2503.18313" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective
+        </a>
+        <br>
+        Changlun Li, Yao Shi, <b>Yuyu Luo</b>, Nan Tang
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2503.18336" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Rise of the Community Champions: From Reviewer Crunch to Community Power
+        </a>
+        <br>
+        Changlun Li, Yao Shi, <b>Yuyu Luo</b>, Nan Tang
+    </li>
     <li>
         <a href="https://arxiv.org/abs/2502.17248" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search
@@ -61,6 +75,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
         Xudong Yang, Yifan Wu, Yizhang Zhu, Nan Tang, <b>Yuyu Luo</b>
     </li>
 </ol>
+
 
 ## Surveys 
 <ol>
@@ -529,6 +544,7 @@ I am actively seeking self-motivated <b>[PhD students](https://luoyuyu.vip/files
 <big> 2025 </big> 
 <li> Xiaotian Lin (from HKUST(GZ))</li>
 <li> Yupeng Xie (from HKUST(GZ))</li>
+<li> Yizhang Zhu (from HKUST(GZ))</li>
 <li> Zihan Sun (from Tsinghua Univ.)</li>
 <li> Zhangyang Peng (from Wuhan Univ.)</li>
 </ul>
