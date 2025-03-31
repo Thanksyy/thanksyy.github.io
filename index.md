@@ -532,7 +532,8 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 <ul> 
 <big> 2023 </big> 
 <li> Tianqi Luo (M.S. from Johns Hopkins University)</li>
-<li> Xinyu Liu (B.S. from Northeastern University, China)</li>
+<li> Xinyu Liu (B.Eeng. from Northeastern University, China)</li>
+<li> <a href="https://liangweioio.github.io/">Liangwei Wang</a> (co-advised with <a href="https://ieda.ust.hk/dfaculty/tsung/">Tsung Fugee</a>, B.Eeng. from Sun Yat-sen University, China)</li>
 <li> Yao Shi (co-advised with <a href="https://nantang.github.io/">Nan Tang</a>, B.S. from Univ. of Elec. Sci. and Tech. of China)</li>
 
 <big> 2024 </big> 
