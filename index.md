@@ -19,25 +19,18 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 ## Preprints
 <ol>
     <li>
-        <a href="https://arxiv.org/pdf/2503.18313" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective
-        </a>
-        <br>
-        Changlun Li, Yao Shi, <b>Yuyu Luo</b>, Nan Tang
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2503.18336" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Rise of the Community Champions: From Reviewer Crunch to Community Power
-        </a>
-        <br>
-        Changlun Li, Yao Shi, <b>Yuyu Luo</b>, Nan Tang
-    </li>
-    <li>
         <a href="https://arxiv.org/abs/2502.17248" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search
         </a>
         <br>
         Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2503.18313" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective
+        </a>
+        <br>
+        Changlun Li, Yao Shi, <b>Yuyu Luo</b>, Nan Tang
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2502.12018" target="_blank">
@@ -52,6 +45,13 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         </a>
         <br>
         Xinyu Liu, Shuyu Shen, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2503.18336" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Rise of the Community Champions: From Reviewer Crunch to Community Power
+        </a>
+        <br>
+        Changlun Li, Yao Shi, <b>Yuyu Luo</b>, Nan Tang
     </li>
     <li>
         <a href="https://nvbench2.github.io/" target="_blank">
@@ -79,6 +79,13 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 
 ## Surveys 
 <ol>
+    <li><i class="fa-solid fa-star"></i>
+        <a href="https://arxiv.org/abs/2504.01990" target="_blank">
+        Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems
+        </a>
+        <br>
+        [<i class="fa-solid fa-book"></i> <a href="https://github.com/FoundationAgents/awesome-foundation-agents">Awesome-Foundation-Agents</a>]
+    </li>
     <li><i class="fa-solid fa-star"></i>
         <a href="https://arxiv.org/abs/2408.05109" target="_blank">
         A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
