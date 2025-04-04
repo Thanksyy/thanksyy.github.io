@@ -26,6 +26,13 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
     </li>
     <li>
+        <a href="https://arxiv.org/abs/2502.17248" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing
+        </a> [<a href="https://elliesql.github.io/">Homepage</a>]
+        <br>
+        Yizhang Zhu, RUnzhi Jiang, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
+    </li>
+    <li>
         <a href="https://arxiv.org/pdf/2503.18313" target="_blank">
          <i class="fa-solid fa-chart-column"></i> DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective
         </a>
