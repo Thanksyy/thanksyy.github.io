@@ -26,11 +26,11 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
     </li>
     <li>
-        <a href="https://arxiv.org/abs/2502.17248" target="_blank">
+        <a href="https://elliesql.github.io/" target="_blank">
          <i class="fa-solid fa-chart-column"></i> EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing
         </a> [<a href="https://elliesql.github.io/">Homepage</a>]
         <br>
-        Yizhang Zhu, RUnzhi Jiang, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
+        Yizhang Zhu, Runzhi Jiang, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2503.18313" target="_blank">
@@ -545,9 +545,9 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 ## PhD Students
 <ul> 
 <big> 2023 </big> 
-<li> Tianqi Luo (M.S. from Johns Hopkins University)</li>
-<li> Xinyu Liu (B.Eeng. from Northeastern University, China)</li>
-<li> <a href="https://liangweioio.github.io/">Liangwei Wang</a> (co-advised with <a href="https://ieda.ust.hk/dfaculty/tsung/">Tsung Fugee</a>, B.Eeng. from Sun Yat-sen University, China)</li>
+<li> Tianqi Luo (MS from Johns Hopkins University)</li>
+<li> Xinyu Liu (BEng from Northeastern University, China)</li>
+<li> <a href="https://liangweioio.github.io/">Liangwei Wang</a> (co-advised with <a href="https://ieda.ust.hk/dfaculty/tsung/">Tsung Fugee</a>, BEng from Sun Yat-sen University, China)</li>
 <li> Yao Shi (co-advised with <a href="https://nantang.github.io/">Nan Tang</a>, B.S. from Univ. of Elec. Sci. and Tech. of China)</li>
 
 <big> 2024 </big> 
@@ -569,7 +569,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 <li>2023 - Forbes China 30 Under 30 List <a href="https://www.forbeschina.com/activity/news/66660">(入选2023福布斯中国30 Under 30榜单)</a></li>
 <li>2023 - <a href="https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml">CCF Doctoral Dissertation Nomination Award</a></li>
 <li>2023 - Best of SIGMOD 2023 Papers</li>
-<!-- <li>2023 - Distinguished Doctoral Graduate of Tsinghua University (清华优秀博士毕业生)</li> -->
+<li>2023 - Distinguished Doctoral Graduate of Tsinghua University (清华优博士)</li>
 <li>2023 - Distinguished Doctoral Dissertation Award of Tsinghua University (清华优秀博士学位论文)</li>
 <li>2023 - Rising Star in Data Visualization, CSIG VIS </li>
 <!-- <li>2023 - ACM SIGMOD Travel Award </li> -->
