@@ -121,6 +121,15 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
     </li>
     <li>
         <a href="#" target="_blank">
+         <i class="fa-solid fa-database"></i> Weak-to-Strong Prompts with Lightweight-to-Powerful LLMs for High-Accuracy, Low-Cost, and Explainable Data Transformation
+        </a>
+        <br>
+        Changlun Li, Chenyu Yang, <b>Yuyu Luo</b>, Ju Fan, Nan Tang
+        <br>
+        <b>VLDB 2025.</b>
+    </li>
+    <li>
+        <a href="#" target="_blank">
          <i class="fa-solid fa-database"></i> Coreset Selection over Incomplete Data for Data-Effective and Data-Efficient Machine Learning
         </a>
         <br>
