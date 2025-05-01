@@ -19,13 +19,6 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 ## Preprints
 <ol>
     <li>
-        <a href="https://arxiv.org/abs/2502.17248" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search
-        </a>
-        <br>
-        Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
-    </li>
-    <li>
         <a href="https://elliesql.github.io/" target="_blank">
          <i class="fa-solid fa-chart-column"></i> EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing
         </a> [<a href="https://elliesql.github.io/">Homepage</a>]
@@ -118,6 +111,15 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         Jiayi Zhang, Jinyu Xiang, et al. <b>Yuyu Luo</b>, Chenglin Wu
         <br>
         <b>ICLR 2025 (Oral, top 1.8%).</b>
+    </li>
+    <li>
+        <a href="https://arxiv.org/abs/2502.17248" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search
+        </a>
+        <br>
+        Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
+        <br>
+        <b>ICML 2025.</b>
     </li>
     <li>
         <a href="#" target="_blank">
