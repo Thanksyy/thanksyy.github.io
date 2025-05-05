@@ -131,7 +131,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         <b>VLDB 2025.</b>
     </li>
     <li>
-        <a href="#" target="_blank">
+        <a href="./files/goodcore_plus.pdf" target="_blank">
          <i class="fa-solid fa-database"></i> Coreset Selection over Incomplete Data for Data-Effective and Data-Efficient Machine Learning
         </a>
         <br>
@@ -140,7 +140,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         <b>TODS 2025.</b>
     </li>
     <li>
-        <a href="#" target="_blank">
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714320" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Augmenting Realistic Charts with Virtual Overlays
         </a>
         <br>
