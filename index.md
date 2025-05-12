@@ -19,6 +19,20 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 ## Preprints
 <ol>
     <li>
+        <a href="https://github.com/HKUSTDial/LEAD" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
+        </a> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
+        <br>
+        Xiaotian Lin, Yanlin Qi, Yizhang Zhu, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2505.04671" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards
+        </a> 
+        <br>
+        Yuxin Zhang, Meihao Fan, Ju Fan, Mingyang Yi, <b>Yuyu Luo</b>, Jian Tan, Guoliang Li
+    </li>
+    <li>
         <a href="https://elliesql.github.io/" target="_blank">
          <i class="fa-solid fa-chart-column"></i> EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing
         </a> [<a href="https://elliesql.github.io/">Homepage</a>]
@@ -110,7 +124,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         <br>
         Jiayi Zhang, Jinyu Xiang, et al. <b>Yuyu Luo</b>, Chenglin Wu
         <br>
-        <b>ICLR 2025 (Oral, top 1.8%).</b>
+        <b>ICLR 2025 (Oral, top 1.8%).</b> [<a href="https://github.com/FoundationAgents/AFlow">Code</a>]
     </li>
     <li>
         <a href="https://arxiv.org/abs/2502.17248" target="_blank">
@@ -119,7 +133,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         <br>
         Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
         <br>
-        <b>ICML 2025.</b>
+        <b>ICML 2025.</b> [<a href="https://github.com/HKUSTDial/Alpha-SQL">Code</a>]
     </li>
     <li>
         <a href="#" target="_blank">
