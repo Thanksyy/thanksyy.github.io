@@ -54,13 +54,6 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         Fengwei Teng, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, <b>Yuyu Luo</b>
     </li>
     <li>
-        <a href="https://nl2sql-bugs.github.io/" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> NL2SQL-Bugs: A Benchmark for Detecting Semantic Errors in NL2SQL Translation
-        </a>
-        <br>
-        Xinyu Liu, Shuyu Shen, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
-    </li>
-    <li>
         <a href="https://arxiv.org/pdf/2503.18336" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Rise of the Community Champions: From Reviewer Crunch to Community Power
         </a>
@@ -135,6 +128,13 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         <br>
         <b>ICML 2025.</b> [<a href="https://github.com/HKUSTDial/Alpha-SQL">Code</a>]
     </li>
+    <li>
+        <a href="https://arxiv.org/abs/2503.11984" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> NL2SQL-Bugs: A Benchmark for Detecting Semantic Errors in NL2SQL Translation
+        </a>
+        <br>
+        Xinyu Liu, Shuyu Shen, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
+    </li><b>KDD 2025.</b> [<a href="https://nl2sql-bugs.github.io/">Dataset and Code</a>]
     <li>
         <a href="#" target="_blank">
          <i class="fa-solid fa-database"></i> Weak-to-Strong Prompts with Lightweight-to-Powerful LLMs for High-Accuracy, Low-Cost, and Explainable Data Transformation
