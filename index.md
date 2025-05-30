@@ -130,7 +130,7 @@ Underline indicates students I supervised. Unless required by industry collabora
         <br>
         <ins>Boyan Li</ins>, <ins>Jiayi Zhang</ins>, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
         <br>
-        <b>ICML 2025.</b> [<a href="https://github.com/HKUSTDial/Alpha-SQL">Code</a>] [<a href="./files/AlphaSQL.pptx">Slides/PPT</a>/<a href="./files/AlphaSQL.pdf">PDF</a>]
+        <b>ICML 2025.</b> [<a href="https://github.com/HKUSTDial/Alpha-SQL">Code</a>] [<a href="./files/AlphaSQL.pptx">Slides/PPT</a>, <a href="./files/AlphaSQL.pdf">PDF</a>]
     </li>
     <li>
         <a href="https://arxiv.org/abs/2503.11984" target="_blank">
