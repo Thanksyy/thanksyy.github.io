@@ -23,7 +23,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
          <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
         </a> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
         <br>
-        Xiaotian Lin, Yanlin Qi, Yizhang Zhu, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
+        <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2505.04671" target="_blank">
@@ -37,49 +37,49 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
          <i class="fa-solid fa-chart-column"></i> EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing
         </a> [<a href="https://elliesql.github.io/">Homepage</a>]
         <br>
-        Yizhang Zhu, Runzhi Jiang, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
+        <ins>Yizhang Zhu</ins>, <ins>Runzhi Jiang</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2503.18313" target="_blank">
          <i class="fa-solid fa-chart-column"></i> DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective
         </a>
         <br>
-        Changlun Li, Yao Shi, <b>Yuyu Luo</b>, Nan Tang
+        <ins>Changlun Li</ins>, <ins>Yao Shi</ins>, <b>Yuyu Luo</b>, Nan Tang
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2502.12018" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Atom of Thoughts for Markov LLM Test-Time Scaling
         </a>
         <br>
-        Fengwei Teng, Zhaoyang Yu, Quan Shi, Jiayi Zhang, Chenglin Wu, <b>Yuyu Luo</b>
+        Fengwei Teng, Zhaoyang Yu, Quan Shi, <ins>Jiayi Zhang</ins>, Chenglin Wu, <b>Yuyu Luo</b>
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2503.18336" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Rise of the Community Champions: From Reviewer Crunch to Community Power
         </a>
         <br>
-        Changlun Li, Yao Shi, <b>Yuyu Luo</b>, Nan Tang
+        <ins>Changlun Li</ins>, <ins>Yao Shi</ins>, <b>Yuyu Luo</b>, Nan Tang
     </li>
     <li>
         <a href="https://nvbench2.github.io/" target="_blank">
          <i class="fa-solid fa-chart-column"></i> nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity
         </a>
         <br>
-        Tianqi Luo, Chuhan Huang, Leixian Shen, Boyan Li, Shuyu Shen, Wei Zeng, Nan Tang, <b>Yuyu Luo</b>
+        <ins>Tianqi Luo</ins>, <ins>Chuhan Huang</ins>, Leixian Shen, <ins>Boyan Li</ins>, <ins>Shuyu Shen</ins>, Wei Zeng, Nan Tang, <b>Yuyu Luo</b>
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2502.06855" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Self-Supervised Prompt Optimization
         </a>
         <br>
-        Jinyu Xiang, Jiayi Zhang, et al., Sirui Hong, Chenglin Wu, <b>Yuyu Luo</b>
+        Jinyu Xiang, <ins>Jiayi Zhang</ins>, et al., Sirui Hong, Chenglin Wu, <b>Yuyu Luo</b>
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2412.19146" target="_blank">
          <i class="fa-solid fa-chart-column"></i> AskChart: Universal Chart Understanding through Textual Enhancement
         </a>
         <br>
-        Xudong Yang, Yifan Wu, Yizhang Zhu, Nan Tang, <b>Yuyu Luo</b>
+       <ins>Xudong Yang</ins>, <ins>Yifan Wu</ins>, <ins>Yizhang Zhu</ins>, Nan Tang, <b>Yuyu Luo</b>
     </li>
 </ol>
 
@@ -108,7 +108,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 </ol>
 
 ## Selected Publications
-Underline indicates students I supervised Unless required by industry collaborators, all source code is open-sourced on our <a href="https://github.com/HKUSTDial" target="_blank">
+Underline indicates students I supervised. Unless required by industry collaborators, all source code is open-sourced on our <a href="https://github.com/HKUSTDial" target="_blank">
          Lab's GitHub repository
         </a>.
 
@@ -128,7 +128,7 @@ Underline indicates students I supervised Unless required by industry collaborat
          <i class="fa-solid fa-chart-column"></i> Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search
         </a>
         <br>
-        Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
+        <ins>Boyan Li</ins>, <ins>Jiayi Zhang</ins>, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, <b>Yuyu Luo</b>
         <br>
         <b>ICML 2025.</b> [<a href="https://github.com/HKUSTDial/Alpha-SQL">Code</a>]
     </li>
@@ -137,14 +137,14 @@ Underline indicates students I supervised Unless required by industry collaborat
          <i class="fa-solid fa-chart-column"></i> NL2SQL-Bugs: A Benchmark for Detecting Semantic Errors in NL2SQL Translation
         </a>
         <br>
-        Xinyu Liu, Shuyu Shen, Boyan Li, Nan Tang, <b>Yuyu Luo</b>
+        <ins>Xinyu Liu</ins>, <ins>Shuyu Shen</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
     </li><b>KDD 2025.</b> [<a href="https://nl2sql-bugs.github.io/">Dataset and Code</a>]
     <li>
         <a href="#" target="_blank">
          <i class="fa-solid fa-database"></i> Weak-to-Strong Prompts with Lightweight-to-Powerful LLMs for High-Accuracy, Low-Cost, and Explainable Data Transformation
         </a>
         <br>
-        Changlun Li, Chenyu Yang, <b>Yuyu Luo</b>, Ju Fan, Nan Tang
+        <ins>Changlun Li</ins>, <ins>Chenyu Yang</ins>, <b>Yuyu Luo</b>, Ju Fan, Nan Tang
         <br>
         <b>VLDB 2025.</b>
     </li>
@@ -162,114 +162,114 @@ Underline indicates students I supervised Unless required by industry collaborat
          <i class="fa-solid fa-chart-column"></i> Augmenting Realistic Charts with Virtual Overlays
         </a>
         <br>
-        Yao Shi, Boyan Li, <b>Yuyu Luo</b>, Lei Chen, Nan Tang
+        <ins>Yao Shi</ins>, <ins>Boyan Li</ins>, <b>Yuyu Luo</b>, Lei Chen, Nan Tang
         <br>
         <b>CHI 2025.</b>
     </li>
 
-    <br> 
-    <big><b>Year 2024 </b></big>
-    <li>
-        <a href="https://www.vldb.org/pvldb/vol17/p3318-luo.pdf" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
-        </a>
-        <br>
-        Boyan Li, <b>Yuyu Luo</b>, Chengliang Chai, Guoliang Li, Nan Tang
-        <br>
-        <b>VLDB 2024.</b> [<a href="https://nl2sql360.github.io/">Homepage</a>]
-    </li>
-    <li>
-        <a href="https://www.vldb.org/pvldb/vol17/p3178-luo.pdf" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> HAIChart: Human and AI Paired Visualization System
-        </a>
-        <br>
-        Yupeng Xie, <b>Yuyu Luo</b>, Guoliang Li, Nan Tang
-        <br>
-        <b>VLDB 2024.</b> [<a href="https://github.com/HKUSTDial/HAIChart">Code</a>]
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
-        </a>
-        <br>
-        Yizhang Zhu, Shiyin Du, Boyan Li, <b>Yuyu Luo</b>, Nan Tang
-        <br> <b>NeurIPS 2024</b> [<i class="fa-solid fa-table"></i> <a href="https://github.com/derrickzhuyz/StatQA">Dataset</a>]
-    </li>
-    <li>
-        <a href="http://arxiv.org/abs/2307.02796" target="_blank">
-         <i class="fa-solid fa-database"></i> VerifAI: Verified Generative AI 
-        </a>
-        <br>
-        Nan Tang, Chenyu Yang, Ju Fan, Lei Cao, <b>Yuyu Luo</b>, Alon Halevy
-        <br>
-        <b>CIDR 2024.</b> 
-    </li>
-    <li>
-        <a href="https://datavideos.github.io/Data-Playwright/" target="_blank">
-          <i class="fa-solid fa-chart-column"></i> Data Playwright: Authoring Data Videos with Annotated Narration
-        </a>
-        <br>
-        Leixian Shen, Haotian Li, Yun Wang, Tianqi Luo, <b>Yuyu Luo</b>, Huamin Qu
-        <br>
-        <b>TVCG 2024.</b>  [<a href="https://datavideos.github.io/Data-Playwright/">Homepage</a>]
-    </li> 
-    <li>
-        <a href="https://arxiv.org/pdf/2405.07001" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering
-        </a>
-        <br>
-        Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, <b>Yuyu Luo</b>
-        <br>
-        <b>EMNLP 2024.</b> 
-        [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>]
-    </li>
-    <!-- <li>
-        <a href="#" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> MAR: Matching-Augmented Reasoning for Enhancing Visual-based Entity Question Answering
-        </a>
-        <br>
-        Zhengxuan Zhang, Yin WU, <b>Yuyu Luo</b>, Nan Tang
-        <br>
-        <b>EMNLP 2024.</b> 
-        <br> [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>] 
-    </li> -->
-    <li>
-        <a href="#" target="_blank">
-        <i class="fa-solid fa-database"></i>  Fast, Robust and Interpretable Participant Contribution Estimation for Federated Learning
-        </a>
-        <br>
-        Yong Wang, <b>Yuyu Luo</b>, Kaiyu Li, Guoliang Li, Yunyan Guo, Zhuo Wang
-        <br>
-        <b>ICDE 2024.</b> 
-    </li> 
-    <li>
-        <a href="#" target="_blank">
-        <i class="fa-solid fa-database"></i>  Mitigating Data Scarcity in Supervised Machine Learning through Reinforcement Learning Guided Data Generation
-        </a>
-        <br>
-        Chengliang Chai, Kaisen Jin, Nan Tang, Ju Fan, Lianpeng Qiao, Yu-Ping Wang, <b>Yuyu Luo</b>, Ye Yuan, Guoren Wang
-        <br>
-        <b>ICDE 2024.</b> 
-    </li> 
-    <li>
-        <a href="./files/CoInsight_TVCG2024.pdf" target="_blank">
-          <i class="fa-solid fa-chart-column"></i> CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
-        </a>
-        <br>
-        Guozheng Li, Runfei Li, Yunshan Feng, Yu Zhang, <b>Yuyu Luo</b>, Chi Harold Liu
-        <br>
-        <b>TVCG 2024.</b> 
-    </li> 
-    <br> 
-    <big><b>Year 2023 </b></big>
-    <li>
-        <a href="./files/SIGMOD2023-LineNet.pdf" target="_blank">
-        <i class="fa-solid fa-chart-column"></i>  Learned Data-aware Image Representations of Line Charts for Similarity Search
-        </a>
-        <br>
-        <b>Yuyu Luo</b>, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, Leixian Shen 
-        <br>
-        <b>SIGMOD 2023.</b> [<a href="./files/LineNet-Slides.pdf">Slides</a>]
+  <br> 
+  <big><b>Year 2024 </b></big>
+  <li>
+      <a href="https://www.vldb.org/pvldb/vol17/p3318-luo.pdf" target="_blank">
+        <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
+      </a>
+      <br>
+      <ins>Boyan Li</ins>, <b>Yuyu Luo</b>, Chengliang Chai, Guoliang Li, Nan Tang
+      <br>
+      <b>VLDB 2024.</b> [<a href="https://nl2sql360.github.io/">Homepage</a>]
+  </li>
+  <li>
+      <a href="https://www.vldb.org/pvldb/vol17/p3178-luo.pdf" target="_blank">
+        <i class="fa-solid fa-chart-column"></i> HAIChart: Human and AI Paired Visualization System
+      </a>
+      <br>
+      <ins>Yupeng Xie</ins>, <b>Yuyu Luo</b>, Guoliang Li, Nan Tang
+      <br>
+      <b>VLDB 2024.</b> [<a href="https://github.com/HKUSTDial/HAIChart">Code</a>]
+  </li>
+  <li>
+      <a href="https://arxiv.org/pdf/2406.07815" target="_blank">
+        <i class="fa-solid fa-chart-column"></i> Are Large Language Models Good Statisticians?
+      </a>
+      <br>
+      <ins>Yizhang Zhu</ins>, <ins>Shiyin Du</ins>, <ins>Boyan Li</ins>, <b>Yuyu Luo</b>, Nan Tang
+      <br> <b>NeurIPS 2024</b> [<i class="fa-solid fa-table"></i> <a href="https://github.com/derrickzhuyz/StatQA">Dataset</a>]
+  </li>
+  <li>
+      <a href="http://arxiv.org/abs/2307.02796" target="_blank">
+        <i class="fa-solid fa-database"></i> VerifAI: Verified Generative AI 
+      </a>
+      <br>
+      Nan Tang, <ins>Chenyu Yang</ins>, Ju Fan, Lei Cao, <b>Yuyu Luo</b>, Alon Halevy
+      <br>
+      <b>CIDR 2024.</b> 
+  </li>
+  <li>
+      <a href="https://datavideos.github.io/Data-Playwright/" target="_blank">
+        <i class="fa-solid fa-chart-column"></i> Data Playwright: Authoring Data Videos with Annotated Narration
+      </a>
+      <br>
+      Leixian Shen, Haotian Li, Yun Wang, <ins>Tianqi Luo</ins>, <b>Yuyu Luo</b>, Huamin Qu
+      <br>
+      <b>TVCG 2024.</b>  [<a href="https://datavideos.github.io/Data-Playwright/">Homepage</a>]
+  </li> 
+  <li>
+      <a href="https://arxiv.org/pdf/2405.07001" target="_blank">
+        <i class="fa-solid fa-chart-column"></i> ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering
+      </a>
+      <br>
+      <ins>Yifan Wu</ins>, <ins>Lutao Yan</ins>, Leixian Shen, Yunhai Wang, Nan Tang, <b>Yuyu Luo</b>
+      <br>
+      <b>EMNLP 2024.</b> 
+      [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>]
+  </li>
+  <!-- <li>
+      <a href="#" target="_blank">
+        <i class="fa-solid fa-chart-column"></i> MAR: Matching-Augmented Reasoning for Enhancing Visual-based Entity Question Answering
+      </a>
+      <br>
+      <ins>Zhengxuan Zhang</ins>, Yin WU, <b>Yuyu Luo</b>, Nan Tang
+      <br>
+      <b>EMNLP 2024.</b> 
+      <br> [<i class="fa-solid fa-table"></i> <a href="https://github.com/HKUSTDial/ChartInsights">Dataset</a>] 
+  </li> -->
+  <li>
+      <a href="#" target="_blank">
+      <i class="fa-solid fa-database"></i>  Fast, Robust and Interpretable Participant Contribution Estimation for Federated Learning
+      </a>
+      <br>
+      Yong Wang, <b>Yuyu Luo</b>, Kaiyu Li, Guoliang Li, Yunyan Guo, Zhuo Wang
+      <br>
+      <b>ICDE 2024.</b> 
+  </li> 
+  <li>
+      <a href="#" target="_blank">
+      <i class="fa-solid fa-database"></i>  Mitigating Data Scarcity in Supervised Machine Learning through Reinforcement Learning Guided Data Generation
+      </a>
+      <br>
+      Chengliang Chai, Kaisen Jin, Nan Tang, Ju Fan, Lianpeng Qiao, Yu-Ping Wang, <b>Yuyu Luo</b>, Ye Yuan, Guoren Wang
+      <br>
+      <b>ICDE 2024.</b> 
+  </li> 
+  <li>
+      <a href="./files/CoInsight_TVCG2024.pdf" target="_blank">
+        <i class="fa-solid fa-chart-column"></i> CoInsight: Visual Storytelling for Hierarchical Tables with Connected Insights
+      </a>
+      <br>
+      Guozheng Li, Runfei Li, Yunshan Feng, Yu Zhang, <b>Yuyu Luo</b>, Chi Harold Liu
+      <br>
+      <b>TVCG 2024.</b> 
+  </li> 
+  <br> 
+  <big><b>Year 2023 </b></big>
+  <li>
+      <a href="./files/SIGMOD2023-LineNet.pdf" target="_blank">
+      <i class="fa-solid fa-chart-column"></i>  Learned Data-aware Image Representations of Line Charts for Similarity Search
+      </a>
+      <br>
+      <b>Yuyu Luo</b>, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, Leixian Shen 
+      <br>
+      <b>SIGMOD 2023.</b> [<a href="./files/LineNet-Slides.pdf">Slides</a>]
    </li> 
    <li>
         <a href="./files/SIGMOD23-GoodCore.pdf" target="_blank">
