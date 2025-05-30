@@ -108,6 +108,10 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
 </ol>
 
 ## Selected Publications
+Underline indicates students I supervised Unless required by industry collaborators, all source code is open-sourced on our <a href="https://github.com/HKUSTDial" target="_blank">
+         Lab's GitHub repository
+        </a>.
+
 <ol>
     <big><b>Year 2025 </b></big>
     <li>
@@ -115,7 +119,7 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
          <i class="fa-solid fa-chart-column"></i> AFlow: Automating Agentic Workflow Generation
         </a>
         <br>
-        Jiayi Zhang, Jinyu Xiang, et al. <b>Yuyu Luo</b>, Chenglin Wu
+        <ins>Jiayi Zhang</ins>, Jinyu Xiang, et al. <b>Yuyu Luo</b>, Chenglin Wu
         <br>
         <b>ICLR 2025 (Oral, top 1.8%).</b> [<a href="https://github.com/FoundationAgents/AFlow">Code</a>]
     </li>
