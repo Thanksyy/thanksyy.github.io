@@ -140,6 +140,24 @@ Underline indicates students I supervised. Unless required by industry collabora
         <ins>Xinyu Liu</ins>, <ins>Shuyu Shen</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
     </li><b>KDD 2025.</b> [<a href="https://nl2sql-bugs.github.io/">Dataset and Code</a>]
     <li>
+        <a href="https://github.com/HKUSTDial/NL2SQL_Handbook" target="_blank">
+         <i class="fa-solid fa-database"></i> Natural Language to SQL: State of the Art and Open Problems
+        </a>
+        <br>
+        <b>Yuyu Luo</b>, Guoliang Li, Ju Fan, Nan Tang
+        <br>
+        <b>VLDB 2025 Tutorial.</b>
+    </li>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-database"></i> Data Imputation with Limited Data Redundancy Using Data Lakes
+        </a>
+        <br>
+        <ins>Chenyu Yang</ins>, <b>Yuyu Luo</b>, Chuanxuan Cui, Ju Fan, Chengliang Chai, Nan Tang
+        <br>
+        <b>VLDB 2025.</b>
+    </li>
+    <li>
         <a href="#" target="_blank">
          <i class="fa-solid fa-database"></i> Weak-to-Strong Prompts with Lightweight-to-Powerful LLMs for High-Accuracy, Low-Cost, and Explainable Data Transformation
         </a>
