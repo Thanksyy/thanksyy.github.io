@@ -40,39 +40,11 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         <ins>Yizhang Zhu</ins>, <ins>Runzhi Jiang</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
     </li>
     <li>
-        <a href="https://arxiv.org/pdf/2503.18313" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective
-        </a>
-        <br>
-        <ins>Changlun Li</ins>, <ins>Yao Shi</ins>, <b>Yuyu Luo</b>, Nan Tang
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2502.12018" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Atom of Thoughts for Markov LLM Test-Time Scaling
-        </a>
-        <br>
-        Fengwei Teng, Zhaoyang Yu, Quan Shi, <ins>Jiayi Zhang</ins>, Chenglin Wu, <b>Yuyu Luo</b>
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2503.18336" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Rise of the Community Champions: From Reviewer Crunch to Community Power
-        </a>
-        <br>
-        <ins>Changlun Li</ins>, <ins>Yao Shi</ins>, <b>Yuyu Luo</b>, Nan Tang
-    </li>
-    <li>
         <a href="https://nvbench2.github.io/" target="_blank">
          <i class="fa-solid fa-chart-column"></i> nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity
         </a>
         <br>
         <ins>Tianqi Luo</ins>, <ins>Chuhan Huang</ins>, Leixian Shen, <ins>Boyan Li</ins>, <ins>Shuyu Shen</ins>, Wei Zeng, Nan Tang, <b>Yuyu Luo</b>
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2502.06855" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Self-Supervised Prompt Optimization
-        </a>
-        <br>
-        Jinyu Xiang, <ins>Jiayi Zhang</ins>, et al., Sirui Hong, Chenglin Wu, <b>Yuyu Luo</b>
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2412.19146" target="_blank">
@@ -595,7 +567,7 @@ Underline indicates students I supervised. Unless required by industry collabora
 <li> Tianqi Luo (MS from Johns Hopkins University)</li>
 <li> Xinyu Liu (BEng from Northeastern University, China)</li>
 <li> <a href="https://liangweioio.github.io/">Liangwei Wang</a> (co-advised with <a href="https://ieda.ust.hk/dfaculty/tsung/">Tsung Fugee</a>, BEng from Sun Yat-sen University, China)</li>
-<li> Yao Shi (co-advised with <a href="https://nantang.github.io/">Nan Tang</a>, B.S. from Univ. of Elec. Sci. and Tech. of China)</li>
+<li> Yao Shi (B.S. from Univ. of Elec. Sci. and Tech. of China)</li>
 
 <big> 2024 </big> 
 <li> Changlun Li (co-advised with <a href="https://nantang.github.io/">Nan Tang</a>, B.S. from CUHK)</li>
