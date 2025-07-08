@@ -33,13 +33,6 @@ I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/f
         Yuxin Zhang, Meihao Fan, Ju Fan, Mingyang Yi, <b>Yuyu Luo</b>, Jian Tan, Guoliang Li
     </li>
     <li>
-        <a href="https://elliesql.github.io/" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing
-        </a> [<a href="https://elliesql.github.io/">Homepage</a>]
-        <br>
-        <ins>Yizhang Zhu</ins>, <ins>Runzhi Jiang</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
-    </li>
-    <li>
         <a href="https://nvbench2.github.io/" target="_blank">
          <i class="fa-solid fa-chart-column"></i> nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity
         </a>
@@ -146,6 +139,15 @@ Underline indicates students I supervised. Unless required by industry collabora
         Chengliang Chai, Nan Tang, Ju Fan, <b>Yuyu Luo</b>, Guoliang Li, Ye Yuan, Guoren Wang
         <br>
         <b>TODS 2025.</b>
+    </li>
+    <li>
+        <a href="https://elliesql.github.io/" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing
+        </a> [<a href="https://elliesql.github.io/">Homepage</a>]
+        <br>
+        <ins>Yizhang Zhu</ins>, <ins>Runzhi Jiang</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
+        <br>
+        <b>COLM 2025.</b>
     </li>
     <li>
         <a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714320" target="_blank">
