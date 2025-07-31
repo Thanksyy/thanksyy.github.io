@@ -1,9 +1,5 @@
 ## Brief Biography
 
-
-Yuyu is an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). He also holds an affiliated appointment at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (Clear Water Bay campus). He earned his Ph.D. in Computer Science from Tsinghua University in 2023.
-
-
 Yuyu directs the Data Intelligence and Analytics Lab [DIAL @ HKUST(GZ)](https://github.com/HKUSTDial), where the lab's mission is to develop next-generation data intelligence systems through research at the intersection of DATA+AI. Its focus areas include large language models, foundation agents, AI for databases (e.g., Text-to-SQL, Table QA), and data-centric AI.
 
 Yuyu has published over 50 papers in top-tier venues in databases and data mining (SIGMOD, VLDB, KDD, TODS) as well as artificial intelligence (ICML, NeurIPS, ICLR, ACL). He has contributed to or advised several influential DATA+AI projects, including [OpenManus](https://github.com/FoundationAgents/OpenManus), [Text-to-SQL Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook), [Alpha-SQL](https://github.com/HKUSTDial/Alpha-SQL), [AFlow](https://github.com/FoundationAgents/AFlow), [DeepEye](https://deepeye.tech/), and [DeepFund](https://github.com/HKUSTDial/DeepFund). All research projects are open-source and widely used by enterprises such as Huawei, State Grid, ByteDance, Ant Group, and TAL Education. 
