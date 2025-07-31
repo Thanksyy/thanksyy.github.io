@@ -1,20 +1,22 @@
 ## Brief Biography
 
 
-I am an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
-I also hold an affiliated position at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (Clear Water Bay campus).
-I direct the Data Intelligence and Analytics Lab [DIAL @ HKUST(GZ)](https://github.com/HKUSTDial), where our mission is to develop next-generation intelligent systems through research at the intersection of LLMs, Foundation Agents, AI for Databases, and Data-centric AI.
-<!-- I received my Ph.D. degree in Computer Science from [Tsinghua University](https://www.tsinghua.edu.cn/en) in 2023, under the supervision of [Prof. Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/). -->
+Yuyu is an Assistant Professor at the [Data Science and Analytics Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/). He also holds an affiliated appointment at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (Clear Water Bay campus). He earned his Ph.D. in Computer Science from Tsinghua University in 2023.
 
-<!-- I obtained my B.Eng. from the [University of Electronic Science and Technology of China](http://www.uestc.edu.cn/) in 2018. -->
 
-<!-- My research mission is to democratize data analytics by simplifying and automating the data analytics pipeline. I achieve this by developing systems and tools that leverage visualization, data management, and artificial intelligence techniques. My primary focus is on assisting users, especially novices, to comprehend and utilize massive datasets with ease and efficiency. -->
+Yuyu directs the Data Intelligence and Analytics Lab [DIAL @ HKUST(GZ)](https://github.com/HKUSTDial), where the lab's mission is to develop next-generation data intelligence systems through research at the intersection of DATA+AI. Its focus areas include large language models, foundation agents, AI for databases (e.g., Text-to-SQL, Table QA), and data-centric AI.
 
-<!-- My current research interests include <i class="fa-solid fa-chart-column"></i><i>AI for Data Analytics (e.g., NL2SQL, TableQA, AI4VIS)</i> and <i class="fa-solid fa-database"></i><i>Data-centric AI</i>. -->
+Yuyu has published over 50 papers in top-tier venues in databases and data mining (SIGMOD, VLDB, KDD, TODS) as well as artificial intelligence (ICML, NeurIPS, ICLR, ACL). He has contributed to or advised several influential DATA+AI projects, including [OpenManus](https://github.com/FoundationAgents/OpenManus), [Text-to-SQL Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook), [Alpha-SQL](https://github.com/HKUSTDial/Alpha-SQL), [AFlow](https://github.com/FoundationAgents/AFlow), [DeepEye](https://deepeye.tech/), and [DeepFund](https://github.com/HKUSTDial/DeepFund). All research projects are open-source and widely used by enterprises such as Huawei, State Grid, ByteDance, Ant Group, and TAL Education. 
 
 <hr>
 
-I am actively looking for self-motivated <b>[PhD students](https://luoyuyu.vip/files/positions.pdf)</b> (Fall 2025, Spring/Fall 2026), <b>MPhil students</b>, and <b>Research Assistants/Visiting Students</b> to join our lab. If you're passionate about AI and data systems and interested in working with us, please send your CV and transcripts (for all degrees) via email.
+骆昱宇，现任香港科技大学（广州）助理教授、香港科技大学联署助理教授、博士生导师，数据智能与分析实验室负责人。研究兴趣为DATA+AI数智融合方向，包括数据为中心的人工智能（Data-centric AI, DCAI）、大模型智能体（Foundation Agents）、数据智能体（Data Agents）、智能数据库系统（AI for Databases)。 主持国家自然科学基金青年项目、科技部重点研发计划项目课题等，在数据管理与数据挖掘（SIGMOD/VLDB/ICDE/SIGKDD/TODS）、机器学习（ICML/NeurIPS/ICLR）等领域发表 CCF-A 类论文 40余篇，也担任多个国际顶会的Associate PC Chair/Area Chair和IEEE Data Engineering Bulletin期刊副主编。他获得多个最佳论文/提名奖（如SIGMOD 2023, CIKM 2022, DASFAA 2019），领导或参与开源了多个DATA+AI系统（如OpenManus智能体项目，Github 4.8万+Stars）。他曾获世界人工智能大会云帆奖、福布斯中国“30位30岁以下精英”榜、华为火花奖、清华大学/中国计算机学会优秀博士学位论文奖、清华特等奖学金等多项荣誉。
+
+<hr>
+
+
+课题组常年招生DATA+AI数智融合方向（数据智能体、大模型智能体、Data-centric AI、智能数据库系统、AI4S材料大模型）的博士生（3~4名/年）、红鸟硕士生、RA和访问学生。课题组经费充足，计算资源充沛，和业界合作密切，优秀的博士生可与院士或杰青进行联合培养。AI4S材料大模型方向的博士生与张统一院士联合培养。请感兴趣的同学将相关申请材料发送至我邮箱，每份邮件和材料都会仔细阅读。
+
 
 ## Preprints
 <ol>
@@ -148,6 +150,15 @@ Underline indicates students I supervised. Unless required by industry collabora
         <ins>Yizhang Zhu</ins>, <ins>Runzhi Jiang</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
         <br>
         <b>COLM 2025.</b>
+    </li>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Data Interpreter: An LLM Agent For Data Science
+        </a>
+        <br>
+        Sirui Hong, Yizhang Lin, Bang Liu, <ins>Jiayi Zhang</ins>, et al, <b>Yuyu Luo</b>, Chenglin Wu
+        <br>
+        <b>ACL 2025 Findings.</b>
     </li>
     <li>
         <a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714320" target="_blank">
@@ -587,6 +598,8 @@ Underline indicates students I supervised. Unless required by industry collabora
 
 ## Selected Awards
 <ul>
+<li>2025 - World Artificial Intelligence Conference Yunfan Award (one of 15 global recipients under the age of 30, 2025)</li>
+<li>2025 - Huawei Spark Award</li>
 <li>2023 - Forbes China 30 Under 30 List <a href="https://www.forbeschina.com/activity/news/66660">(入选2023福布斯中国30 Under 30榜单)</a></li>
 <li>2023 - <a href="https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml">CCF Doctoral Dissertation Nomination Award</a></li>
 <li>2023 - Best of SIGMOD 2023 Papers</li>
