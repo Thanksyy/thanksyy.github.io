@@ -173,6 +173,15 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>IEEE VIS 2025.</b>
     </li>
     <li>
+        <a href="https://arxiv.org/pdf/2507.21810" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> ChartMark: A Structured Grammar for Chart Annotation
+        </a> [<a href="https://chartmark.github.io/">Homepage</a>]
+        <br>
+        <ins>Yiyu Chen</ins>, <ins>Yifan Wu</ins>, <ins>Shuyu Shen</ins>, <ins>Yupeng Xie</ins>, Leixian Shen, Hui Xiong, <b>Yuyu Luo</b>
+        <br>
+        <b>IEEE VIS 2025 (Short Paper).</b>
+    </li>
+    <li>
         <a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714320" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Augmenting Realistic Charts with Virtual Overlays
         </a>
