@@ -24,6 +24,13 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
         <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
     </li>
     <li>
+        <a href="https://arxiv.org/pdf/2508.02124" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Trainable Dynamic Mask Sparse Attention
+        </a> [<a href="https://github.com/SmallDoges/flash-dmattn">Code</a>]
+        <br>
+        <ins>Jingze Shi</ins>, <ins>Yifan Wu</ins>, <ins>Bingheng Wu</ins>, Yiran Peng, Liangdong Wang, Guang Liu, <b>Yuyu Luo</b>
+    </li>
+    <li>
         <a href="https://arxiv.org/pdf/2505.04671" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards
         </a> 
@@ -155,6 +162,15 @@ Underline indicates students I supervised. Unless required by industry collabora
         Sirui Hong, Yizhang Lin, Bang Liu, <ins>Jiayi Zhang</ins>, et al, <b>Yuyu Luo</b>, Chenglin Wu
         <br>
         <b>ACL 2025 Findings.</b>
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2508.01700" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> DeepVIS: Bridging Natural Language and Data Visualization Through Step-wise Reasoning
+        </a>
+        <br>
+        Zhihao Shuai, <ins>Boyan Li</ins>, <ins>Siyu Yan</ins>, <b>Yuyu Luo</b>, Weikai Yang
+        <br>
+        <b>IEEE VIS 2025.</b>
     </li>
     <li>
         <a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714320" target="_blank">
