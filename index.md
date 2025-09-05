@@ -71,9 +71,11 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
         [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>]
     </li>
     <li><i class="fa-solid fa-star"></i>
-        <a href="https://arxiv.org/abs/2502.12908" target="_blank">
-        Graph Neural Networks for Databases: A Survey
+        <a href="https://arxiv.org/abs/2408.05109" target="_blank">
+        Awesome-Data-Agents Paper List
         </a>
+        <br>
+        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/awesome-data-agents">Data Agents Paper-List</a>]
     </li>
 </ol>
 
@@ -110,16 +112,16 @@ Underline indicates students I supervised. Unless required by industry collabora
         <ins>Xinyu Liu</ins>, <ins>Shuyu Shen</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
     </li><b>KDD 2025.</b> [<a href="https://nl2sql-bugs.github.io/">Dataset and Code</a>]
     <li>
-        <a href="https://github.com/HKUSTDial/NL2SQL_Handbook" target="_blank">
+        <a href="https://www.vldb.org/pvldb/vol18/p5466-luo.pdf" target="_blank">
          <i class="fa-solid fa-database"></i> Natural Language to SQL: State of the Art and Open Problems
         </a>
         <br>
         <b>Yuyu Luo</b>, Guoliang Li, Ju Fan, Nan Tang
         <br>
-        <b>VLDB 2025 Tutorial.</b>
+        <b>VLDB 2025 Tutorial.</b> [<a href="https://github.com/HKUSTDial/NL2SQL_Handbook">Code</a>] [<a href="./files/NL2SQL-VLDB2025.pdf">Slides</a>]
     </li>
     <li>
-        <a href="#" target="_blank">
+        <a href="https://www.vldb.org/pvldb/vol18/p3354-tang.pdf" target="_blank">
          <i class="fa-solid fa-database"></i> Data Imputation with Limited Data Redundancy Using Data Lakes
         </a>
         <br>
@@ -128,7 +130,7 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>VLDB 2025.</b>
     </li>
     <li>
-        <a href="#" target="_blank">
+        <a href="https://www.vldb.org/pvldb/vol18/p2371-tang.pdf" target="_blank">
          <i class="fa-solid fa-database"></i> Weak-to-Strong Prompts with Lightweight-to-Powerful LLMs for High-Accuracy, Low-Cost, and Explainable Data Transformation
         </a>
         <br>
