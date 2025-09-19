@@ -37,20 +37,7 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
         <br>
         Yuxin Zhang, Meihao Fan, Ju Fan, Mingyang Yi, <b>Yuyu Luo</b>, Jian Tan, Guoliang Li
     </li>
-    <li>
-        <a href="https://nvbench2.github.io/" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity
-        </a>
-        <br>
-        <ins>Tianqi Luo</ins>, <ins>Chuhan Huang</ins>, Leixian Shen, <ins>Boyan Li</ins>, <ins>Shuyu Shen</ins>, Wei Zeng, Nan Tang, <b>Yuyu Luo</b>
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2412.19146" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> AskChart: Universal Chart Understanding through Textual Enhancement
-        </a>
-        <br>
-       <ins>Xudong Yang</ins>, <ins>Yifan Wu</ins>, <ins>Yizhang Zhu</ins>, Nan Tang, <b>Yuyu Luo</b>
-    </li>
+ 
 </ol>
 
 
@@ -105,12 +92,29 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>ICML 2025.</b> [<a href="https://github.com/HKUSTDial/Alpha-SQL">Code</a>] [<a href="./files/AlphaSQL.pptx">Slides/PPT</a>, <a href="./files/AlphaSQL.pdf">PDF</a>]
     </li>
     <li>
-        <a href="https://arxiv.org/abs/2503.11984" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> NL2SQL-Bugs: A Benchmark for Detecting Semantic Errors in NL2SQL Translation
+        <a href="hhttps://arxiv.org/pdf/2503.12880" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> nvBench 2.0: Resolving Ambiguity in Text-to-Visualization through Stepwise Reasoning
         </a>
         <br>
-        <ins>Xinyu Liu</ins>, <ins>Shuyu Shen</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
-    </li><b>KDD 2025.</b> [<a href="https://nl2sql-bugs.github.io/">Dataset and Code</a>]
+        <ins>Tianqi Luo</ins>, <ins>Chuhan Huang</ins>, Leixian Shen, <ins>Boyan Li</ins>, <ins>Shuyu Shen</ins>, Wei Zeng, Nan Tang, <b>Yuyu Luo</b>
+        <br><b>NeurIPS 2025.</b> [<a href="https://nvbench2.github.io/">Dataset & Code</a>]
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2502.12018" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Atom of Thoughts for Markov LLM Test-Time Scaling
+        </a>
+        <br>
+        Fengwei Teng, Quan Shi, Zhaoyang Yu, <ins>Jiayi Zhang</ins>, <b>Yuyu Luo</b>, Chenglin Wu, Zhijiang Guo
+        <br><b>NeurIPS 2025.</b> [<a href="https://github.com/qixucen/atom">Code</a>]
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2505.11065" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking
+        </a>
+        <br>
+        <ins>Changlun Li</ins>, <ins>Yao SHI</ins>, <ins>Chen Wang</ins>, <ins>Qiqi Duan</ins>, <ins>Runke RUAN</ins>, <ins>Weijie Huang</ins>, <ins>Haonan Long</ins>, <ins>Lijun Huang</ins>, <b>Yuyu Luo</b>, Nan Tang
+        <br><b>NeurIPS 2025.</b> [<a href="https://github.com/HKUSTDial/DeepFund">Code</a>]
+    </li>
     <li>
         <a href="https://www.vldb.org/pvldb/vol18/p5466-luo.pdf" target="_blank">
          <i class="fa-solid fa-database"></i> Natural Language to SQL: State of the Art and Open Problems
@@ -138,6 +142,13 @@ Underline indicates students I supervised. Unless required by industry collabora
         <br>
         <b>VLDB 2025.</b>
     </li>
+    <li>
+        <a href="https://arxiv.org/abs/2503.11984" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> NL2SQL-Bugs: A Benchmark for Detecting Semantic Errors in NL2SQL Translation
+        </a>
+        <br>
+        <ins>Xinyu Liu</ins>, <ins>Shuyu Shen</ins>, <ins>Boyan Li</ins>, Nan Tang, <b>Yuyu Luo</b>
+    </li><b>KDD 2025.</b> [<a href="https://nl2sql-bugs.github.io/">Dataset and Code</a>]
     <li>
         <a href="./files/goodcore_plus.pdf" target="_blank">
          <i class="fa-solid fa-database"></i> Coreset Selection over Incomplete Data for Data-Effective and Data-Efficient Machine Learning
