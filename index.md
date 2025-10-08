@@ -210,6 +210,7 @@ Underline indicates students I supervised. Unless required by industry collabora
       <a href="https://www.vldb.org/pvldb/vol17/p3318-luo.pdf" target="_blank">
         <i class="fa-solid fa-chart-column"></i> The Dawn of Natural Language to SQL: Are We Fully Ready?
       </a>
+      <b>The second most-cited PVLDB 2024 paper, as reported by Google Scholar Metrics (Top Publications).</b>
       <br>
       <ins>Boyan Li</ins>, <b>Yuyu Luo</b>, Chengliang Chai, Guoliang Li, Nan Tang
       <br>
