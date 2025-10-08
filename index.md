@@ -6,12 +6,13 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
 
 <hr>
 
-骆昱宇，现任香港科技大学（广州）助理教授、香港科技大学联署助理教授、博士生导师，数据智能与分析实验室负责人。研究兴趣为DATA+AI数智融合方向，包括数据为中心的人工智能（Data-centric AI, DCAI）、大模型智能体（Foundation Agents）、数据智能体（Data Agents）、智能数据库系统（AI for Databases)。 主持国家自然科学基金青年项目、科技部重点研发计划项目课题等，在数据管理与数据挖掘（SIGMOD/VLDB/ICDE/SIGKDD/TODS）、机器学习（ICML/NeurIPS/ICLR）等领域发表 CCF-A 类论文 40余篇，也担任多个国际顶会的Associate PC Chair/Area Chair和IEEE Data Engineering Bulletin期刊副主编。他获得多个最佳论文/提名奖（如SIGMOD 2023, CIKM 2022, DASFAA 2019），领导或参与开源了多个DATA+AI系统（如OpenManus智能体项目，Github 4.8万+Stars）。他曾获世界人工智能大会云帆奖、福布斯中国“30位30岁以下精英”榜、华为火花奖、清华大学/中国计算机学会优秀博士学位论文奖、清华特等奖学金等多项荣誉。
+骆昱宇，现任香港科技大学（广州）助理教授、香港科技大学联署助理教授、博士生导师，数据智能与分析实验室负责人。研究兴趣为DATA+AI数智融合方向，包括数据为中心的人工智能（Data-centric AI, DCAI）、大模型智能体（Foundation Agents）、数据智能体（Data Agents）、智能数据库系统（AI for Databases)。 主持科技部重点研发计划项目课题、国家自然科学基金青年项目、广东省和广州市青年人才项目等，在数据管理与数据挖掘（SIGMOD/VLDB/ICDE/SIGKDD/TODS）、机器学习（ICML/NeurIPS/ICLR）等领域发表 CCF-A 类论文 40余篇，也担任多个国际顶会的Associate PC Chair/Area Chair和IEEE Data Engineering Bulletin期刊副主编。他获得多个最佳论文/提名奖（如SIGMOD 2023, CIKM 2022, DASFAA 2019），领导或参与开源了多个DATA+AI系统（如DeepEye数据智能体开源；OpenManus智能体项目，Github 5万+Stars）。他曾获世界人工智能大会云帆奖、福布斯中国“30位30岁以下精英”榜、清华特等奖学金、华为火花奖、清华大学优博/优博论文奖/中国计算机学会优秀博士学位论文提名奖等。
 
 <hr>
 
 
-课题组常年招生DATA+AI数智融合方向（数据智能体、大模型智能体、Data-centric AI、智能数据库系统、AI4S材料大模型）的博士生（3~4名/年）、红鸟硕士生、RA和访问学生。课题组经费充足，计算资源充沛，和业界合作密切，优秀的博士生可与院士或杰青进行联合培养。AI4S材料大模型方向的博士生与张统一院士联合培养。请感兴趣的同学将相关申请材料发送至我邮箱，每份邮件和材料都会仔细阅读。
+课题组常年招生DATA+AI数智融合方向（数据智能体、大模型智能体、Data-centric AI、智能数据库系统、AI4S智能材料科学）的博士生（3~4名/年）、红鸟硕士生、RA和访问学生。课题组经费充足，计算资源充沛，和业界合作密切，优秀的博士生可与院士或杰青进行联合培养。AI4S材料大模型方向的博士生与张统一院士联合培养。
+请感兴趣的同学将相关申请材料发送至我邮箱，每份邮件和材料均会仔细阅读和评估，但申请人数较多，不一定会一一回复，请各位谅解海涵。
 
 
 ## Preprints
