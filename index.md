@@ -101,20 +101,20 @@ Underline indicates students I supervised. Unless required by industry collabora
         <br><b>NeurIPS 2025.</b> [<a href="https://nvbench2.github.io/">Dataset & Code</a>]
     </li>
     <li>
+        <a href="https://arxiv.org/pdf/2505.11065" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking
+        </a>
+        <br>
+        <ins>Changlun Li</ins>, <ins>Yao SHI</ins>, <ins>Chen Wang</ins>, <ins>Qiqi Duan</ins>, <ins>Runke RUAN</ins>, <ins>Weijie Huang</ins>, <ins>Haonan Long</ins>, <ins>Lijun Huang</ins>, Nan Tang, <b>Yuyu Luo</b>
+        <br><b>NeurIPS 2025.</b> [<a href="https://github.com/HKUSTDial/DeepFund">Code</a>]
+    </li>
+    <li>
         <a href="https://arxiv.org/pdf/2502.12018" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Atom of Thoughts for Markov LLM Test-Time Scaling
         </a>
         <br>
         Fengwei Teng, Quan Shi, Zhaoyang Yu, <ins>Jiayi Zhang</ins>, <b>Yuyu Luo</b>, Chenglin Wu, Zhijiang Guo
         <br><b>NeurIPS 2025.</b> [<a href="https://github.com/qixucen/atom">Code</a>]
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2505.11065" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking
-        </a>
-        <br>
-        <ins>Changlun Li</ins>, <ins>Yao SHI</ins>, <ins>Chen Wang</ins>, <ins>Qiqi Duan</ins>, <ins>Runke RUAN</ins>, <ins>Weijie Huang</ins>, <ins>Haonan Long</ins>, <ins>Lijun Huang</ins>, <b>Yuyu Luo</b>, Nan Tang
-        <br><b>NeurIPS 2025.</b> [<a href="https://github.com/HKUSTDial/DeepFund">Code</a>]
     </li>
     <li>
         <a href="https://www.vldb.org/pvldb/vol18/p5466-luo.pdf" target="_blank">
