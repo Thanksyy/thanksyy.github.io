@@ -38,18 +38,18 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
 ## Surveys 
 <ol>
     <li><i class="fa-solid fa-star"></i>
+        <a href="https://arxiv.org/abs/2408.05109" target="_blank">
+        A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?
+        </a>
+        <br>
+        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>]
+    </li>
+    <li><i class="fa-solid fa-star"></i>
         <a href="https://arxiv.org/abs/2504.01990" target="_blank">
         Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems
         </a>
         <br>
         [<i class="fa-solid fa-book"></i> <a href="https://github.com/FoundationAgents/awesome-foundation-agents">Awesome-Foundation-Agents</a>]
-    </li>
-    <li><i class="fa-solid fa-star"></i>
-        <a href="https://arxiv.org/abs/2408.05109" target="_blank">
-        A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
-        </a>
-        <br>
-        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>]
     </li>
     <li><i class="fa-solid fa-star"></i>
         <a href="https://arxiv.org/abs/2408.05109" target="_blank">
@@ -73,9 +73,9 @@ Underline indicates students I supervised. Unless required by industry collabora
         </a> 
         <br>
         <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
+        <br>
         <b>VLDB 2026</b> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
     </li>
-
     <big><b>Year 2025 </b></big>
     <li>
         <a href="https://arxiv.org/abs/2410.10762" target="_blank">
