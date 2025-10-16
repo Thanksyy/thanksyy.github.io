@@ -18,13 +18,6 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
 ## Preprints
 <ol>
     <li>
-        <a href="https://github.com/HKUSTDial/LEAD" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
-        </a> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
-        <br>
-        <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
-    </li>
-    <li>
         <a href="https://arxiv.org/pdf/2508.02124" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Trainable Dynamic Mask Sparse Attention
         </a> [<a href="https://github.com/SmallDoges/flash-dmattn">Code</a>]
@@ -73,6 +66,16 @@ Underline indicates students I supervised. Unless required by industry collabora
         </a>.
 
 <ol>
+	 <big><b>Year 2026 </b></big>
+	<li>
+        <a href="https://arxiv.org/pdf/2505.07437" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
+        </a> 
+        <br>
+        <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
+        <b>VLDB 2026</b> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
+    </li>
+
     <big><b>Year 2025 </b></big>
     <li>
         <a href="https://arxiv.org/abs/2410.10762" target="_blank">
