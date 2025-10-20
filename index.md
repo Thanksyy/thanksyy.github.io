@@ -97,7 +97,7 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>ICML 2025.</b> [<a href="https://github.com/HKUSTDial/Alpha-SQL">Code</a>] [<a href="./files/AlphaSQL.pptx">Slides/PPT</a>, <a href="./files/AlphaSQL.pdf">PDF</a>]
     </li>
     <li>
-        <a href="hhttps://arxiv.org/pdf/2503.12880" target="_blank">
+        <a href="https://arxiv.org/pdf/2503.12880" target="_blank">
          <i class="fa-solid fa-chart-column"></i> nvBench 2.0: Resolving Ambiguity in Text-to-Visualization through Stepwise Reasoning
         </a>
         <br>
