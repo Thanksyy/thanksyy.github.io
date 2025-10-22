@@ -18,6 +18,14 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
 ## Preprints
 <ol>
     <li>
+        <a href="https://www.arxiv.org/pdf/2510.17586" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> DeepEye-SQL: A Software-Engineering-Inspired Text-to-SQL
+Framework
+        </a> 
+        <br>
+        <ins>Boyan Li</ins>, Chong Chen, Zhujun Xue, Yinan Mei, <b>Yuyu Luo</b>
+    </li>
+    <li>
         <a href="https://arxiv.org/pdf/2508.02124" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Trainable Dynamic Mask Sparse Attention
         </a> [<a href="https://github.com/SmallDoges/flash-dmattn">Code</a>]
@@ -67,7 +75,7 @@ Underline indicates students I supervised. Unless required by industry collabora
 
 <ol>
 	 <big><b>Year 2026 </b></big>
-	<li>
+	   <li>
         <a href="https://arxiv.org/pdf/2505.07437" target="_blank">
          <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
         </a> 
@@ -75,6 +83,24 @@ Underline indicates students I supervised. Unless required by industry collabora
         <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
         <br>
         <b>VLDB 2026</b> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
+    </li>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> GPU-Accelerated OLTP: An In-Depth Analysis of Concurrency Control Schemes
+        </a> 
+        <br>
+        <ins>Zihan Sun</ins>, <b>Yuyu Luo</b>, Yong Zhang, Chao Li, Chunxiao Xing
+        <br>
+        <b>ICDE 2026</b> 
+    </li>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Revisiting Single-Table Retrieval: An Open Problem Under 360° Stress Tests
+        </a> 
+        <br>
+        <ins>Chenyu Yang</ins>, Junhao Li, Ziyu Jiang, <b>Yuyu Luo</b>, Ju Fan, Nan Tang
+        <br>
+        <b>ICDE 2026</b> 
     </li>
     <br> 
     <big><b>Year 2025 </b></big>
