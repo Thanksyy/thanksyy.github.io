@@ -39,7 +39,13 @@ Framework
         <br>
         <ins>Yupeng Xie</ins>, <ins>Zhiyang Zhang</ins>, <ins>Yifan Wu</ins>, <ins>Sirong Lu</ins>, <ins>Jiayi Zhang</ins>, Bang Liu, Chenglin Wu, <b>Yuyu Luo</b>
     </li>
- 
+    <li>
+        <a href="https://arxiv.org/abs/2509.21834" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> RobustFlow: Towards Robust Agentic Workflow Generation
+        </a> 
+        <br>
+        Shengxiang Xu, <ins>Zhiyang Zhang</ins>, Shimin Di, <b>Yuyu Luo</b>, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
+    </li>
 </ol>
 
 
