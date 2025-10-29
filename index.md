@@ -33,11 +33,11 @@ Framework
         <ins>Jingze Shi</ins>, <ins>Yifan Wu</ins>, <ins>Bingheng Wu</ins>, Yiran Peng, Liangdong Wang, Guang Liu, <b>Yuyu Luo</b>
     </li>
     <li>
-        <a href="https://arxiv.org/pdf/2505.04671" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards
+        <a href="https://www.arxiv.org/pdf/2510.17586" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> VisJudgeBench: Aesthetics and Quality Assessment of Visualizations
         </a> 
         <br>
-        Yuxin Zhang, Meihao Fan, Ju Fan, Mingyang Yi, <b>Yuyu Luo</b>, Jian Tan, Guoliang Li
+        <ins>Yupeng Xie</ins>, <ins>Zhiyang Zhang</ins>, <ins>Yifan Wu</ins>, <ins>Sirong Lu</ins>, <ins>Jiayi Zhang</ins>, Bang Liu, Chenglin Wu, <b>Yuyu Luo</b>
     </li>
  
 </ol>
@@ -45,6 +45,13 @@ Framework
 
 ## Surveys 
 <ol>
+	<li><i class="fa-solid fa-star"></i>
+        <a href="https://arxiv.org/pdf/2510.23587" target="_blank">
+        A Survey of Data Agents: Emerging Paradigm or Overstated Hype? 
+        </a>
+        <br>
+        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/awesome-data-agents"> Awesome Data Agents</a>]
+    </li>
     <li><i class="fa-solid fa-star"></i>
         <a href="https://arxiv.org/abs/2408.05109" target="_blank">
         A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?
@@ -58,13 +65,6 @@ Framework
         </a>
         <br>
         [<i class="fa-solid fa-book"></i> <a href="https://github.com/FoundationAgents/awesome-foundation-agents">Awesome-Foundation-Agents</a>]
-    </li>
-    <li><i class="fa-solid fa-star"></i>
-        <a href="https://arxiv.org/abs/2408.05109" target="_blank">
-        Awesome-Data-Agents Paper List
-        </a>
-        <br>
-        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/awesome-data-agents">Data Agents Paper-List</a>]
     </li>
 </ol>
 
