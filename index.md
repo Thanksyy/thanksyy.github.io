@@ -33,7 +33,7 @@ Framework
         <ins>Jingze Shi</ins>, <ins>Yifan Wu</ins>, <ins>Bingheng Wu</ins>, Yiran Peng, Liangdong Wang, Guang Liu, <b>Yuyu Luo</b>
     </li>
     <li>
-        <a href="https://www.arxiv.org/pdf/2510.17586" target="_blank">
+        <a href="https://arxiv.org/pdf/2510.22373v1" target="_blank">
          <i class="fa-solid fa-chart-column"></i> VisJudgeBench: Aesthetics and Quality Assessment of Visualizations
         </a> 
         <br>
