@@ -26,25 +26,46 @@ Framework
         <ins>Boyan Li</ins>, Chong Chen, Zhujun Xue, Yinan Mei, <b>Yuyu Luo</b>
     </li>
     <li>
+        <a href="https://arxiv.org/pdf/2511.19304" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning
+        </a> [<a href="https://github.com/FoundationAgents/AutoEnv">Code</a>]
+        <br>
+        <ins>Jiayi Zhang</ins>, <ins>Yiran Peng</ins>, Fanqi Kong, Cheng Yang, <ins>Yifan Wu</ins>, et al., <b>Yuyu Luo</b>
+    </li>
+    <li>
         <a href="https://arxiv.org/pdf/2508.02124" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Trainable Dynamic Mask Sparse Attention
         </a> [<a href="https://github.com/SmallDoges/flash-dmattn">Code</a>]
         <br>
-        <ins>Jingze Shi</ins>, <ins>Yifan Wu</ins>, <ins>Bingheng Wu</ins>, Yiran Peng, Liangdong Wang, Guang Liu, <b>Yuyu Luo</b>
+        <ins>Jingze Shi</ins>, <ins>Yifan Wu</ins>, <ins>Bingheng Wu</ins>, <ins>Yiran Peng</ins>, Liangdong Wang, Guang Liu, <b>Yuyu Luo</b>
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2510.22373v1" target="_blank">
          <i class="fa-solid fa-chart-column"></i> VisJudgeBench: Aesthetics and Quality Assessment of Visualizations
-        </a> 
+        </a> [<a href="https://github.com/HKUSTDial/VisJudgeBench">Code & Data</a>]
         <br>
         <ins>Yupeng Xie</ins>, <ins>Zhiyang Zhang</ins>, <ins>Yifan Wu</ins>, <ins>Sirong Lu</ins>, <ins>Jiayi Zhang</ins>, Bang Liu, Chenglin Wu, <b>Yuyu Luo</b>
     </li>
     <li>
+        <a href="https://arxiv.org/pdf/2510.24668" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> InteractComp: Evaluating Search Agents With Ambiguous Queries
+        </a> [<a href="https://github.com/FoundationAgents/InteractComp">Code & Data</a>]
+        <br>
+        Mingyi Deng, <ins>Lijun Huang</ins>, <ins>Yani Fan</ins>, <ins>Jiayi Zhang</ins>, <ins>Fashen Ren</ins>, et al., <b>Yuyu Luo</b>
+    </li>
+    <li>
         <a href="https://arxiv.org/abs/2509.21834" target="_blank">
          <i class="fa-solid fa-chart-column"></i> RobustFlow: Towards Robust Agentic Workflow Generation
-        </a> 
+        </a> [<a href="https://github.com/DEFENSE-SEU/RobustFlow">Code</a>]
         <br>
         Shengxiang Xu, <ins>Zhiyang Zhang</ins>, Shimin Di, <b>Yuyu Luo</b>, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2510.23564" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> ReCode: Unify Plan and Action for Universal Granularity Control
+        </a> [<a href="https://github.com/FoundationAgents/ReCode">Code</a>]
+        <br>
+        Zhaoyang Yu, <ins>Zhiyang Zhang</ins>, et al., <b>Yuyu Luo</b>, Bang Liu, Chenglin Wu
     </li>
 </ol>
 
