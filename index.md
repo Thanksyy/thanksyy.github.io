@@ -58,14 +58,14 @@ Framework
          <i class="fa-solid fa-chart-column"></i> RobustFlow: Towards Robust Agentic Workflow Generation
         </a> [<a href="https://github.com/DEFENSE-SEU/RobustFlow">Code</a>]
         <br>
-        Shengxiang Xu, <ins>Zhiyang Zhang</ins>, Shimin Di, <b>Yuyu Luo</b>, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
+        Shengxiang Xu, <ins>Jiayi Zhang</ins>, Shimin Di, <b>Yuyu Luo</b>, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2510.23564" target="_blank">
          <i class="fa-solid fa-chart-column"></i> ReCode: Unify Plan and Action for Universal Granularity Control
         </a> [<a href="https://github.com/FoundationAgents/ReCode">Code</a>]
         <br>
-        Zhaoyang Yu, <ins>Zhiyang Zhang</ins>, et al., <b>Yuyu Luo</b>, Bang Liu, Chenglin Wu
+        Zhaoyang Yu, <ins>Jiayi Zhang</ins>, et al., <b>Yuyu Luo</b>, Bang Liu, Chenglin Wu
     </li>
 </ol>
 
