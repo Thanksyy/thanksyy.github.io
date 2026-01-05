@@ -102,7 +102,26 @@ Underline indicates students I supervised. Unless required by industry collabora
 
 <ol>
 	 <big><b>Year 2026 </b></big>
-	   <li>
+	 <li>
+        <a href="./files/SIGMOD26-Tutorial-DataAgents.pdf" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Data Agents: Levels, State of the Art, and Open Problems
+        </a> 
+        <br>
+        <b>Yuyu Luo</b>, Guoliang Li, Ju Fan, Nan Tang.
+        <br>
+        <b>SIGMOD 2026 Tutorial</b> [<a href="https://github.com/HKUSTDial/awesome-data-agents"> Awesome Data Agents</a>]
+    </li>
+	 <li>
+        <a href="https://arxiv.org/pdf/2505.07437" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
+        </a> 
+        <br>
+        <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
+        <br>
+        <b>VLDB 2026</b> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
+    </li>
+
+   <li>
         <a href="https://arxiv.org/pdf/2505.07437" target="_blank">
          <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
         </a> 
