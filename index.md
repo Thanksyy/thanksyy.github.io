@@ -77,7 +77,7 @@ Framework
         A Survey of Data Agents: Emerging Paradigm or Overstated Hype? 
         </a>
         <br>
-        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/awesome-data-agents"> Awesome Data Agents</a>]
+        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/awesome-data-agents">Awesome Data Agents</a>]
     </li>
     <li><i class="fa-solid fa-star"></i>
         <a href="https://arxiv.org/abs/2408.05109" target="_blank">
@@ -109,16 +109,7 @@ Underline indicates students I supervised. Unless required by industry collabora
         <br>
         <b>Yuyu Luo</b>, Guoliang Li, Ju Fan, Nan Tang.
         <br>
-        <b>SIGMOD 2026 Tutorial</b> [<a href="https://github.com/HKUSTDial/awesome-data-agents"> Awesome Data Agents</a>]
-    </li>
-	 <li>
-        <a href="https://arxiv.org/pdf/2505.07437" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
-        </a> 
-        <br>
-        <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
-        <br>
-        <b>VLDB 2026</b> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
+        <b>SIGMOD 2026 Tutorial</b> [<a href="https://github.com/HKUSTDial/awesome-data-agents">Awesome Data Agents</a>]
     </li>
 
    <li>
