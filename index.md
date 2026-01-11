@@ -111,6 +111,15 @@ Underline indicates students I supervised. Unless required by industry collabora
         <br>
         <b>SIGMOD 2026 Tutorial</b> [<a href="https://github.com/HKUSTDial/awesome-data-agents">Awesome Data Agents</a>]
     </li>
+    <li>
+        <a href="./files/SIGMOD_Rec_RAG.pdf" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Retrieval-augmented Generation (RAG): What is There for Data Management Researchers?
+        </a> 
+        <br>
+        Arijit Khan, <b>Yuyu Luo</b>, Wenjie Zhang, Minqi Zhou, Xiaofang Zhou.
+        <br>
+        <b>SIGMOD Record 2026</b>
+    </li>
 
    <li>
         <a href="https://arxiv.org/pdf/2505.07437" target="_blank">
