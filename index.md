@@ -112,13 +112,13 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>SIGMOD 2026 Tutorial</b> [<a href="https://github.com/HKUSTDial/awesome-data-agents">Awesome Data Agents</a>]
     </li>
     <li>
-        <a href="./files/SIGMOD_Rec_RAG.pdf" target="_blank">
+        <a href="https://sigmodrecord.org/publications/sigmodRecord/2512/pdfs/08_OpenForum_Khan.pdf" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Retrieval-augmented Generation (RAG): What is There for Data Management Researchers?
         </a> 
         <br>
         Arijit Khan, <b>Yuyu Luo</b>, Wenjie Zhang, Minqi Zhou, Xiaofang Zhou.
         <br>
-        <b>SIGMOD Record 2026</b>
+        <b>SIGMOD Record</b>
     </li>
 
    <li>
@@ -129,6 +129,15 @@ Underline indicates students I supervised. Unless required by industry collabora
         <ins>Xiaotian Lin</ins>, <ins>Yanlin Qi</ins>, <ins>Yizhang Zhu</ins>, Themis Palpanas, Chengliang Chai, Nan Tang, <b>Yuyu Luo</b>
         <br>
         <b>VLDB 2026</b> [<a href="https://github.com/HKUSTDial/LEAD">Code</a>]
+    </li>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> TACO: A Benchmark for Open-Domain Text-to-SQL with Ambiguous and Cross-Database Queries
+        </a> 
+        <br>
+        <ins>Chao Deng</ins>, Ju Fan, <b>Yuyu Luo</b>, Qinliang Xue, Meihao Fan, Yuxin Zhang, Min Zhang, Xiaofeng Jia, Jing Zhang, Xiaoyong Du
+        <br>
+        <b>VLDB 2026</b> [<a href="https://github.com/Akanezora0/TACO-Benchmark">Data</a>]
     </li>
     <li>
         <a href="#" target="_blank">
@@ -148,6 +157,34 @@ Underline indicates students I supervised. Unless required by industry collabora
         <br>
         <b>ICDE 2026</b> 
     </li>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Debugging Defective Visualizations: Empirical Insights Informing a Human-AI Co‑Debugging System
+        </a> 
+        <br>
+        <ins>Shuyu Shen</ins>, <ins>Sirong Lu</ins>, Leixian Shen, <b>Yuyu Luo</b>
+        <br>
+        <b>ACM CHI 2026</b> 
+    </li>
+    <li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> TableLens: Reviving the Narrative Interplay Between Tables and Text in Scholar Reading
+        </a> 
+        <br>
+        <ins>Liangwei Wang</ins>, <ins>Zhengxuan Zhang</ins>, Yi-Fan Cao, Fugee Tsung, <b>Yuyu Luo</b>
+        <br>
+        <b>ACM CHI 2026</b> 
+    </li>
+	<li>
+        <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> THow Does Empirical Research Facilitate Creation Tool Design? A Data Video Perspective
+        </a> 
+        <br>
+        Leixian Shen, Leni Yang, Haotian Li, Yun Wang, <b>Yuyu Luo</b>, Huamin Qu
+        <br>
+        <b>ACM CHI 2026</b> 
+    </li>
+
     <br> 
     <big><b>Year 2025 </b></big>
     <li>
