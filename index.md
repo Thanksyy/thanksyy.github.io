@@ -175,15 +175,6 @@ Underline indicates students I supervised. Unless required by industry collabora
         <br>
         <b>ACM CHI 2026</b> 
     </li>
-	<li>
-        <a href="#" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> How Does Empirical Research Facilitate Creation Tool Design? A Data Video Perspective
-        </a> 
-        <br>
-        Leixian Shen, Leni Yang, Haotian Li, Yun Wang, <b>Yuyu Luo</b>, Huamin Qu
-        <br>
-        <b>ACM CHI 2026</b> 
-    </li>
 
     <br> 
     <big><b>Year 2025 </b></big>
