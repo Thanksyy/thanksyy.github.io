@@ -177,7 +177,7 @@ Underline indicates students I supervised. Unless required by industry collabora
     </li>
 	<li>
         <a href="#" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> THow Does Empirical Research Facilitate Creation Tool Design? A Data Video Perspective
+         <i class="fa-solid fa-chart-column"></i> How Does Empirical Research Facilitate Creation Tool Design? A Data Video Perspective
         </a> 
         <br>
         Leixian Shen, Leni Yang, Haotian Li, Yun Wang, <b>Yuyu Luo</b>, Huamin Qu
