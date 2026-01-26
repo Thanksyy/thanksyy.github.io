@@ -40,13 +40,6 @@ Framework
         <ins>Jingze Shi</ins>, <ins>Yifan Wu</ins>, <ins>Bingheng Wu</ins>, <ins>Yiran Peng</ins>, Liangdong Wang, Guang Liu, <b>Yuyu Luo</b>
     </li>
     <li>
-        <a href="https://arxiv.org/pdf/2510.22373v1" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> VisJudgeBench: Aesthetics and Quality Assessment of Visualizations
-        </a> [<a href="https://github.com/HKUSTDial/VisJudgeBench">Code & Data</a>]
-        <br>
-        <ins>Yupeng Xie</ins>, <ins>Zhiyang Zhang</ins>, <ins>Yifan Wu</ins>, <ins>Sirong Lu</ins>, <ins>Jiayi Zhang</ins>, Bang Liu, Chenglin Wu, <b>Yuyu Luo</b>
-    </li>
-    <li>
         <a href="https://arxiv.org/pdf/2510.24668" target="_blank">
          <i class="fa-solid fa-chart-column"></i> InteractComp: Evaluating Search Agents With Ambiguous Queries
         </a> [<a href="https://github.com/FoundationAgents/InteractComp">Code & Data</a>]
@@ -138,6 +131,33 @@ Underline indicates students I supervised. Unless required by industry collabora
         <ins>Chao Deng</ins>, Ju Fan, <b>Yuyu Luo</b>, Qinliang Xue, Meihao Fan, Yuxin Zhang, Min Zhang, Xiaofeng Jia, Jing Zhang, Xiaoyong Du
         <br>
         <b>VLDB 2026</b> [<a href="https://github.com/Akanezora0/TACO-Benchmark">Data</a>]
+    </li>
+    <li>
+        <a href="https://arxiv.org/pdf/2510.22373v1" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> VisJudgeBench: Aesthetics and Quality Assessment of Visualizations
+        </a> 
+        <br>
+        <ins>Yupeng Xie</ins>, <ins>Zhiyang Zhang</ins>, <ins>Yifan Wu</ins>, <ins>Sirong Lu</ins>, <ins>Jiayi Zhang</ins>, Bang Liu, Chenglin Wu, <b>Yuyu Luo</b>
+        <br>
+        <b>ICLR 2026</b> [<a href="https://github.com/HKUSTDial/VisJudgeBench">Code & Data</a>]
+    </li>
+    <li>
+        <a href="https://openreview.net/pdf?id=faECRsdRav" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs
+        </a> 
+        <br>
+        <ins>Zhuowen Liang</ins>, <ins>Xiaotian Lin</ins>, <ins>Zhengxuan Zhang</ins>, <b>Yuyu Luo</b>, Haixun Wang, Nan Tang
+        <br>
+        <b>ICLR 2026</b> 
+    </li>
+    <li>
+        <a href="https://openreview.net/pdf?id=OfmurJrzlT" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Beyond Structure: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction
+        </a> 
+        <br>
+        Bin Cao, Yang Liu, Longhan Zhang, <ins>Yifan Wu</ins>, Zhixun Li, <b>Yuyu Luo</b>, Hong Cheng, Yang Ren, Tongyi Zhang
+        <br>
+        <b>ICLR 2026</b> 
     </li>
     <li>
         <a href="#" target="_blank">
