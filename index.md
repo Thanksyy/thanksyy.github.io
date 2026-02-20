@@ -126,6 +126,15 @@ Underline indicates students I supervised. Unless required by industry collabora
     </li>
     <li>
         <a href="#" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> OpenSQL: Data-Efficient Text-to-SQL for Open-Source LLMs via Synthesized Intermediate Supervision
+        </a> 
+        <br>
+        <ins>Ruilin Hu</ins>, <b>Yuyu Luo</b>, Guoliang Li, Shuangqiao, Yun Luo
+        <br>
+        <b>VLDB 2026</b> [<a href="#">Code (coming soon)</a>]
+    </li>
+    <li>
+        <a href="#" target="_blank">
          <i class="fa-solid fa-chart-column"></i> TACO: A Benchmark for Open-Domain Text-to-SQL with Ambiguous and Cross-Database Queries
         </a> 
         <br>
