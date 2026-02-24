@@ -19,14 +19,6 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
 ## Preprints
 <ol>
     <li>
-        <a href="https://www.arxiv.org/pdf/2510.17586" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> DeepEye-SQL: A Software-Engineering-Inspired Text-to-SQL
-Framework
-        </a> 
-        <br>
-        <ins>Boyan Li</ins>, Chong Chen, Zhujun Xue, Yinan Mei, <b>Yuyu Luo</b>
-    </li>
-    <li>
         <a href="https://arxiv.org/pdf/2511.19304" target="_blank">
          <i class="fa-solid fa-chart-column"></i> AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning
         </a> [<a href="https://github.com/FoundationAgents/AutoEnv">Code</a>]
@@ -96,6 +88,22 @@ Underline indicates students I supervised. Unless required by industry collabora
 
 <ol>
 	 <big><b>Year 2026 </b></big>
+     <li>
+        <a href="https://www.arxiv.org/pdf/2510.17586" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> DeepEye-SQL: A Software-Engineering-Inspired Text-to-SQL Framework
+        </a> 
+        <br>
+        <ins>Boyan Li</ins>, Chong Chen, Zhujun Xue, Yinan Mei, <b>Yuyu Luo</b>
+        <br> <b>SIGMOD 2026</b> [<a href="https://bird-bench.github.io/">Code (coming soon), Top 5 in BIRD Leaderboard</a>]
+    </li>
+    <li>
+        <a href="https://arxiv.org/abs/2505.04671" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards
+        </a> 
+        <br>
+        Yuxin Zhang, Meihao Fan, Ju Fan, Mingyang Yi , <b>Yuyu Luo</b>, Guoliang Li, Bin Wu, Wenchao Zhou
+        <br> <b>SIGMOD 2026</b>
+    </li>
 	 <li>
         <a href="./files/SIGMOD26-Tutorial-DataAgents.pdf" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Data Agents: Levels, State of the Art, and Open Problems
@@ -114,7 +122,6 @@ Underline indicates students I supervised. Unless required by industry collabora
         <br>
         <b>SIGMOD Record</b>
     </li>
-
    <li>
         <a href="https://arxiv.org/pdf/2505.07437" target="_blank">
          <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
