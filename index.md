@@ -2,7 +2,7 @@
 
 Yuyu directs the Data Intelligence and Analytics Lab [DIAL @ HKUST(GZ)](https://github.com/HKUSTDial), where the lab's mission is to develop next-generation data intelligence systems through research at the intersection of DATA+AI. Its focus areas include large language models, foundation agents, AI for databases (e.g., Text-to-SQL, Table QA), and data-centric AI.
 
-Yuyu has published over 50 papers in top-tier venues in databases and data mining (SIGMOD, VLDB, KDD, TODS) as well as artificial intelligence (ICML, NeurIPS, ICLR, ACL). He has contributed to or advised several influential DATA+AI projects, including [OpenManus](https://github.com/FoundationAgents/OpenManus), [Text-to-SQL Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook), [Alpha-SQL](https://github.com/HKUSTDial/Alpha-SQL), [AFlow](https://github.com/FoundationAgents/AFlow), [DeepEye](https://deepeye.tech/), and [DeepFund](https://github.com/HKUSTDial/DeepFund). All research projects are open-source and widely used by enterprises such as Huawei, State Grid, ByteDance, Ant Group, and TAL Education. 
+Yuyu has published over 50 papers in top-tier venues in databases and data mining (SIGMOD, VLDB, KDD, TODS) as well as artificial intelligence (ICML, NeurIPS, ICLR, ACL). He has contributed to or advised several influential DATA+AI projects, including [OpenManus](https://github.com/FoundationAgents/OpenManus), [DeepEye](https://deepeye.tech/), [Text-to-SQL Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook), [Alpha-SQL](https://github.com/HKUSTDial/Alpha-SQL), [AFlow](https://github.com/FoundationAgents/AFlow), and [DeepFund](https://github.com/HKUSTDial/DeepFund). All research projects are open-source and widely used by enterprises such as Huawei, State Grid, ByteDance, Ant Group, and TAL Education. 
 
 <hr>
 
@@ -16,70 +16,6 @@ Yuyu has published over 50 papers in top-tier venues in databases and data minin
 请感兴趣的同学将相关申请材料发送至我邮箱，每份邮件和材料均会仔细阅读和评估，更多信息请见<a href="./img/recruitment.pdf">【招生介绍】</a>
 
 
-## Preprints
-<ol>
-    <li>
-        <a href="https://arxiv.org/pdf/2511.19304" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning
-        </a> [<a href="https://github.com/FoundationAgents/AutoEnv">Code</a>]
-        <br>
-        <ins>Jiayi Zhang</ins>, <ins>Yiran Peng</ins>, Fanqi Kong, Cheng Yang, <ins>Yifan Wu</ins>, et al., <b>Yuyu Luo</b>
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2508.02124" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> Trainable Dynamic Mask Sparse Attention
-        </a> [<a href="https://github.com/SmallDoges/flash-dmattn">Code</a>]
-        <br>
-        <ins>Jingze Shi</ins>, <ins>Yifan Wu</ins>, <ins>Bingheng Wu</ins>, <ins>Yiran Peng</ins>, Liangdong Wang, Guang Liu, <b>Yuyu Luo</b>
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2510.24668" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> InteractComp: Evaluating Search Agents With Ambiguous Queries
-        </a> [<a href="https://github.com/FoundationAgents/InteractComp">Code & Data</a>]
-        <br>
-        Mingyi Deng, <ins>Lijun Huang</ins>, <ins>Yani Fan</ins>, <ins>Jiayi Zhang</ins>, <ins>Fashen Ren</ins>, et al., <b>Yuyu Luo</b>
-    </li>
-    <li>
-        <a href="https://arxiv.org/abs/2509.21834" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> RobustFlow: Towards Robust Agentic Workflow Generation
-        </a> [<a href="https://github.com/DEFENSE-SEU/RobustFlow">Code</a>]
-        <br>
-        Shengxiang Xu, <ins>Jiayi Zhang</ins>, Shimin Di, <b>Yuyu Luo</b>, Liang Yao, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang
-    </li>
-    <li>
-        <a href="https://arxiv.org/pdf/2510.23564" target="_blank">
-         <i class="fa-solid fa-chart-column"></i> ReCode: Unify Plan and Action for Universal Granularity Control
-        </a> [<a href="https://github.com/FoundationAgents/ReCode">Code</a>]
-        <br>
-        Zhaoyang Yu, <ins>Jiayi Zhang</ins>, et al., <b>Yuyu Luo</b>, Bang Liu, Chenglin Wu
-    </li>
-</ol>
-
-
-## Surveys 
-<ol>
-	<li><i class="fa-solid fa-star"></i>
-        <a href="https://arxiv.org/pdf/2510.23587" target="_blank">
-        A Survey of Data Agents: Emerging Paradigm or Overstated Hype? 
-        </a>
-        <br>
-        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/awesome-data-agents">Awesome Data Agents</a>]
-    </li>
-    <li><i class="fa-solid fa-star"></i>
-        <a href="https://arxiv.org/abs/2408.05109" target="_blank">
-        A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?
-        </a>
-        <br>
-        [<i class="fa-solid fa-book"></i> <a href="https://github.com/HKUSTDial/NL2SQL_Handbook">NL2SQL Handbook</a>]
-    </li>
-    <li><i class="fa-solid fa-star"></i>
-        <a href="https://arxiv.org/abs/2504.01990" target="_blank">
-        Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems
-        </a>
-        <br>
-        [<i class="fa-solid fa-book"></i> <a href="https://github.com/FoundationAgents/awesome-foundation-agents">Awesome-Foundation-Agents</a>]
-    </li>
-</ol>
 
 ## Selected Publications
 Underline indicates students I supervised. Unless required by industry collaborators, all source code is open-sourced on our <a href="https://github.com/HKUSTDial" target="_blank">
@@ -123,7 +59,7 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>SIGMOD Record</b>
     </li>
    <li>
-        <a href="https://arxiv.org/pdf/2505.07437" target="_blank">
+        <a href="./files/p426-luo-VLDB26-Lead" target="_blank">
          <i class="fa-solid fa-chart-column"></i> LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning
         </a> 
         <br>
@@ -148,6 +84,51 @@ Underline indicates students I supervised. Unless required by industry collabora
         <ins>Chao Deng</ins>, Ju Fan, <b>Yuyu Luo</b>, Qinliang Xue, Meihao Fan, Yuxin Zhang, Min Zhang, Xiaofeng Jia, Jing Zhang, Xiaoyong Du
         <br>
         <b>VLDB 2026</b> [<a href="https://github.com/Akanezora0/TACO-Benchmark">Data</a>]
+    </li>
+    <li>
+        <a href="https://arxiv.org/abs/2602.05711" target="_blank">
+         <i class="fa-solid fa-chart-column"></i>OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale
+        </a> 
+        <br>
+        <ins>Jingze Shi</ins>, <ins>Zhangyang Peng</ins>, <ins>Yizhang Zhu</ins>, <ins>Yizhang Zhu</ins>,Guang Liu, <b>Yuyu Luo</b>
+        <br>
+        <b>ICML 2026</b> 
+    </li>
+    <li>
+        <a href="https://arxiv.org/abs/2602.14296" target="_blank">
+         <i class="fa-solid fa-chart-column"></i>AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines
+        </a> 
+        <br>
+        <ins>Yifan Wu</ins>, <ins>Yiran Peng</ins>, <ins>Yiyu Chen</ins>, et al., <b>Yuyu Luo</b>
+        <br>
+        <b>ICML 2026</b> [<a href="https://evanwu1125.github.io/AWW_homepage/">Code</a>] 
+    </li>
+    <li>
+        <a href="https://arxiv.org/abs/2602.03786" target="_blank">
+         <i class="fa-solid fa-chart-column"></i>AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration
+        </a> 
+        <br>
+        <ins>Jianhao Ruan</ins>, et al., Bang Liu, Chenglin Wu, <b>Yuyu Luo</b>, <ins>Jiayi Zhang</ins>
+        <br>
+        <b>ICML 2026</b>  [<a href="https://github.com/FoundationAgents/AOrchestra">Code</a>]
+    </li>
+    <li>
+        <a href="https://arxiv.org/abs/2510.24668" target="_blank">
+         <i class="fa-solid fa-chart-column"></i>InteractComp: Evaluating Search Agents With Ambiguous Queries
+        </a> 
+        <br>
+        <ins>Mingyi Deng</ins>, <ins>Lijun Huang</ins>, <ins>Yani Fan</ins>, et al., Chenglin Wu, <b>Yuyu Luo</b>
+        <br>
+        <b>ICML 2026</b> 
+    </li>
+    <li>
+        <a href="https://arxiv.org/abs/2603.00656" target="_blank">
+         <i class="fa-solid fa-chart-column"></i>InfoPO: Information-Driven Policy Optimization for User-Centric Agents
+        </a> 
+        <br>
+        Fanqi Kong, <ins>Jiayi Zhang</ins>, et al., Chenglin Wu, <b>Yuyu Luo</b>, Bang Liu.
+        <br>
+        <b>ICML 2026</b> 
     </li>
     <li>
         <a href="https://arxiv.org/pdf/2510.22373v1" target="_blank">
@@ -177,6 +158,24 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>ICLR 2026</b> 
     </li>
     <li>
+        <a href="https://arxiv.org/abs/2604.12988" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> ROSE: An Intent-Centered Evaluation Metric for NL2SQL
+        </a> 
+        <br>
+        <ins>Wenqi Pei</ins>, Shizheng Hou, <ins>Boyan Li</ins>, et al., <b>Yuyu Luo</b>
+        <br>
+        <b>ACL 2026</b> [<a href="https://github.com/CedricPei/ROSE">Code</a>]
+    </li>
+    <li>
+        <a href="https://arxiv.org/abs/2604.15163" target="_blank">
+         <i class="fa-solid fa-chart-column"></i> DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency
+        </a> 
+        <br>
+        <ins>Boyan Li</ins>, <ins>Ou Ocean Kun Hei</ins>, <ins>Yue Yu</ins>, <b>Yuyu Luo</b>
+        <br>
+        <b>ACL 2026</b> [<a href="https://github.com/HKUSTDial/DPC">Code</a>]
+    </li>
+    <li>
         <a href="#" target="_blank">
          <i class="fa-solid fa-chart-column"></i> GPU-Accelerated OLTP: An In-Depth Analysis of Concurrency Control Schemes
         </a> 
@@ -195,7 +194,7 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>ICDE 2026</b> 
     </li>
     <li>
-        <a href="#" target="_blank">
+        <a href="https://dl.acm.org/doi/10.1145/3772318.3791441" target="_blank">
          <i class="fa-solid fa-chart-column"></i> Debugging Defective Visualizations: Empirical Insights Informing a Human-AI Co‑Debugging System
         </a> 
         <br>
@@ -204,7 +203,7 @@ Underline indicates students I supervised. Unless required by industry collabora
         <b>ACM CHI 2026</b> 
     </li>
     <li>
-        <a href="#" target="_blank">
+        <a href="https://dl.acm.org/doi/10.1145/3772318.3791534" target="_blank">
          <i class="fa-solid fa-chart-column"></i> TableLens: Reviving the Narrative Interplay Between Tables and Text in Scholar Reading
         </a> 
         <br>
