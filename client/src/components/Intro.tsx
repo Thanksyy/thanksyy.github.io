@@ -2,39 +2,11 @@ import { useState } from "react";
 import { ArrowUpRight } from "lucide-react";
 import { PROFILE, RESEARCH_INTERESTS, BIO_EN, BIO_ZH, ASSETS } from "@/data/profile";
 
-export function Hero() {
-  const hero = ASSETS.heroLight;
-  return (
-    <section id="top" className="relative scroll-mt-20 overflow-hidden pb-12 pt-12 lg:pt-20">
-      {/* 数据画布背景 */}
-      <div
-        className="pointer-events-none absolute inset-0 -z-10 opacity-[0.18]"
-        style={{
-          backgroundImage: `url(${hero})`,
-          backgroundSize: "cover",
-          backgroundPosition: "right center",
-          maskImage: "linear-gradient(to left, black, transparent 70%)",
-          WebkitMaskImage: "linear-gradient(to left, black, transparent 70%)",
-        }}
-      />
-      <p className="section-eyebrow reveal">DATA + AI · DIAL @ HKUST(GZ)</p>
-      <h1 className="reveal mt-3 max-w-3xl font-display text-4xl font-bold leading-[1.08] sm:text-5xl lg:text-6xl">
-        Building next-generation{" "}
-        <span className="text-primary">data intelligence</span> systems.
-      </h1>
-      <p className="reveal mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground">
-        {PROFILE.tagline} I work at the intersection of data management and machine learning —
-        foundation agents, data agents, AI for databases, and data-centric AI.
-      </p>
-    </section>
-  );
-}
-
 export function About() {
   const [lang, setLang] = useState<"en" | "zh">("en");
   const bio = lang === "en" ? BIO_EN : BIO_ZH;
   return (
-    <section id="about" className="scroll-mt-20 border-t border-border py-14">
+    <section id="about" className="scroll-mt-20 pb-14 pt-10 lg:pt-16">
       <div className="reveal flex items-center justify-between gap-4">
         <div>
           <p className="section-eyebrow">// about</p>
