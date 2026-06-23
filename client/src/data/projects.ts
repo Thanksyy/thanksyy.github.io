@@ -21,33 +21,37 @@ export const PROJECTS: Project[] = [
   },
   {
     name: "DeepEye",
-    desc: "A data science system for automatic data visualization and exploration — a pioneering data agent.",
-    url: "https://deepeye.tech/",
+    desc: "An autonomous data agent system for automatic data visualization and exploration — a pioneering data agent.",
+    url: "https://github.com/HKUSTDial/DeepEye",
     tags: ["Data Agent", "Visualization", "System"],
-  },
-  {
-    name: "Text-to-SQL Handbook",
-    desc: "A comprehensive handbook surveying the state of the art and open problems of NL2SQL.",
-    url: "https://github.com/HKUSTDial/NL2SQL_Handbook",
-    tags: ["Text-to-SQL", "Survey", "Resource"],
-  },
-  {
-    name: "Alpha-SQL",
-    desc: "Zero-shot Text-to-SQL using Monte Carlo Tree Search, without any task-specific fine-tuning.",
-    url: "https://github.com/HKUSTDial/Alpha-SQL",
-    tags: ["Text-to-SQL", "LLM", "MCTS"],
-  },
-  {
-    name: "AFlow",
-    desc: "Automating agentic workflow generation via Monte Carlo Tree Search over code-represented workflows.",
-    url: "https://github.com/FoundationAgents/AFlow",
-    tags: ["Agentic Workflow", "Automation", "LLM"],
   },
   {
     name: "DeepFund",
     desc: "A live benchmark for evaluating LLM agents on real-time fund investment, free of look-ahead bias.",
     url: "https://github.com/HKUSTDial/DeepFund",
     tags: ["Agent", "Benchmark", "Finance"],
+    highlight: "NeurIPS'25",
+  },
+  {
+    name: "Flash-Sparse-Attention",
+    desc: "A trainable, fast, and memory-efficient sparse attention library that scales Transformers to extremely long sequences.",
+    url: "https://github.com/HKUSTDial/flash-sparse-attention",
+    tags: ["LLM", "Efficient AI", "Attention"],
+    highlight: "700+ GitHub stars",
+  },
+  {
+    name: "Supervisor-Skills",
+    desc: "Your AI research co-advisor — distilling a decade of PhD-supervision experience into callable skills, from idea to paper submission.",
+    url: "https://github.com/HKUSTDial/Supervisor-Skills",
+    tags: ["AI Agent", "Research", "Skills"],
+    highlight: "3k+ GitHub stars",
+  },
+  {
+    name: "Alpha-SQL",
+    desc: "Zero-shot Text-to-SQL using Monte Carlo Tree Search, without any task-specific fine-tuning.",
+    url: "https://github.com/HKUSTDial/Alpha-SQL",
+    tags: ["Text-to-SQL", "LLM", "MCTS"],
+    highlight: "ICML'25",
   },
 ];
 

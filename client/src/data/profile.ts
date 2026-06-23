@@ -72,7 +72,7 @@ export const RESEARCH_INTERESTS: { title: string; desc: string }[] = [
 
 export const BIO_EN = [
   "Yuyu directs the Data Intelligence and Analytics Lab (DIAL @ HKUST(GZ)), where the lab's mission is to develop next-generation data intelligence systems through research at the intersection of DATA+AI. Its focus areas include large language models, foundation agents, AI for databases (e.g., Text-to-SQL, Table QA), and data-centric AI.",
-  "Yuyu has published over 50 papers in top-tier venues in databases and data mining (SIGMOD, VLDB, KDD, TODS) as well as artificial intelligence (ICML, NeurIPS, ICLR, ACL). He has contributed to or advised several influential DATA+AI projects, including OpenManus, DeepEye, Text-to-SQL Handbook, Alpha-SQL, AFlow, and DeepFund. All research projects are open-source and widely used by enterprises such as Huawei, State Grid, ByteDance, Ant Group, and TAL Education.",
+  "Yuyu has published over 50 papers in top-tier venues in databases and data mining (SIGMOD, VLDB, KDD, TODS) as well as artificial intelligence (ICML, NeurIPS, ICLR, ACL). He has contributed to or advised several influential DATA+AI projects, including OpenManus, DeepEye, DeepFund, Flash-Sparse-Attention, Supervisor-Skills, and Alpha-SQL. All research projects are open-source and widely used by enterprises such as Huawei, State Grid, ByteDance, Ant Group, and TAL Education.",
 ];
 
 export const BIO_ZH = [

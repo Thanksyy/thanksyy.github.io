@@ -5,7 +5,7 @@ import { PROFILE, ASSETS, RECRUITMENT_EN, RECRUITMENT_ZH } from "@/data/profile"
 
 export function Projects() {
   return (
-    <section id="projects" className="scroll-mt-20 border-t border-border py-14">
+    <section id="projects" className="scroll-mt-20 py-14">
       <div className="reveal">
         <p className="section-eyebrow">// open source</p>
         <h2 className="mt-1 font-display text-3xl font-bold">Featured Projects</h2>

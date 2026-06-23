@@ -4,7 +4,6 @@ import { PROFILE, ASSETS } from "@/data/profile";
 
 const NAV = [
   { id: "about", label: "About" },
-  { id: "research", label: "Research" },
   { id: "projects", label: "Projects" },
   { id: "publications", label: "Publications" },
   { id: "awards", label: "Awards" },
@@ -113,18 +112,18 @@ export default function Sidebar() {
           <p className="mt-2 font-medium text-gold">{PROFILE.title}</p>
         </div>
 
-        <div className="mt-3 space-y-2 text-sm text-muted-foreground">
+        <div className="mt-3 w-full min-w-0 space-y-2 text-sm text-muted-foreground">
           <p className="flex items-start gap-2">
             <GraduationCap className="mt-0.5 h-4 w-4 flex-shrink-0 text-primary" />
-            <span>{PROFILE.affiliations.join(", ")}</span>
+            <span className="min-w-0 break-words">{PROFILE.affiliations.join(", ")}</span>
           </p>
           <p className="flex items-center gap-2">
             <MapPin className="h-4 w-4 flex-shrink-0 text-primary" />
-            <span>{PROFILE.office}</span>
+            <span className="min-w-0 break-words">{PROFILE.office}</span>
           </p>
           <a href={PROFILE.emailHref} className="flex items-center gap-2 hover:text-gold">
             <Mail className="h-4 w-4 flex-shrink-0 text-primary" />
-            <span className="font-mono text-[13px]">{PROFILE.email}</span>
+            <span className="min-w-0 break-all font-mono text-[12.5px]">{PROFILE.email}</span>
           </a>
         </div>
 
