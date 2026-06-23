@@ -51,13 +51,6 @@ export default function Sidebar() {
       >
         <Github className="h-[18px] w-[18px]" />
       </a>
-      <a
-        href={PROFILE.emailHref}
-        aria-label="Email"
-        className="hover-lift flex h-9 w-9 items-center justify-center rounded-md border border-border bg-card text-foreground hover:border-gold hover:text-gold"
-      >
-        <Mail className="h-[18px] w-[18px]" />
-      </a>
     </div>
   );
 
@@ -101,25 +94,24 @@ export default function Sidebar() {
       {/* 桌面端 sticky 侧栏 */}
       <aside className="hidden lg:flex lg:h-screen lg:w-[340px] lg:flex-shrink-0 lg:flex-col lg:sticky lg:top-0 lg:overflow-y-auto border-r border-border bg-card/40 px-8 py-10">
         <button onClick={() => handleNav("top")} className="mb-6 flex items-center gap-2.5 self-start">
-          <img src={ASSETS.logo} alt="YL logo" className="h-9 w-9" />
+          <img src={ASSETS.logo} alt="DIAL Lab logo" className="h-10 w-10" />
           <span className="font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground">
             DIAL Lab
           </span>
         </button>
 
-        <div className="relative mb-6 w-full">
+        <div className="mb-6 flex flex-col items-center text-center">
           <img
             src={ASSETS.avatar}
             alt="Yuyu Luo"
             className="aspect-square w-44 rounded-2xl object-cover ring-1 ring-border"
           />
+          <h1 className="mt-5 font-display text-3xl font-bold leading-tight">
+            {PROFILE.name}
+          </h1>
+          <p className="mt-0.5 text-sm text-muted-foreground">{PROFILE.nameZh}</p>
+          <p className="mt-2 font-medium text-gold">{PROFILE.title}</p>
         </div>
-
-        <h1 className="font-display text-3xl font-bold leading-tight">
-          {PROFILE.name}
-        </h1>
-        <p className="mt-0.5 text-sm text-muted-foreground">{PROFILE.nameZh}</p>
-        <p className="mt-3 font-medium text-gold">{PROFILE.title}</p>
 
         <div className="mt-3 space-y-2 text-sm text-muted-foreground">
           <p className="flex items-start gap-2">
