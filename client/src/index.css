@@ -1,0 +1,213 @@
+/**
+ * Yuyu Luo 学术主页 — 全局样式
+ * 设计：Data Canvas + HKUST 蓝金（UST Blue #003366 / UST Gold #996600）
+ * 字体：Space Grotesk（标题）/ Inter（正文）/ JetBrains Mono（元信息）
+ */
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-gold: var(--gold);
+  --color-gold-foreground: var(--gold-foreground);
+  --color-teal: var(--teal);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  --ease-out-quart: cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+/* ============ Light theme (HKUST blue/gold on warm off-white) ============ */
+:root {
+  --radius: 0.5rem;
+  --background: oklch(0.985 0.004 95);
+  --foreground: oklch(0.22 0.03 250);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.22 0.03 250);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.22 0.03 250);
+  /* UST Blue #003366 */
+  --primary: oklch(0.33 0.09 256);
+  --primary-foreground: oklch(0.98 0.01 95);
+  --secondary: oklch(0.95 0.006 250);
+  --secondary-foreground: oklch(0.33 0.09 256);
+  --muted: oklch(0.95 0.005 250);
+  --muted-foreground: oklch(0.5 0.02 256);
+  --accent: oklch(0.93 0.02 256);
+  --accent-foreground: oklch(0.3 0.08 256);
+  /* UST Gold #996600 -> a touch brighter for contrast */
+  --gold: oklch(0.62 0.12 75);
+  --gold-foreground: oklch(0.99 0.01 95);
+  --teal: oklch(0.58 0.1 200);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.985 0 0);
+  --border: oklch(0.9 0.008 250);
+  --input: oklch(0.9 0.008 250);
+  --ring: oklch(0.33 0.09 256);
+  --chart-1: oklch(0.33 0.09 256);
+  --chart-2: oklch(0.62 0.12 75);
+  --chart-3: oklch(0.58 0.1 200);
+  --chart-4: oklch(0.5 0.08 256);
+  --chart-5: oklch(0.7 0.1 75);
+  --grid-dot: oklch(0.55 0.02 256 / 0.12);
+}
+
+/* ============ Dark theme (deep navy + gold + teal glow) ============ */
+.dark {
+  --background: oklch(0.18 0.03 256);
+  --foreground: oklch(0.9 0.01 230);
+  --card: oklch(0.22 0.035 256);
+  --card-foreground: oklch(0.9 0.01 230);
+  --popover: oklch(0.21 0.035 256);
+  --popover-foreground: oklch(0.9 0.01 230);
+  --primary: oklch(0.62 0.1 240);
+  --primary-foreground: oklch(0.99 0.005 230);
+  --secondary: oklch(0.27 0.03 256);
+  --secondary-foreground: oklch(0.88 0.01 230);
+  --muted: oklch(0.27 0.03 256);
+  --muted-foreground: oklch(0.68 0.02 245);
+  --accent: oklch(0.3 0.04 256);
+  --accent-foreground: oklch(0.92 0.01 230);
+  --gold: oklch(0.78 0.11 80);
+  --gold-foreground: oklch(0.18 0.03 256);
+  --teal: oklch(0.72 0.12 195);
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-foreground: oklch(0.985 0 0);
+  --border: oklch(0.4 0.03 250 / 0.45);
+  --input: oklch(0.5 0.03 250 / 0.3);
+  --ring: oklch(0.62 0.1 240);
+  --chart-1: oklch(0.62 0.1 240);
+  --chart-2: oklch(0.78 0.11 80);
+  --chart-3: oklch(0.72 0.12 195);
+  --chart-4: oklch(0.7 0.08 240);
+  --chart-5: oklch(0.82 0.09 80);
+  --grid-dot: oklch(0.7 0.05 220 / 0.1);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+  .font-mono {
+    font-family: var(--font-mono);
+  }
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  a[href] {
+    @apply cursor-pointer;
+  }
+  ::selection {
+    background: var(--gold);
+    color: var(--gold-foreground);
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+}
+
+@layer components {
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .flex {
+    min-height: 0;
+    min-width: 0;
+  }
+  @media (min-width: 1024px) {
+    .container {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      max-width: 1280px;
+    }
+  }
+
+  /* 数据画布点阵背景 */
+  .dot-grid {
+    background-image: radial-gradient(var(--grid-dot) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+
+  /* 区块标题前的数据节点装饰 */
+  .section-eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+
+  /* 卡片悬浮上移 + 强调描边 */
+  .hover-lift {
+    transition: transform 0.22s var(--ease-out-quart),
+      border-color 0.22s var(--ease-out-quart),
+      box-shadow 0.22s var(--ease-out-quart);
+  }
+  .hover-lift:hover {
+    transform: translateY(-3px);
+  }
+
+  /* 进入视口淡入上移 */
+  .reveal {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 0.6s var(--ease-out-quart), transform 0.6s var(--ease-out-quart);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}

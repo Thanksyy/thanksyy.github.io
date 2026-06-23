@@ -1,0 +1,168 @@
+import { useState } from "react";
+import { Mail, MapPin, GraduationCap, Github, Menu, X, FileText } from "lucide-react";
+import { PROFILE, ASSETS } from "@/data/profile";
+
+const NAV = [
+  { id: "about", label: "About" },
+  { id: "research", label: "Research" },
+  { id: "projects", label: "Projects" },
+  { id: "publications", label: "Publications" },
+  { id: "awards", label: "Awards" },
+  { id: "students", label: "Students" },
+  { id: "services", label: "Services" },
+  { id: "join", label: "Join the Lab" },
+];
+
+// Google Scholar 图标（lucide 无此图标，用内联 SVG）
+function ScholarIcon({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" className={className} aria-hidden="true">
+      <path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z" />
+    </svg>
+  );
+}
+
+export default function Sidebar() {
+  const [open, setOpen] = useState(false);
+
+  const handleNav = (id: string) => {
+    setOpen(false);
+    const el = document.getElementById(id);
+    if (el) el.scrollIntoView({ behavior: "smooth" });
+  };
+
+  const socials = (
+    <div className="flex items-center gap-2">
+      <a
+        href={PROFILE.links.scholar}
+        target="_blank"
+        rel="noreferrer"
+        aria-label="Google Scholar"
+        className="hover-lift flex h-9 w-9 items-center justify-center rounded-md border border-border bg-card text-foreground hover:border-gold hover:text-gold"
+      >
+        <ScholarIcon className="h-[18px] w-[18px]" />
+      </a>
+      <a
+        href={PROFILE.links.github}
+        target="_blank"
+        rel="noreferrer"
+        aria-label="GitHub"
+        className="hover-lift flex h-9 w-9 items-center justify-center rounded-md border border-border bg-card text-foreground hover:border-gold hover:text-gold"
+      >
+        <Github className="h-[18px] w-[18px]" />
+      </a>
+      <a
+        href={PROFILE.emailHref}
+        aria-label="Email"
+        className="hover-lift flex h-9 w-9 items-center justify-center rounded-md border border-border bg-card text-foreground hover:border-gold hover:text-gold"
+      >
+        <Mail className="h-[18px] w-[18px]" />
+      </a>
+    </div>
+  );
+
+  return (
+    <>
+      {/* 移动端顶栏 */}
+      <header className="sticky top-0 z-40 flex items-center justify-between border-b border-border bg-background/85 px-4 py-3 backdrop-blur-md lg:hidden">
+        <button onClick={() => handleNav("top")} className="flex items-center gap-2">
+          <img src={ASSETS.logo} alt="logo" className="h-8 w-8" />
+          <span className="font-display text-lg font-bold">Yuyu Luo</span>
+        </button>
+        <div className="flex items-center gap-1.5">
+          <button
+            onClick={() => setOpen((v) => !v)}
+            aria-label="Menu"
+            className="flex h-9 w-9 items-center justify-center rounded-md border border-border"
+          >
+            {open ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+          </button>
+        </div>
+      </header>
+
+      {/* 移动端抽屉导航 */}
+      {open && (
+        <nav className="sticky top-[57px] z-30 border-b border-border bg-background/95 px-4 py-3 backdrop-blur-md lg:hidden">
+          <ul className="grid grid-cols-2 gap-1">
+            {NAV.map((n) => (
+              <li key={n.id}>
+                <button
+                  onClick={() => handleNav(n.id)}
+                  className="w-full rounded-md px-3 py-2 text-left text-sm text-muted-foreground hover:bg-accent hover:text-foreground"
+                >
+                  {n.label}
+                </button>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
+
+      {/* 桌面端 sticky 侧栏 */}
+      <aside className="hidden lg:flex lg:h-screen lg:w-[340px] lg:flex-shrink-0 lg:flex-col lg:sticky lg:top-0 lg:overflow-y-auto border-r border-border bg-card/40 px-8 py-10">
+        <button onClick={() => handleNav("top")} className="mb-6 flex items-center gap-2.5 self-start">
+          <img src={ASSETS.logo} alt="YL logo" className="h-9 w-9" />
+          <span className="font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground">
+            DIAL Lab
+          </span>
+        </button>
+
+        <div className="relative mb-6 w-full">
+          <img
+            src={ASSETS.avatar}
+            alt="Yuyu Luo"
+            className="aspect-square w-44 rounded-2xl object-cover ring-1 ring-border"
+          />
+        </div>
+
+        <h1 className="font-display text-3xl font-bold leading-tight">
+          {PROFILE.name}
+        </h1>
+        <p className="mt-0.5 text-sm text-muted-foreground">{PROFILE.nameZh}</p>
+        <p className="mt-3 font-medium text-gold">{PROFILE.title}</p>
+
+        <div className="mt-3 space-y-2 text-sm text-muted-foreground">
+          <p className="flex items-start gap-2">
+            <GraduationCap className="mt-0.5 h-4 w-4 flex-shrink-0 text-primary" />
+            <span>{PROFILE.affiliations.join(", ")}</span>
+          </p>
+          <p className="flex items-center gap-2">
+            <MapPin className="h-4 w-4 flex-shrink-0 text-primary" />
+            <span>{PROFILE.office}</span>
+          </p>
+          <a href={PROFILE.emailHref} className="flex items-center gap-2 hover:text-gold">
+            <Mail className="h-4 w-4 flex-shrink-0 text-primary" />
+            <span className="font-mono text-[13px]">{PROFILE.email}</span>
+          </a>
+        </div>
+
+        <div className="my-5">{socials}</div>
+
+        <a
+          href={ASSETS.recruitmentPdf}
+          target="_blank"
+          rel="noreferrer"
+          className="hover-lift mb-6 inline-flex items-center justify-center gap-2 rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:opacity-90"
+        >
+          <FileText className="h-4 w-4" /> Recruitment / 招生介绍
+        </a>
+
+        <nav className="mt-auto">
+          <ul className="space-y-0.5">
+            {NAV.map((n) => (
+              <li key={n.id}>
+                <button
+                  onClick={() => handleNav(n.id)}
+                  className="group flex w-full items-center gap-2 rounded-md px-3 py-2 text-left text-sm text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+                >
+                  <span className="h-1.5 w-1.5 rounded-full bg-border transition-colors group-hover:bg-gold" />
+                  {n.label}
+                </button>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </aside>
+    </>
+  );
+}
