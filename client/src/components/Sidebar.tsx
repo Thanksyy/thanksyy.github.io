@@ -138,8 +138,9 @@ export default function Sidebar() {
         </div>
       )}
 
-      {/* 桌面端 sticky 侧栏 */}
-      <aside className="hidden lg:flex lg:h-screen lg:w-[340px] lg:min-w-[340px] lg:max-w-[340px] lg:flex-shrink-0 lg:flex-grow-0 lg:flex-col lg:sticky lg:top-0 lg:overflow-y-auto border-r border-border bg-card/40 px-8 py-10">
+      {/* 桌面端 sticky 侧栏：外层负责 sticky+定宽，内层负责滚动，避免缩放下 sticky+overflow 合成错位 */}
+      <aside className="hidden lg:block lg:h-screen lg:w-[340px] lg:min-w-[340px] lg:max-w-[340px] lg:flex-shrink-0 lg:flex-grow-0 lg:sticky lg:top-0 border-r border-border bg-card">
+        <div className="flex h-full max-h-screen flex-col overflow-y-auto overscroll-contain px-8 py-10">
         <button onClick={() => handleNav("top")} className="mb-6 flex items-center gap-2.5 self-start">
           <img src={ASSETS.logo} alt="DIAL Lab logo" className="h-10 w-10" />
           <span className="font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground">
@@ -201,6 +202,7 @@ export default function Sidebar() {
             ))}
           </ul>
         </nav>
+        </div>
       </aside>
     </>
   );
