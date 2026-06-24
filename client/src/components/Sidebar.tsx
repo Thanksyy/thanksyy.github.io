@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Mail, MapPin, GraduationCap, Github, Menu, X, FileText } from "lucide-react";
+import { MapPin, GraduationCap, Github, Menu, X, FileText } from "lucide-react";
 import { PROFILE, ASSETS } from "@/data/profile";
 
 const NAV = [
@@ -100,10 +100,7 @@ export default function Sidebar() {
                 <MapPin className="h-4 w-4 flex-shrink-0 text-primary" />
                 <span className="min-w-0 break-words">{PROFILE.office}</span>
               </p>
-              <a href={PROFILE.emailHref} className="flex items-center gap-2 hover:text-gold">
-                <Mail className="h-4 w-4 flex-shrink-0 text-primary" />
-                <span className="min-w-0 break-all font-mono text-[12.5px]">{PROFILE.email}</span>
-              </a>
+
             </div>
 
             {/* 招生按钮 + 社交 */}
@@ -148,33 +145,31 @@ export default function Sidebar() {
           </span>
         </button>
 
-        <div className="mb-6 flex w-full min-w-0 flex-col items-center text-center">
-          <img
-            src={ASSETS.avatar}
-            alt="Yuyu Luo"
-            className="aspect-square w-44 max-w-full rounded-2xl object-cover ring-1 ring-border"
-          />
-          <h1 className="mt-5 w-full font-display text-3xl font-bold leading-tight">
-            {PROFILE.name}
-          </h1>
-          <p className="mt-0.5 text-sm text-muted-foreground">{PROFILE.nameZh}</p>
-          <p className="mt-2 font-medium text-gold">{PROFILE.title}</p>
-        </div>
+        <section className="mb-6">
+          <div className="mb-4 text-center">
+            <img
+              src={ASSETS.avatar}
+              alt="Yuyu Luo"
+              className="mx-auto aspect-square w-44 rounded-2xl object-cover ring-1 ring-border"
+            />
+          </div>
+          <div className="text-center">
+            <h1 className="font-display text-3xl font-bold leading-tight">{PROFILE.name}</h1>
+            <p className="mt-0.5 text-sm text-muted-foreground">{PROFILE.nameZh}</p>
+            <p className="mt-2 font-medium text-gold">{PROFILE.title}</p>
+          </div>
+        </section>
 
-        <div className="mt-3 w-full min-w-0 space-y-2 text-sm text-muted-foreground">
-          <p className="flex items-start gap-2">
+        <section className="mb-4 space-y-2 text-sm text-muted-foreground">
+          <div className="flex items-start gap-2">
             <GraduationCap className="mt-0.5 h-4 w-4 flex-shrink-0 text-primary" />
-            <span className="min-w-0 break-words">{PROFILE.affiliations.join(", ")}</span>
-          </p>
-          <p className="flex items-center gap-2">
+            <span>{PROFILE.affiliations.join(", ")}</span>
+          </div>
+          <div className="flex items-center gap-2">
             <MapPin className="h-4 w-4 flex-shrink-0 text-primary" />
-            <span className="min-w-0 break-words">{PROFILE.office}</span>
-          </p>
-          <a href={PROFILE.emailHref} className="flex items-center gap-2 hover:text-gold">
-            <Mail className="h-4 w-4 flex-shrink-0 text-primary" />
-            <span className="min-w-0 break-all font-mono text-[12.5px]">{PROFILE.email}</span>
-          </a>
-        </div>
+            <span>{PROFILE.office}</span>
+          </div>
+        </section>
 
         <div className="my-5">{socials}</div>
 
