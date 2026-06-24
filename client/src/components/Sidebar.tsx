@@ -139,7 +139,7 @@ export default function Sidebar() {
       )}
 
       {/* 桌面端 sticky 侧栏 */}
-      <aside className="hidden lg:flex lg:h-screen lg:w-[340px] lg:flex-shrink-0 lg:flex-col lg:sticky lg:top-0 lg:overflow-y-auto border-r border-border bg-card/40 px-8 py-10">
+      <aside className="hidden lg:flex lg:h-screen lg:w-[340px] lg:min-w-[340px] lg:max-w-[340px] lg:flex-shrink-0 lg:flex-grow-0 lg:flex-col lg:sticky lg:top-0 lg:overflow-y-auto border-r border-border bg-card/40 px-8 py-10">
         <button onClick={() => handleNav("top")} className="mb-6 flex items-center gap-2.5 self-start">
           <img src={ASSETS.logo} alt="DIAL Lab logo" className="h-10 w-10" />
           <span className="font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground">
@@ -147,13 +147,13 @@ export default function Sidebar() {
           </span>
         </button>
 
-        <div className="mb-6 flex flex-col items-center text-center">
+        <div className="mb-6 flex w-full min-w-0 flex-col items-center text-center">
           <img
             src={ASSETS.avatar}
             alt="Yuyu Luo"
-            className="aspect-square w-44 rounded-2xl object-cover ring-1 ring-border"
+            className="aspect-square w-44 max-w-full rounded-2xl object-cover ring-1 ring-border"
           />
-          <h1 className="mt-5 font-display text-3xl font-bold leading-tight">
+          <h1 className="mt-5 w-full font-display text-3xl font-bold leading-tight">
             {PROFILE.name}
           </h1>
           <p className="mt-0.5 text-sm text-muted-foreground">{PROFILE.nameZh}</p>
